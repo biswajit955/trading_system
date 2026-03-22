@@ -1,0 +1,1954 @@
+2026-03-17 10:20:26,669 | INFO | ITC.NS -> 314 candles | last close ₹306.75
+2026-03-17 10:20:26,673 | INFO | ITC.NS -> signal=HOLD | price=₹306.75 | ema_fast=306.53 | ema_slow=306.65 | rsi=52.7
+2026-03-17 10:25:28,027 | INFO | NIFTY trend: BULL | price=23558 | ema20=23464
+2026-03-17 10:25:28,027 | INFO | NIFTY trend: BULL
+2026-03-17 10:25:28,142 | INFO | HDFCBANK.NS -> 315 candles | last close ₹845.95
+2026-03-17 10:25:28,144 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹845.95 | ema_fast=844.03 | ema_slow=841.56 | rsi=68.2
+2026-03-17 10:25:28,265 | INFO | ICICIBANK.NS -> 315 candles | last close ₹1287.20
+2026-03-17 10:25:28,268 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1287.2 | ema_fast=1285.55 | ema_slow=1280.60 | rsi=72.9
+2026-03-17 10:25:28,511 | INFO | SBIN.NS -> 315 candles | last close ₹1058.10
+2026-03-17 10:25:28,514 | INFO | SBIN.NS -> signal=HOLD | price=₹1058.1 | ema_fast=1058.63 | ema_slow=1059.29 | rsi=48.0
+2026-03-17 10:25:28,622 | INFO | AXISBANK.NS -> 315 candles | last close ₹1223.50
+2026-03-17 10:25:28,624 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1223.5 | ema_fast=1219.47 | ema_slow=1216.33 | rsi=69.0
+2026-03-17 10:25:28,886 | INFO | KOTAKBANK.NS -> 315 candles | last close ₹373.50
+2026-03-17 10:25:28,890 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.5 | ema_fast=372.19 | ema_slow=371.08 | rsi=69.0
+2026-03-17 10:25:29,013 | INFO | INDUSINDBK.NS -> 315 candles | last close ₹822.50
+2026-03-17 10:25:29,016 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹822.5 | ema_fast=818.95 | ema_slow=818.88 | rsi=58.8
+2026-03-17 10:25:29,136 | INFO | BAJFINANCE.NS -> 315 candles | last close ₹880.30
+2026-03-17 10:25:29,138 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹880.3 | ema_fast=877.45 | ema_slow=875.94 | rsi=63.6
+2026-03-17 10:25:29,283 | INFO | TCS.NS -> 315 candles | last close ₹2383.00
+2026-03-17 10:25:29,289 | INFO | TCS.NS -> signal=HOLD | price=₹2383.0 | ema_fast=2381.07 | ema_slow=2383.50 | rsi=48.5
+2026-03-17 10:25:29,451 | INFO | INFY.NS -> 315 candles | last close ₹1232.80
+2026-03-17 10:25:29,455 | INFO | INFY.NS -> signal=HOLD | price=₹1232.8 | ema_fast=1230.85 | ema_slow=1232.31 | rsi=49.7
+2026-03-17 10:25:29,652 | INFO | TECHM.NS -> 315 candles | last close ₹1328.00
+2026-03-17 10:25:29,655 | INFO | TECHM.NS -> signal=HOLD | price=₹1328.0 | ema_fast=1329.18 | ema_slow=1329.82 | rsi=46.8
+2026-03-17 10:25:29,816 | INFO | RELIANCE.NS -> 315 candles | last close ₹1400.00
+2026-03-17 10:25:29,820 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1400.0 | ema_fast=1400.01 | ema_slow=1397.73 | rsi=58.6
+2026-03-17 10:25:30,000 | INFO | TATASTEEL.NS -> 315 candles | last close ₹192.53
+2026-03-17 10:25:30,003 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹192.53 | ema_fast=191.76 | ema_slow=190.03 | rsi=76.8
+2026-03-17 10:25:30,132 | INFO | VEDL.NS -> 315 candles | last close ₹695.05
+2026-03-17 10:25:30,135 | INFO | VEDL.NS -> signal=HOLD | price=₹695.05 | ema_fast=690.23 | ema_slow=687.62 | rsi=69.0
+2026-03-17 10:25:30,292 | INFO | LT.NS -> 315 candles | last close ₹3499.00
+2026-03-17 10:25:30,296 | INFO | LT.NS -> signal=HOLD | price=₹3499.0 | ema_fast=3494.44 | ema_slow=3483.07 | rsi=65.9
+2026-03-17 10:25:30,444 | INFO | ITC.NS -> 315 candles | last close ₹306.80
+2026-03-17 10:25:30,447 | INFO | ITC.NS -> signal=HOLD | price=₹306.8 | ema_fast=306.59 | ema_slow=306.66 | rsi=53.3
+2026-03-17 10:30:32,382 | INFO | NIFTY trend: BULL | price=23494 | ema20=23462
+2026-03-17 10:30:32,382 | INFO | NIFTY trend: BULL
+2026-03-17 10:30:32,680 | INFO | HDFCBANK.NS -> 316 candles | last close ₹843.20
+2026-03-17 10:30:32,682 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.2 | ema_fast=843.49 | ema_slow=841.52 | rsi=58.1
+2026-03-17 10:30:32,996 | INFO | ICICIBANK.NS -> 316 candles | last close ₹1284.30
+2026-03-17 10:30:32,999 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1284.3 | ema_fast=1284.93 | ema_slow=1280.75 | rsi=64.0
+2026-03-17 10:30:33,294 | INFO | SBIN.NS -> 316 candles | last close ₹1052.30
+2026-03-17 10:30:33,297 | INFO | SBIN.NS -> signal=HOLD | price=₹1052.3 | ema_fast=1056.53 | ema_slow=1058.23 | rsi=38.4
+2026-03-17 10:30:33,593 | INFO | AXISBANK.NS -> 316 candles | last close ₹1220.10
+2026-03-17 10:30:33,595 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1220.1 | ema_fast=1219.20 | ema_slow=1216.46 | rsi=60.3
+2026-03-17 10:30:33,920 | INFO | KOTAKBANK.NS -> 316 candles | last close ₹372.25
+2026-03-17 10:30:33,924 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.25 | ema_fast=372.08 | ema_slow=371.12 | rsi=59.5
+2026-03-17 10:30:34,219 | INFO | INDUSINDBK.NS -> 316 candles | last close ₹817.60
+2026-03-17 10:30:34,221 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹817.6 | ema_fast=817.96 | ema_slow=818.39 | rsi=47.7
+2026-03-17 10:30:34,531 | INFO | BAJFINANCE.NS -> 316 candles | last close ₹874.70
+2026-03-17 10:30:34,534 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹874.7 | ema_fast=876.28 | ema_slow=875.51 | rsi=49.2
+2026-03-17 10:30:34,839 | INFO | TCS.NS -> 316 candles | last close ₹2378.40
+2026-03-17 10:30:34,842 | INFO | TCS.NS -> signal=HOLD | price=₹2378.4 | ema_fast=2379.76 | ema_slow=2382.63 | rsi=44.7
+2026-03-17 10:30:35,138 | INFO | INFY.NS -> 316 candles | last close ₹1231.40
+2026-03-17 10:30:35,141 | INFO | INFY.NS -> signal=HOLD | price=₹1231.4 | ema_fast=1230.62 | ema_slow=1232.05 | rsi=48.2
+2026-03-17 10:30:35,440 | INFO | TECHM.NS -> 316 candles | last close ₹1329.00
+2026-03-17 10:30:35,442 | INFO | TECHM.NS -> signal=HOLD | price=₹1329.0 | ema_fast=1328.71 | ema_slow=1329.52 | rsi=48.8
+2026-03-17 10:30:35,757 | INFO | RELIANCE.NS -> 316 candles | last close ₹1400.00
+2026-03-17 10:30:35,762 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1400.0 | ema_fast=1400.15 | ema_slow=1398.01 | rsi=58.2
+2026-03-17 10:30:36,063 | INFO | TATASTEEL.NS -> 316 candles | last close ₹192.05
+2026-03-17 10:30:36,066 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹192.05 | ema_fast=191.80 | ema_slow=190.20 | rsi=71.1
+2026-03-17 10:30:36,405 | INFO | VEDL.NS -> 316 candles | last close ₹691.10
+2026-03-17 10:30:36,409 | INFO | VEDL.NS -> signal=HOLD | price=₹691.1 | ema_fast=689.85 | ema_slow=687.65 | rsi=58.6
+2026-03-17 10:30:36,719 | INFO | LT.NS -> 316 candles | last close ₹3477.00
+2026-03-17 10:30:36,721 | INFO | LT.NS -> signal=HOLD | price=₹3477.0 | ema_fast=3487.90 | ema_slow=3480.94 | rsi=49.9
+2026-03-17 10:30:37,017 | INFO | ITC.NS -> 316 candles | last close ₹306.10
+2026-03-17 10:30:37,020 | INFO | ITC.NS -> signal=HOLD | price=₹306.1 | ema_fast=306.41 | ema_slow=306.57 | rsi=44.3
+2026-03-17 10:35:38,321 | INFO | NIFTY trend: NEUTRAL | price=23476 | ema20=23461
+2026-03-17 10:35:38,321 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 10:35:38,495 | INFO | HDFCBANK.NS -> 317 candles | last close ₹841.00
+2026-03-17 10:35:38,497 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹841.0 | ema_fast=842.62 | ema_slow=841.28 | rsi=51.6
+2026-03-17 10:35:38,650 | INFO | ICICIBANK.NS -> 317 candles | last close ₹1283.60
+2026-03-17 10:35:38,654 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1283.6 | ema_fast=1284.45 | ema_slow=1280.90 | rsi=61.5
+2026-03-17 10:35:38,842 | INFO | SBIN.NS -> 317 candles | last close ₹1052.90
+2026-03-17 10:35:38,845 | INFO | SBIN.NS -> signal=HOLD | price=₹1052.9 | ema_fast=1055.84 | ema_slow=1057.76 | rsi=39.6
+2026-03-17 10:35:38,956 | INFO | AXISBANK.NS -> 317 candles | last close ₹1217.50
+2026-03-17 10:35:38,959 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1217.5 | ema_fast=1218.38 | ema_slow=1216.31 | rsi=54.7
+2026-03-17 10:35:39,114 | INFO | KOTAKBANK.NS -> 317 candles | last close ₹371.70
+2026-03-17 10:35:39,118 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.7 | ema_fast=371.92 | ema_slow=371.13 | rsi=55.9
+2026-03-17 10:35:39,231 | INFO | INDUSINDBK.NS -> 317 candles | last close ₹813.85
+2026-03-17 10:35:39,234 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹813.85 | ema_fast=816.64 | ema_slow=817.73 | rsi=41.3
+2026-03-17 10:35:39,343 | INFO | BAJFINANCE.NS -> 317 candles | last close ₹871.25
+2026-03-17 10:35:39,346 | INFO | BAJFINANCE.NS -> signal=SELL | price=₹871.25 | ema_fast=874.78 | ema_slow=874.87 | rsi=42.9
+2026-03-17 10:35:39,346 | INFO | BAJFINANCE.NS -> SELL signal but no open position
+2026-03-17 10:35:39,568 | INFO | TCS.NS -> 317 candles | last close ₹2377.00
+2026-03-17 10:35:39,572 | INFO | TCS.NS -> signal=HOLD | price=₹2377.0 | ema_fast=2378.96 | ema_slow=2382.00 | rsi=43.5
+2026-03-17 10:35:39,750 | INFO | INFY.NS -> 317 candles | last close ₹1230.80
+2026-03-17 10:35:39,752 | INFO | INFY.NS -> signal=HOLD | price=₹1230.8 | ema_fast=1230.66 | ema_slow=1231.94 | rsi=47.4
+2026-03-17 10:35:39,865 | INFO | TECHM.NS -> 317 candles | last close ₹1331.40
+2026-03-17 10:35:39,867 | INFO | TECHM.NS -> signal=HOLD | price=₹1331.4 | ema_fast=1329.58 | ema_slow=1329.86 | rsi=51.8
+2026-03-17 10:35:40,012 | INFO | RELIANCE.NS -> 317 candles | last close ₹1398.00
+2026-03-17 10:35:40,016 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1398.0 | ema_fast=1399.55 | ema_slow=1397.92 | rsi=53.2
+2026-03-17 10:35:40,171 | INFO | TATASTEEL.NS -> 317 candles | last close ₹192.00
+2026-03-17 10:35:40,175 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹192.0 | ema_fast=191.85 | ema_slow=190.37 | rsi=70.4
+2026-03-17 10:35:40,288 | INFO | VEDL.NS -> 317 candles | last close ₹691.20
+2026-03-17 10:35:40,290 | INFO | VEDL.NS -> signal=HOLD | price=₹691.2 | ema_fast=690.04 | ema_slow=687.93 | rsi=58.5
+2026-03-17 10:35:40,401 | INFO | LT.NS -> 317 candles | last close ₹3482.00
+2026-03-17 10:35:40,404 | INFO | LT.NS -> signal=HOLD | price=₹3482.0 | ema_fast=3487.45 | ema_slow=3481.41 | rsi=52.9
+2026-03-17 10:35:40,555 | INFO | ITC.NS -> 317 candles | last close ₹305.90
+2026-03-17 10:35:40,559 | INFO | ITC.NS -> signal=HOLD | price=₹305.9 | ema_fast=306.29 | ema_slow=306.50 | rsi=42.1
+2026-03-17 10:40:41,899 | INFO | NIFTY trend: NEUTRAL | price=23484 | ema20=23465
+2026-03-17 10:40:41,899 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 10:40:42,157 | INFO | HDFCBANK.NS -> 318 candles | last close ₹842.80
+2026-03-17 10:40:42,161 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹842.8 | ema_fast=842.95 | ema_slow=841.57 | rsi=55.8
+2026-03-17 10:40:42,292 | INFO | ICICIBANK.NS -> 318 candles | last close ₹1282.70
+2026-03-17 10:40:42,295 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1282.7 | ema_fast=1284.02 | ema_slow=1281.02 | rsi=59.5
+2026-03-17 10:40:42,425 | INFO | SBIN.NS -> 318 candles | last close ₹1053.30
+2026-03-17 10:40:42,427 | INFO | SBIN.NS -> signal=HOLD | price=₹1053.3 | ema_fast=1055.51 | ema_slow=1057.44 | rsi=41.0
+2026-03-17 10:40:42,870 | INFO | AXISBANK.NS -> 318 candles | last close ₹1220.00
+2026-03-17 10:40:42,873 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1220.0 | ema_fast=1219.16 | ema_slow=1216.89 | rsi=58.2
+2026-03-17 10:40:43,008 | INFO | KOTAKBANK.NS -> 318 candles | last close ₹372.10
+2026-03-17 10:40:43,011 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.1 | ema_fast=372.03 | ema_slow=371.26 | rsi=57.7
+2026-03-17 10:40:43,168 | INFO | INDUSINDBK.NS -> 318 candles | last close ₹814.55
+2026-03-17 10:40:43,172 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹814.55 | ema_fast=816.50 | ema_slow=817.58 | rsi=42.9
+2026-03-17 10:40:43,330 | INFO | BAJFINANCE.NS -> 318 candles | last close ₹870.00
+2026-03-17 10:40:43,332 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹870.0 | ema_fast=873.53 | ema_slow=874.27 | rsi=41.3
+2026-03-17 10:40:43,462 | INFO | TCS.NS -> 318 candles | last close ₹2377.00
+2026-03-17 10:40:43,465 | INFO | TCS.NS -> signal=HOLD | price=₹2377.0 | ema_fast=2378.92 | ema_slow=2381.72 | rsi=43.9
+2026-03-17 10:40:43,693 | INFO | INFY.NS -> 318 candles | last close ₹1234.90
+2026-03-17 10:40:43,697 | INFO | INFY.NS -> signal=HOLD | price=₹1234.9 | ema_fast=1232.18 | ema_slow=1232.56 | rsi=52.7
+2026-03-17 10:40:43,824 | INFO | TECHM.NS -> 318 candles | last close ₹1331.90
+2026-03-17 10:40:43,827 | INFO | TECHM.NS -> signal=HOLD | price=₹1331.9 | ema_fast=1330.30 | ema_slow=1330.18 | rsi=52.2
+2026-03-17 10:40:43,988 | INFO | RELIANCE.NS -> 318 candles | last close ₹1399.00
+2026-03-17 10:40:43,991 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.0 | ema_fast=1399.60 | ema_slow=1398.10 | rsi=55.6
+2026-03-17 10:40:44,149 | INFO | TATASTEEL.NS -> 318 candles | last close ₹191.93
+2026-03-17 10:40:44,153 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.93 | ema_fast=191.90 | ema_slow=190.53 | rsi=68.7
+2026-03-17 10:40:44,269 | INFO | VEDL.NS -> 318 candles | last close ₹689.60
+2026-03-17 10:40:44,272 | INFO | VEDL.NS -> signal=HOLD | price=₹689.6 | ema_fast=689.98 | ema_slow=688.10 | rsi=54.5
+2026-03-17 10:40:44,412 | INFO | LT.NS -> 318 candles | last close ₹3478.80
+2026-03-17 10:40:44,416 | INFO | LT.NS -> signal=HOLD | price=₹3478.8 | ema_fast=3485.63 | ema_slow=3481.13 | rsi=50.7
+2026-03-17 10:40:44,644 | INFO | ITC.NS -> 318 candles | last close ₹305.85
+2026-03-17 10:40:44,646 | INFO | ITC.NS -> signal=HOLD | price=₹305.85 | ema_fast=306.20 | ema_slow=306.44 | rsi=41.6
+2026-03-17 10:45:45,950 | INFO | NIFTY trend: NEUTRAL | price=23486 | ema20=23467
+2026-03-17 10:45:45,950 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 10:45:46,127 | INFO | HDFCBANK.NS -> 319 candles | last close ₹842.70
+2026-03-17 10:45:46,131 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹842.7 | ema_fast=842.84 | ema_slow=841.64 | rsi=55.4
+2026-03-17 10:45:46,254 | INFO | ICICIBANK.NS -> 319 candles | last close ₹1281.50
+2026-03-17 10:45:46,257 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1281.5 | ema_fast=1283.26 | ema_slow=1280.93 | rsi=56.1
+2026-03-17 10:45:46,380 | INFO | SBIN.NS -> 319 candles | last close ₹1052.60
+2026-03-17 10:45:46,383 | INFO | SBIN.NS -> signal=HOLD | price=₹1052.6 | ema_fast=1054.81 | ema_slow=1056.95 | rsi=39.9
+2026-03-17 10:45:46,563 | INFO | AXISBANK.NS -> 319 candles | last close ₹1222.00
+2026-03-17 10:45:46,567 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1222.0 | ema_fast=1220.00 | ema_slow=1217.49 | rsi=61.3
+2026-03-17 10:45:46,801 | INFO | KOTAKBANK.NS -> 319 candles | last close ₹372.40
+2026-03-17 10:45:46,804 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.4 | ema_fast=372.12 | ema_slow=371.37 | rsi=59.4
+2026-03-17 10:45:46,937 | INFO | INDUSINDBK.NS -> 319 candles | last close ₹813.70
+2026-03-17 10:45:46,941 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹813.7 | ema_fast=815.92 | ema_slow=817.22 | rsi=41.4
+2026-03-17 10:45:47,096 | INFO | BAJFINANCE.NS -> 319 candles | last close ₹870.10
+2026-03-17 10:45:47,101 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹870.1 | ema_fast=872.96 | ema_slow=873.95 | rsi=41.9
+2026-03-17 10:45:47,222 | INFO | TCS.NS -> 319 candles | last close ₹2379.70
+2026-03-17 10:45:47,224 | INFO | TCS.NS -> signal=HOLD | price=₹2379.7 | ema_fast=2379.25 | ema_slow=2381.63 | rsi=46.7
+2026-03-17 10:45:47,360 | INFO | INFY.NS -> 319 candles | last close ₹1236.10
+2026-03-17 10:45:47,363 | INFO | INFY.NS -> signal=HOLD | price=₹1236.1 | ema_fast=1232.99 | ema_slow=1232.89 | rsi=54.3
+2026-03-17 10:45:47,525 | INFO | TECHM.NS -> 319 candles | last close ₹1333.90
+2026-03-17 10:45:47,529 | INFO | TECHM.NS -> signal=HOLD | price=₹1333.9 | ema_fast=1331.18 | ema_slow=1330.60 | rsi=54.8
+2026-03-17 10:45:47,652 | INFO | RELIANCE.NS -> 319 candles | last close ₹1399.40
+2026-03-17 10:45:47,654 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.4 | ema_fast=1399.61 | ema_slow=1398.24 | rsi=56.5
+2026-03-17 10:45:47,778 | INFO | TATASTEEL.NS -> 319 candles | last close ₹192.23
+2026-03-17 10:45:47,781 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹192.23 | ema_fast=192.00 | ema_slow=190.70 | rsi=71.5
+2026-03-17 10:45:47,954 | INFO | VEDL.NS -> 319 candles | last close ₹692.00
+2026-03-17 10:45:47,958 | INFO | VEDL.NS -> signal=HOLD | price=₹692.0 | ema_fast=690.61 | ema_slow=688.57 | rsi=59.8
+2026-03-17 10:45:48,100 | INFO | LT.NS -> 319 candles | last close ₹3477.20
+2026-03-17 10:45:48,103 | INFO | LT.NS -> signal=HOLD | price=₹3477.2 | ema_fast=3483.78 | ema_slow=3480.69 | rsi=49.6
+2026-03-17 10:45:48,229 | INFO | ITC.NS -> 319 candles | last close ₹305.95
+2026-03-17 10:45:48,232 | INFO | ITC.NS -> signal=HOLD | price=₹305.95 | ema_fast=306.17 | ema_slow=306.40 | rsi=42.9
+2026-03-17 10:50:49,538 | INFO | NIFTY trend: BULL | price=23524 | ema20=23475
+2026-03-17 10:50:49,538 | INFO | NIFTY trend: BULL
+2026-03-17 10:50:49,714 | INFO | HDFCBANK.NS -> 320 candles | last close ₹843.00
+2026-03-17 10:50:49,718 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.0 | ema_fast=843.01 | ema_slow=841.83 | rsi=55.7
+2026-03-17 10:50:49,897 | INFO | ICICIBANK.NS -> 320 candles | last close ₹1284.00
+2026-03-17 10:50:49,900 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1284.0 | ema_fast=1283.63 | ema_slow=1281.33 | rsi=60.8
+2026-03-17 10:50:50,058 | INFO | SBIN.NS -> 320 candles | last close ₹1055.60
+2026-03-17 10:50:50,063 | INFO | SBIN.NS -> signal=HOLD | price=₹1055.6 | ema_fast=1055.40 | ema_slow=1057.05 | rsi=46.6
+2026-03-17 10:50:50,213 | INFO | AXISBANK.NS -> 320 candles | last close ₹1225.70
+2026-03-17 10:50:50,217 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1225.7 | ema_fast=1221.56 | ema_slow=1218.45 | rsi=66.0
+2026-03-17 10:50:50,338 | INFO | KOTAKBANK.NS -> 320 candles | last close ₹373.50
+2026-03-17 10:50:50,341 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.5 | ema_fast=372.54 | ema_slow=371.64 | rsi=64.4
+2026-03-17 10:50:50,560 | INFO | INDUSINDBK.NS -> 320 candles | last close ₹815.80
+2026-03-17 10:50:50,563 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹815.8 | ema_fast=816.26 | ema_slow=817.28 | rsi=45.8
+2026-03-17 10:50:50,706 | INFO | BAJFINANCE.NS -> 320 candles | last close ₹870.60
+2026-03-17 10:50:50,709 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹870.6 | ema_fast=872.57 | ema_slow=873.69 | rsi=42.7
+2026-03-17 10:50:50,861 | INFO | TCS.NS -> 320 candles | last close ₹2389.00
+2026-03-17 10:50:50,864 | INFO | TCS.NS -> signal=HOLD | price=₹2389.0 | ema_fast=2382.69 | ema_slow=2383.07 | rsi=55.3
+2026-03-17 10:50:51,022 | INFO | INFY.NS -> 320 candles | last close ₹1240.00
+2026-03-17 10:50:51,027 | INFO | INFY.NS -> signal=HOLD | price=₹1240.0 | ema_fast=1235.15 | ema_slow=1233.93 | rsi=58.4
+2026-03-17 10:50:51,188 | INFO | TECHM.NS -> 320 candles | last close ₹1341.30
+2026-03-17 10:50:51,192 | INFO | TECHM.NS -> signal=HOLD | price=₹1341.3 | ema_fast=1334.33 | ema_slow=1332.15 | rsi=62.6
+2026-03-17 10:50:51,313 | INFO | RELIANCE.NS -> 320 candles | last close ₹1401.40
+2026-03-17 10:50:51,316 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1401.4 | ema_fast=1400.20 | ema_slow=1398.65 | rsi=60.8
+2026-03-17 10:50:51,449 | INFO | TATASTEEL.NS -> 320 candles | last close ₹191.95
+2026-03-17 10:50:51,453 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.95 | ema_fast=191.96 | ema_slow=190.80 | rsi=68.7
+2026-03-17 10:50:51,626 | INFO | VEDL.NS -> 320 candles | last close ₹692.80
+2026-03-17 10:50:51,630 | INFO | VEDL.NS -> signal=HOLD | price=₹692.8 | ema_fast=691.22 | ema_slow=689.04 | rsi=60.8
+2026-03-17 10:50:51,757 | INFO | LT.NS -> 320 candles | last close ₹3483.40
+2026-03-17 10:50:51,759 | INFO | LT.NS -> signal=HOLD | price=₹3483.4 | ema_fast=3484.91 | ema_slow=3481.55 | rsi=53.5
+2026-03-17 10:50:51,893 | INFO | ITC.NS -> 320 candles | last close ₹306.10
+2026-03-17 10:50:51,897 | INFO | ITC.NS -> signal=HOLD | price=₹306.1 | ema_fast=306.14 | ema_slow=306.37 | rsi=45.7
+2026-03-17 10:55:53,420 | INFO | NIFTY trend: BULL | price=23529 | ema20=23480
+2026-03-17 10:55:53,420 | INFO | NIFTY trend: BULL
+2026-03-17 10:55:53,826 | INFO | HDFCBANK.NS -> 321 candles | last close ₹842.00
+2026-03-17 10:55:53,833 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹842.0 | ema_fast=842.64 | ema_slow=841.76 | rsi=52.8
+2026-03-17 10:55:53,975 | INFO | ICICIBANK.NS -> 321 candles | last close ₹1283.80
+2026-03-17 10:55:53,978 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1283.8 | ema_fast=1283.73 | ema_slow=1281.59 | rsi=59.8
+2026-03-17 10:55:54,227 | INFO | SBIN.NS -> 321 candles | last close ₹1054.90
+2026-03-17 10:55:54,229 | INFO | SBIN.NS -> signal=HOLD | price=₹1054.9 | ema_fast=1055.13 | ema_slow=1056.76 | rsi=45.4
+2026-03-17 10:55:54,376 | INFO | AXISBANK.NS -> 321 candles | last close ₹1227.50
+2026-03-17 10:55:54,379 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1227.5 | ema_fast=1222.89 | ema_slow=1219.35 | rsi=68.1
+2026-03-17 10:55:54,538 | INFO | KOTAKBANK.NS -> 321 candles | last close ₹373.05
+2026-03-17 10:55:54,541 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.05 | ema_fast=372.56 | ema_slow=371.72 | rsi=61.4
+2026-03-17 10:55:54,711 | INFO | INDUSINDBK.NS -> 321 candles | last close ₹815.95
+2026-03-17 10:55:54,715 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹815.95 | ema_fast=816.11 | ema_slow=817.11 | rsi=46.5
+2026-03-17 10:55:54,851 | INFO | BAJFINANCE.NS -> 321 candles | last close ₹871.15
+2026-03-17 10:55:54,853 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹871.15 | ema_fast=872.27 | ema_slow=873.45 | rsi=44.2
+2026-03-17 10:55:54,998 | INFO | TCS.NS -> 321 candles | last close ₹2389.80
+2026-03-17 10:55:55,001 | INFO | TCS.NS -> signal=HOLD | price=₹2389.8 | ema_fast=2384.11 | ema_slow=2383.68 | rsi=56.0
+2026-03-17 10:55:55,401 | INFO | INFY.NS -> 321 candles | last close ₹1239.50
+2026-03-17 10:55:55,404 | INFO | INFY.NS -> signal=HOLD | price=₹1239.5 | ema_fast=1235.91 | ema_slow=1234.38 | rsi=57.6
+2026-03-17 10:55:55,537 | INFO | TECHM.NS -> 321 candles | last close ₹1341.90
+2026-03-17 10:55:55,541 | INFO | TECHM.NS -> signal=HOLD | price=₹1341.9 | ema_fast=1335.95 | ema_slow=1333.10 | rsi=63.0
+2026-03-17 10:55:55,704 | INFO | RELIANCE.NS -> 321 candles | last close ₹1400.00
+2026-03-17 10:55:55,708 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1400.0 | ema_fast=1399.91 | ema_slow=1398.64 | rsi=56.9
+2026-03-17 10:55:56,208 | INFO | TATASTEEL.NS -> 321 candles | last close ₹192.35
+2026-03-17 10:55:56,211 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹192.35 | ema_fast=192.06 | ema_slow=190.95 | rsi=71.9
+2026-03-17 10:55:56,349 | INFO | VEDL.NS -> 321 candles | last close ₹694.80
+2026-03-17 10:55:56,352 | INFO | VEDL.NS -> signal=HOLD | price=₹694.8 | ema_fast=692.06 | ema_slow=689.63 | rsi=64.6
+2026-03-17 10:55:56,587 | INFO | LT.NS -> 321 candles | last close ₹3489.80
+2026-03-17 10:55:56,591 | INFO | LT.NS -> signal=HOLD | price=₹3489.8 | ema_fast=3486.30 | ema_slow=3482.52 | rsi=57.6
+2026-03-17 10:55:56,849 | INFO | ITC.NS -> 321 candles | last close ₹306.35
+2026-03-17 10:55:56,853 | INFO | ITC.NS -> signal=HOLD | price=₹306.35 | ema_fast=306.19 | ema_slow=306.37 | rsi=49.7
+2026-03-17 11:00:58,235 | INFO | NIFTY trend: BULL | price=23516 | ema20=23483
+2026-03-17 11:00:58,235 | INFO | NIFTY trend: BULL
+2026-03-17 11:00:58,354 | INFO | HDFCBANK.NS -> 322 candles | last close ₹842.95
+2026-03-17 11:00:58,357 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹842.95 | ema_fast=842.87 | ema_slow=841.96 | rsi=55.1
+2026-03-17 11:00:58,514 | INFO | ICICIBANK.NS -> 322 candles | last close ₹1281.50
+2026-03-17 11:00:58,519 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1281.5 | ema_fast=1283.27 | ema_slow=1281.57 | rsi=53.7
+2026-03-17 11:00:58,679 | INFO | SBIN.NS -> 322 candles | last close ₹1053.70
+2026-03-17 11:00:58,683 | INFO | SBIN.NS -> signal=HOLD | price=₹1053.7 | ema_fast=1054.74 | ema_slow=1056.43 | rsi=43.0
+2026-03-17 11:00:58,822 | INFO | AXISBANK.NS -> 322 candles | last close ₹1225.40
+2026-03-17 11:00:58,825 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1225.4 | ema_fast=1223.23 | ema_slow=1219.82 | rsi=64.1
+2026-03-17 11:00:58,945 | INFO | KOTAKBANK.NS -> 322 candles | last close ₹373.30
+2026-03-17 11:00:58,948 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.3 | ema_fast=372.78 | ema_slow=371.91 | rsi=61.7
+2026-03-17 11:00:59,173 | INFO | INDUSINDBK.NS -> 322 candles | last close ₹815.30
+2026-03-17 11:00:59,177 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹815.3 | ema_fast=815.86 | ema_slow=816.90 | rsi=45.0
+2026-03-17 11:00:59,296 | INFO | BAJFINANCE.NS -> 322 candles | last close ₹870.10
+2026-03-17 11:00:59,298 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹870.1 | ema_fast=871.72 | ema_slow=873.09 | rsi=41.7
+2026-03-17 11:00:59,422 | INFO | TCS.NS -> 322 candles | last close ₹2392.50
+2026-03-17 11:00:59,425 | INFO | TCS.NS -> signal=HOLD | price=₹2392.5 | ema_fast=2386.06 | ema_slow=2384.62 | rsi=58.3
+2026-03-17 11:00:59,596 | INFO | INFY.NS -> 322 candles | last close ₹1238.10
+2026-03-17 11:00:59,600 | INFO | INFY.NS -> signal=HOLD | price=₹1238.1 | ema_fast=1236.12 | ema_slow=1234.60 | rsi=55.5
+2026-03-17 11:00:59,793 | INFO | TECHM.NS -> 322 candles | last close ₹1341.40
+2026-03-17 11:00:59,795 | INFO | TECHM.NS -> signal=HOLD | price=₹1341.4 | ema_fast=1336.93 | ema_slow=1333.79 | rsi=62.1
+2026-03-17 11:00:59,925 | INFO | RELIANCE.NS -> 322 candles | last close ₹1399.40
+2026-03-17 11:00:59,931 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.4 | ema_fast=1399.69 | ema_slow=1398.65 | rsi=55.2
+2026-03-17 11:01:00,086 | INFO | TATASTEEL.NS -> 322 candles | last close ₹192.37
+2026-03-17 11:01:00,090 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹192.37 | ema_fast=192.15 | ema_slow=191.10 | rsi=70.3
+2026-03-17 11:01:00,205 | INFO | VEDL.NS -> 322 candles | last close ₹695.45
+2026-03-17 11:01:00,208 | INFO | VEDL.NS -> signal=HOLD | price=₹695.45 | ema_fast=692.77 | ema_slow=690.17 | rsi=65.7
+2026-03-17 11:01:00,342 | INFO | LT.NS -> 322 candles | last close ₹3492.90
+2026-03-17 11:01:00,345 | INFO | LT.NS -> signal=HOLD | price=₹3492.9 | ema_fast=3488.64 | ema_slow=3483.99 | rsi=58.4
+2026-03-17 11:01:00,578 | INFO | ITC.NS -> 322 candles | last close ₹306.70
+2026-03-17 11:01:00,581 | INFO | ITC.NS -> signal=HOLD | price=₹306.7 | ema_fast=306.34 | ema_slow=306.42 | rsi=54.5
+2026-03-17 11:06:01,905 | INFO | NIFTY trend: BULL | price=23522 | ema20=23487
+2026-03-17 11:06:01,905 | INFO | NIFTY trend: BULL
+2026-03-17 11:06:02,066 | INFO | HDFCBANK.NS -> 323 candles | last close ₹842.35
+2026-03-17 11:06:02,070 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹842.35 | ema_fast=842.68 | ema_slow=841.95 | rsi=53.3
+2026-03-17 11:06:02,320 | INFO | ICICIBANK.NS -> 323 candles | last close ₹1281.90
+2026-03-17 11:06:02,323 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1281.9 | ema_fast=1283.00 | ema_slow=1281.60 | rsi=54.5
+2026-03-17 11:06:02,453 | INFO | SBIN.NS -> 323 candles | last close ₹1054.00
+2026-03-17 11:06:02,456 | INFO | SBIN.NS -> signal=HOLD | price=₹1054.0 | ema_fast=1054.61 | ema_slow=1056.22 | rsi=43.7
+2026-03-17 11:06:02,612 | INFO | AXISBANK.NS -> 323 candles | last close ₹1226.40
+2026-03-17 11:06:02,617 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1226.4 | ema_fast=1223.85 | ema_slow=1220.41 | rsi=65.4
+2026-03-17 11:06:02,863 | INFO | KOTAKBANK.NS -> 323 candles | last close ₹373.30
+2026-03-17 11:06:02,866 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.3 | ema_fast=372.88 | ema_slow=372.03 | rsi=61.6
+2026-03-17 11:06:03,088 | INFO | INDUSINDBK.NS -> 323 candles | last close ₹814.05
+2026-03-17 11:06:03,093 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹814.05 | ema_fast=815.19 | ema_slow=816.48 | rsi=43.1
+2026-03-17 11:06:03,342 | INFO | BAJFINANCE.NS -> 323 candles | last close ₹870.75
+2026-03-17 11:06:03,345 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹870.75 | ema_fast=871.58 | ema_slow=872.90 | rsi=43.4
+2026-03-17 11:06:03,479 | INFO | TCS.NS -> 323 candles | last close ₹2393.30
+2026-03-17 11:06:03,482 | INFO | TCS.NS -> signal=HOLD | price=₹2393.3 | ema_fast=2387.33 | ema_slow=2385.32 | rsi=59.1
+2026-03-17 11:06:03,658 | INFO | INFY.NS -> 323 candles | last close ₹1239.60
+2026-03-17 11:06:03,662 | INFO | INFY.NS -> signal=HOLD | price=₹1239.6 | ema_fast=1236.94 | ema_slow=1235.12 | rsi=57.4
+2026-03-17 11:06:03,815 | INFO | TECHM.NS -> 323 candles | last close ₹1347.70
+2026-03-17 11:06:03,817 | INFO | TECHM.NS -> signal=HOLD | price=₹1347.7 | ema_fast=1339.24 | ema_slow=1335.14 | rsi=68.0
+2026-03-17 11:06:03,953 | INFO | RELIANCE.NS -> 323 candles | last close ₹1399.70
+2026-03-17 11:06:03,955 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.7 | ema_fast=1399.68 | ema_slow=1398.74 | rsi=56.0
+2026-03-17 11:06:04,120 | INFO | TATASTEEL.NS -> 323 candles | last close ₹192.45
+2026-03-17 11:06:04,124 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹192.45 | ema_fast=192.22 | ema_slow=191.22 | rsi=71.0
+2026-03-17 11:06:04,363 | INFO | VEDL.NS -> 323 candles | last close ₹695.05
+2026-03-17 11:06:04,366 | INFO | VEDL.NS -> signal=HOLD | price=₹695.05 | ema_fast=693.02 | ema_slow=690.51 | rsi=64.1
+2026-03-17 11:06:04,611 | INFO | LT.NS -> 323 candles | last close ₹3495.90
+2026-03-17 11:06:04,613 | INFO | LT.NS -> signal=HOLD | price=₹3495.9 | ema_fast=3490.56 | ema_slow=3485.31 | rsi=60.8
+2026-03-17 11:06:04,760 | INFO | ITC.NS -> 323 candles | last close ₹306.65
+2026-03-17 11:06:04,763 | INFO | ITC.NS -> signal=HOLD | price=₹306.65 | ema_fast=306.37 | ema_slow=306.43 | rsi=53.7
+2026-03-17 11:11:06,720 | INFO | NIFTY trend: NEUTRAL | price=23496 | ema20=23485
+2026-03-17 11:11:06,720 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 11:11:07,025 | INFO | HDFCBANK.NS -> 324 candles | last close ₹841.50
+2026-03-17 11:11:07,027 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹841.5 | ema_fast=842.26 | ema_slow=841.81 | rsi=50.8
+2026-03-17 11:11:07,397 | INFO | ICICIBANK.NS -> 324 candles | last close ₹1281.40
+2026-03-17 11:11:07,401 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1281.4 | ema_fast=1282.66 | ema_slow=1281.57 | rsi=53.2
+2026-03-17 11:11:07,741 | INFO | SBIN.NS -> 324 candles | last close ₹1052.50
+2026-03-17 11:11:07,744 | INFO | SBIN.NS -> signal=HOLD | price=₹1052.5 | ema_fast=1053.81 | ema_slow=1055.68 | rsi=41.5
+2026-03-17 11:11:08,045 | INFO | AXISBANK.NS -> 324 candles | last close ₹1224.40
+2026-03-17 11:11:08,048 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1224.4 | ema_fast=1223.54 | ema_slow=1220.56 | rsi=61.2
+2026-03-17 11:11:08,373 | INFO | KOTAKBANK.NS -> 324 candles | last close ₹372.40
+2026-03-17 11:11:08,378 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.4 | ema_fast=372.58 | ema_slow=371.96 | rsi=55.0
+2026-03-17 11:11:08,681 | INFO | INDUSINDBK.NS -> 324 candles | last close ₹813.95
+2026-03-17 11:11:08,683 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹813.95 | ema_fast=814.90 | ema_slow=816.23 | rsi=42.8
+2026-03-17 11:11:08,985 | INFO | BAJFINANCE.NS -> 324 candles | last close ₹868.55
+2026-03-17 11:11:08,987 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹868.55 | ema_fast=870.56 | ema_slow=872.29 | rsi=38.9
+2026-03-17 11:11:09,289 | INFO | TCS.NS -> 324 candles | last close ₹2390.40
+2026-03-17 11:11:09,292 | INFO | TCS.NS -> signal=HOLD | price=₹2390.4 | ema_fast=2387.56 | ema_slow=2385.59 | rsi=56.0
+2026-03-17 11:11:09,622 | INFO | INFY.NS -> 324 candles | last close ₹1235.80
+2026-03-17 11:11:09,627 | INFO | INFY.NS -> signal=HOLD | price=₹1235.8 | ema_fast=1236.20 | ema_slow=1234.92 | rsi=51.6
+2026-03-17 11:11:09,928 | INFO | TECHM.NS -> 324 candles | last close ₹1344.90
+2026-03-17 11:11:09,931 | INFO | TECHM.NS -> signal=HOLD | price=₹1344.9 | ema_fast=1339.78 | ema_slow=1335.72 | rsi=65.7
+2026-03-17 11:11:10,274 | INFO | RELIANCE.NS -> 324 candles | last close ₹1398.90
+2026-03-17 11:11:10,278 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1398.9 | ema_fast=1399.38 | ema_slow=1398.68 | rsi=53.6
+2026-03-17 11:11:10,686 | INFO | TATASTEEL.NS -> 324 candles | last close ₹191.93
+2026-03-17 11:11:10,689 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.93 | ema_fast=192.09 | ema_slow=191.25 | rsi=64.0
+2026-03-17 11:11:13,318 | INFO | VEDL.NS -> 324 candles | last close ₹693.00
+2026-03-17 11:11:13,320 | INFO | VEDL.NS -> signal=HOLD | price=₹693.0 | ema_fast=692.75 | ema_slow=690.60 | rsi=58.8
+2026-03-17 11:11:13,904 | INFO | LT.NS -> 324 candles | last close ₹3495.90
+2026-03-17 11:11:13,907 | INFO | LT.NS -> signal=HOLD | price=₹3495.9 | ema_fast=3491.08 | ema_slow=3485.99 | rsi=60.0
+2026-03-17 11:11:14,222 | INFO | ITC.NS -> 324 candles | last close ₹306.55
+2026-03-17 11:11:14,225 | INFO | ITC.NS -> signal=HOLD | price=₹306.55 | ema_fast=306.38 | ema_slow=306.43 | rsi=52.3
+2026-03-17 11:16:15,700 | INFO | NIFTY trend: NEUTRAL | price=23457 | ema20=23480
+2026-03-17 11:16:15,700 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 11:16:15,885 | INFO | HDFCBANK.NS -> 325 candles | last close ₹838.70
+2026-03-17 11:16:15,888 | INFO | HDFCBANK.NS -> signal=SELL | price=₹838.7 | ema_fast=841.32 | ema_slow=841.41 | rsi=43.3
+2026-03-17 11:16:15,888 | INFO | HDFCBANK.NS -> SELL signal but no open position
+2026-03-17 11:16:16,031 | INFO | ICICIBANK.NS -> 325 candles | last close ₹1279.90
+2026-03-17 11:16:16,034 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1279.9 | ema_fast=1281.90 | ema_slow=1281.31 | rsi=49.5
+2026-03-17 11:16:16,205 | INFO | SBIN.NS -> 325 candles | last close ₹1050.00
+2026-03-17 11:16:16,209 | INFO | SBIN.NS -> signal=HOLD | price=₹1050.0 | ema_fast=1052.66 | ema_slow=1054.97 | rsi=36.4
+2026-03-17 11:16:16,327 | INFO | AXISBANK.NS -> 325 candles | last close ₹1221.00
+2026-03-17 11:16:16,330 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1221.0 | ema_fast=1222.60 | ema_slow=1220.37 | rsi=54.0
+2026-03-17 11:16:16,444 | INFO | KOTAKBANK.NS -> 325 candles | last close ₹371.85
+2026-03-17 11:16:16,446 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.85 | ema_fast=372.39 | ema_slow=371.92 | rsi=51.7
+2026-03-17 11:16:16,564 | INFO | INDUSINDBK.NS -> 325 candles | last close ₹812.10
+2026-03-17 11:16:16,568 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹812.1 | ema_fast=814.15 | ema_slow=815.76 | rsi=39.1
+2026-03-17 11:16:16,714 | INFO | BAJFINANCE.NS -> 325 candles | last close ₹869.05
+2026-03-17 11:16:16,717 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹869.05 | ema_fast=870.37 | ema_slow=872.06 | rsi=40.6
+2026-03-17 11:16:16,829 | INFO | TCS.NS -> 325 candles | last close ₹2391.60
+2026-03-17 11:16:16,832 | INFO | TCS.NS -> signal=HOLD | price=₹2391.6 | ema_fast=2388.53 | ema_slow=2386.21 | rsi=57.4
+2026-03-17 11:16:17,202 | INFO | INFY.NS -> 325 candles | last close ₹1235.40
+2026-03-17 11:16:17,205 | INFO | INFY.NS -> signal=HOLD | price=₹1235.4 | ema_fast=1236.09 | ema_slow=1234.99 | rsi=50.9
+2026-03-17 11:16:17,318 | INFO | TECHM.NS -> 325 candles | last close ₹1349.00
+2026-03-17 11:16:17,321 | INFO | TECHM.NS -> signal=HOLD | price=₹1349.0 | ema_fast=1342.33 | ema_slow=1337.29 | rsi=69.0
+2026-03-17 11:16:17,446 | INFO | RELIANCE.NS -> 325 candles | last close ₹1398.10
+2026-03-17 11:16:17,450 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1398.1 | ema_fast=1398.96 | ema_slow=1398.54 | rsi=51.1
+2026-03-17 11:16:17,602 | INFO | TATASTEEL.NS -> 325 candles | last close ₹191.99
+2026-03-17 11:16:17,606 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.99 | ema_fast=192.06 | ema_slow=191.32 | rsi=64.1
+2026-03-17 11:16:17,717 | INFO | VEDL.NS -> 325 candles | last close ₹693.75
+2026-03-17 11:16:17,719 | INFO | VEDL.NS -> signal=HOLD | price=₹693.75 | ema_fast=692.95 | ema_slow=690.89 | rsi=60.5
+2026-03-17 11:16:17,839 | INFO | LT.NS -> 325 candles | last close ₹3485.60
+2026-03-17 11:16:17,842 | INFO | LT.NS -> signal=HOLD | price=₹3485.6 | ema_fast=3488.59 | ema_slow=3485.24 | rsi=52.4
+2026-03-17 11:16:18,005 | INFO | ITC.NS -> 325 candles | last close ₹306.15
+2026-03-17 11:16:18,009 | INFO | ITC.NS -> signal=HOLD | price=₹306.15 | ema_fast=306.34 | ema_slow=306.41 | rsi=46.1
+2026-03-17 11:21:19,311 | INFO | NIFTY trend: BEAR | price=23443 | ema20=23475
+2026-03-17 11:21:19,312 | INFO | NIFTY trend: BEAR
+2026-03-17 11:21:19,460 | INFO | HDFCBANK.NS -> 326 candles | last close ₹839.05
+2026-03-17 11:21:19,464 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹839.05 | ema_fast=840.91 | ema_slow=841.22 | rsi=44.1
+2026-03-17 11:21:19,576 | INFO | ICICIBANK.NS -> 326 candles | last close ₹1278.30
+2026-03-17 11:21:19,579 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1278.3 | ema_fast=1280.91 | ema_slow=1280.90 | rsi=45.8
+2026-03-17 11:21:19,767 | INFO | SBIN.NS -> 326 candles | last close ₹1050.00
+2026-03-17 11:21:19,772 | INFO | SBIN.NS -> signal=HOLD | price=₹1050.0 | ema_fast=1052.06 | ema_slow=1054.48 | rsi=37.0
+2026-03-17 11:21:19,921 | INFO | AXISBANK.NS -> 326 candles | last close ₹1219.90
+2026-03-17 11:21:19,925 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1219.9 | ema_fast=1221.90 | ema_slow=1220.25 | rsi=51.7
+2026-03-17 11:21:20,063 | INFO | KOTAKBANK.NS -> 326 candles | last close ₹371.95
+2026-03-17 11:21:20,066 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.95 | ema_fast=372.31 | ema_slow=371.93 | rsi=52.3
+2026-03-17 11:21:20,187 | INFO | INDUSINDBK.NS -> 326 candles | last close ₹811.80
+2026-03-17 11:21:20,190 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹811.8 | ema_fast=813.70 | ema_slow=815.41 | rsi=38.5
+2026-03-17 11:21:20,336 | INFO | BAJFINANCE.NS -> 326 candles | last close ₹867.25
+2026-03-17 11:21:20,338 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹867.25 | ema_fast=869.47 | ema_slow=871.48 | rsi=37.1
+2026-03-17 11:21:20,454 | INFO | TCS.NS -> 326 candles | last close ₹2387.10
+2026-03-17 11:21:20,456 | INFO | TCS.NS -> signal=HOLD | price=₹2387.1 | ema_fast=2387.51 | ema_slow=2385.91 | rsi=51.6
+2026-03-17 11:21:20,568 | INFO | INFY.NS -> 326 candles | last close ₹1233.00
+2026-03-17 11:21:20,571 | INFO | INFY.NS -> signal=HOLD | price=₹1233.0 | ema_fast=1235.09 | ema_slow=1234.61 | rsi=47.3
+2026-03-17 11:21:20,699 | INFO | TECHM.NS -> 326 candles | last close ₹1348.00
+2026-03-17 11:21:20,704 | INFO | TECHM.NS -> signal=HOLD | price=₹1348.0 | ema_fast=1343.46 | ema_slow=1338.27 | rsi=67.0
+2026-03-17 11:21:20,922 | INFO | RELIANCE.NS -> 326 candles | last close ₹1396.60
+2026-03-17 11:21:20,926 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1396.6 | ema_fast=1398.31 | ema_slow=1398.28 | rsi=46.5
+2026-03-17 11:21:21,053 | INFO | TATASTEEL.NS -> 326 candles | last close ₹191.58
+2026-03-17 11:21:21,055 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.58 | ema_fast=191.92 | ema_slow=191.32 | rsi=59.1
+2026-03-17 11:21:21,178 | INFO | VEDL.NS -> 326 candles | last close ₹692.95
+2026-03-17 11:21:21,181 | INFO | VEDL.NS -> signal=HOLD | price=₹692.95 | ema_fast=692.80 | ema_slow=691.00 | rsi=58.5
+2026-03-17 11:21:21,331 | INFO | LT.NS -> 326 candles | last close ₹3479.40
+2026-03-17 11:21:21,336 | INFO | LT.NS -> signal=HOLD | price=₹3479.4 | ema_fast=3486.56 | ema_slow=3484.61 | rsi=47.8
+2026-03-17 11:21:21,453 | INFO | ITC.NS -> 326 candles | last close ₹305.95
+2026-03-17 11:21:21,456 | INFO | ITC.NS -> signal=HOLD | price=₹305.95 | ema_fast=306.19 | ema_slow=306.33 | rsi=44.6
+2026-03-17 11:26:22,749 | INFO | NIFTY trend: BEAR | price=23385 | ema20=23464
+2026-03-17 11:26:22,749 | INFO | NIFTY trend: BEAR
+2026-03-17 11:26:23,011 | INFO | HDFCBANK.NS -> 327 candles | last close ₹836.95
+2026-03-17 11:26:23,015 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹836.95 | ema_fast=839.96 | ema_slow=840.75 | rsi=39.0
+2026-03-17 11:26:23,155 | INFO | ICICIBANK.NS -> 327 candles | last close ₹1276.80
+2026-03-17 11:26:23,158 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1276.8 | ema_fast=1280.04 | ema_slow=1280.50 | rsi=42.4
+2026-03-17 11:26:23,292 | INFO | SBIN.NS -> 327 candles | last close ₹1048.40
+2026-03-17 11:26:23,295 | INFO | SBIN.NS -> signal=HOLD | price=₹1048.4 | ema_fast=1051.01 | ema_slow=1053.77 | rsi=34.4
+2026-03-17 11:26:23,465 | INFO | AXISBANK.NS -> 327 candles | last close ₹1218.10
+2026-03-17 11:26:23,469 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1218.1 | ema_fast=1220.89 | ema_slow=1219.92 | rsi=48.2
+2026-03-17 11:26:23,610 | INFO | KOTAKBANK.NS -> 327 candles | last close ₹370.50
+2026-03-17 11:26:23,613 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹370.5 | ema_fast=371.81 | ema_slow=371.73 | rsi=43.5
+2026-03-17 11:26:23,848 | INFO | INDUSINDBK.NS -> 327 candles | last close ₹808.90
+2026-03-17 11:26:23,852 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹808.9 | ema_fast=812.61 | ema_slow=814.75 | rsi=33.3
+2026-03-17 11:26:24,027 | INFO | BAJFINANCE.NS -> 327 candles | last close ₹863.70
+2026-03-17 11:26:24,031 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹863.7 | ema_fast=867.97 | ema_slow=870.59 | rsi=31.1
+2026-03-17 11:26:24,167 | INFO | TCS.NS -> 327 candles | last close ₹2383.90
+2026-03-17 11:26:24,170 | INFO | TCS.NS -> signal=HOLD | price=₹2383.9 | ema_fast=2386.95 | ema_slow=2385.81 | rsi=47.6
+2026-03-17 11:26:24,303 | INFO | INFY.NS -> 327 candles | last close ₹1231.90
+2026-03-17 11:26:24,307 | INFO | INFY.NS -> signal=HOLD | price=₹1231.9 | ema_fast=1234.34 | ema_slow=1234.30 | rsi=45.6
+2026-03-17 11:26:24,491 | INFO | TECHM.NS -> 327 candles | last close ₹1342.90
+2026-03-17 11:26:24,495 | INFO | TECHM.NS -> signal=HOLD | price=₹1342.9 | ema_fast=1342.95 | ema_slow=1338.48 | rsi=58.2
+2026-03-17 11:26:24,637 | INFO | RELIANCE.NS -> 327 candles | last close ₹1392.50
+2026-03-17 11:26:24,640 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1392.5 | ema_fast=1396.80 | ema_slow=1397.57 | rsi=36.5
+2026-03-17 11:26:24,801 | INFO | TATASTEEL.NS -> 327 candles | last close ₹191.15
+2026-03-17 11:26:24,805 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.15 | ema_fast=191.74 | ema_slow=191.29 | rsi=53.5
+2026-03-17 11:26:24,981 | INFO | VEDL.NS -> 327 candles | last close ₹689.50
+2026-03-17 11:26:24,985 | INFO | VEDL.NS -> signal=HOLD | price=₹689.5 | ema_fast=691.82 | ema_slow=690.70 | rsi=48.3
+2026-03-17 11:26:25,233 | INFO | LT.NS -> 327 candles | last close ₹3470.00
+2026-03-17 11:26:25,237 | INFO | LT.NS -> signal=SELL | price=₹3470.0 | ema_fast=3482.56 | ema_slow=3482.93 | rsi=41.8
+2026-03-17 11:26:25,237 | INFO | LT.NS -> SELL signal but no open position
+2026-03-17 11:26:25,405 | INFO | ITC.NS -> 327 candles | last close ₹305.40
+2026-03-17 11:26:25,409 | INFO | ITC.NS -> signal=HOLD | price=₹305.4 | ema_fast=305.95 | ema_slow=306.20 | rsi=37.5
+2026-03-17 11:31:26,817 | INFO | NIFTY trend: BEAR | price=23383 | ema20=23456
+2026-03-17 11:31:26,817 | INFO | NIFTY trend: BEAR
+2026-03-17 11:31:26,940 | INFO | HDFCBANK.NS -> 328 candles | last close ₹836.60
+2026-03-17 11:31:26,943 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹836.6 | ema_fast=839.26 | ema_slow=840.36 | rsi=38.2
+2026-03-17 11:31:27,056 | INFO | ICICIBANK.NS -> 328 candles | last close ₹1276.60
+2026-03-17 11:31:27,059 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1276.6 | ema_fast=1279.27 | ema_slow=1280.11 | rsi=42.3
+2026-03-17 11:31:27,194 | INFO | SBIN.NS -> 328 candles | last close ₹1049.70
+2026-03-17 11:31:27,198 | INFO | SBIN.NS -> signal=HOLD | price=₹1049.7 | ema_fast=1050.89 | ema_slow=1053.47 | rsi=38.4
+2026-03-17 11:31:27,341 | INFO | AXISBANK.NS -> 328 candles | last close ₹1220.20
+2026-03-17 11:31:27,345 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1220.2 | ema_fast=1221.02 | ema_slow=1220.09 | rsi=52.4
+2026-03-17 11:31:27,472 | INFO | KOTAKBANK.NS -> 328 candles | last close ₹371.00
+2026-03-17 11:31:27,475 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.0 | ema_fast=371.70 | ema_slow=371.69 | rsi=46.6
+2026-03-17 11:31:27,928 | INFO | INDUSINDBK.NS -> 328 candles | last close ₹810.70
+2026-03-17 11:31:27,930 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹810.7 | ema_fast=812.38 | ema_slow=814.46 | rsi=37.8
+2026-03-17 11:31:28,036 | INFO | BAJFINANCE.NS -> 328 candles | last close ₹863.80
+2026-03-17 11:31:28,038 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹863.8 | ema_fast=867.26 | ema_slow=870.04 | rsi=31.2
+2026-03-17 11:31:28,196 | INFO | TCS.NS -> 328 candles | last close ₹2384.90
+2026-03-17 11:31:28,199 | INFO | TCS.NS -> signal=HOLD | price=₹2384.9 | ema_fast=2386.44 | ema_slow=2385.68 | rsi=49.0
+2026-03-17 11:31:28,347 | INFO | INFY.NS -> 328 candles | last close ₹1230.80
+2026-03-17 11:31:28,351 | INFO | INFY.NS -> signal=HOLD | price=₹1230.8 | ema_fast=1233.44 | ema_slow=1233.89 | rsi=44.1
+2026-03-17 11:31:28,476 | INFO | TECHM.NS -> 328 candles | last close ₹1345.40
+2026-03-17 11:31:28,479 | INFO | TECHM.NS -> signal=HOLD | price=₹1345.4 | ema_fast=1343.59 | ema_slow=1339.18 | rsi=61.4
+2026-03-17 11:31:28,595 | INFO | RELIANCE.NS -> 328 candles | last close ₹1391.50
+2026-03-17 11:31:28,599 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1391.5 | ema_fast=1395.66 | ema_slow=1396.98 | rsi=34.6
+2026-03-17 11:31:28,745 | INFO | TATASTEEL.NS -> 328 candles | last close ₹191.11
+2026-03-17 11:31:28,748 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.11 | ema_fast=191.62 | ema_slow=191.27 | rsi=52.9
+2026-03-17 11:31:29,286 | INFO | VEDL.NS -> 328 candles | last close ₹690.00
+2026-03-17 11:31:29,289 | INFO | VEDL.NS -> signal=HOLD | price=₹690.0 | ema_fast=691.59 | ema_slow=690.70 | rsi=49.6
+2026-03-17 11:31:29,390 | INFO | LT.NS -> 328 candles | last close ₹3467.80
+2026-03-17 11:31:29,393 | INFO | LT.NS -> signal=HOLD | price=₹3467.8 | ema_fast=3478.83 | ema_slow=3481.15 | rsi=41.4
+2026-03-17 11:31:29,497 | INFO | ITC.NS -> 328 candles | last close ₹305.25
+2026-03-17 11:31:29,500 | INFO | ITC.NS -> signal=HOLD | price=₹305.25 | ema_fast=305.77 | ema_slow=306.10 | rsi=36.5
+2026-03-17 11:36:32,058 | INFO | NIFTY trend: BEAR | price=23358 | ema20=23445
+2026-03-17 11:36:32,058 | INFO | NIFTY trend: BEAR
+2026-03-17 11:36:32,188 | INFO | HDFCBANK.NS -> 329 candles | last close ₹835.50
+2026-03-17 11:36:32,191 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹835.5 | ema_fast=838.40 | ema_slow=839.86 | rsi=35.7
+2026-03-17 11:36:32,312 | INFO | ICICIBANK.NS -> 329 candles | last close ₹1275.80
+2026-03-17 11:36:32,316 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1275.8 | ema_fast=1278.42 | ema_slow=1279.63 | rsi=40.5
+2026-03-17 11:36:32,483 | INFO | SBIN.NS -> 329 candles | last close ₹1050.30
+2026-03-17 11:36:32,487 | INFO | SBIN.NS -> signal=HOLD | price=₹1050.3 | ema_fast=1050.81 | ema_slow=1053.20 | rsi=40.2
+2026-03-17 11:36:32,618 | INFO | AXISBANK.NS -> 329 candles | last close ₹1218.30
+2026-03-17 11:36:32,620 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1218.3 | ema_fast=1220.14 | ema_slow=1219.75 | rsi=48.6
+2026-03-17 11:36:32,755 | INFO | KOTAKBANK.NS -> 329 candles | last close ₹370.00
+2026-03-17 11:36:32,758 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹370.0 | ema_fast=371.32 | ema_slow=371.51 | rsi=40.4
+2026-03-17 11:36:32,981 | INFO | INDUSINDBK.NS -> 329 candles | last close ₹808.55
+2026-03-17 11:36:32,985 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹808.55 | ema_fast=811.43 | ema_slow=813.82 | rsi=32.4
+2026-03-17 11:36:33,172 | INFO | BAJFINANCE.NS -> 329 candles | last close ₹862.45
+2026-03-17 11:36:33,176 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹862.45 | ema_fast=866.26 | ema_slow=869.33 | rsi=29.1
+2026-03-17 11:36:33,390 | INFO | TCS.NS -> 329 candles | last close ₹2381.00
+2026-03-17 11:36:33,393 | INFO | TCS.NS -> signal=SELL | price=₹2381.0 | ema_fast=2384.78 | ema_slow=2384.96 | rsi=44.4
+2026-03-17 11:36:33,393 | INFO | TCS.NS -> SELL signal but no open position
+2026-03-17 11:36:33,552 | INFO | INFY.NS -> 329 candles | last close ₹1230.10
+2026-03-17 11:36:33,555 | INFO | INFY.NS -> signal=HOLD | price=₹1230.1 | ema_fast=1232.66 | ema_slow=1233.48 | rsi=43.0
+2026-03-17 11:36:33,692 | INFO | TECHM.NS -> 329 candles | last close ₹1344.70
+2026-03-17 11:36:33,695 | INFO | TECHM.NS -> signal=HOLD | price=₹1344.7 | ema_fast=1343.73 | ema_slow=1339.64 | rsi=60.5
+2026-03-17 11:36:33,809 | INFO | RELIANCE.NS -> 329 candles | last close ₹1390.20
+2026-03-17 11:36:33,811 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1390.2 | ema_fast=1394.52 | ema_slow=1396.34 | rsi=32.1
+2026-03-17 11:36:33,948 | INFO | TATASTEEL.NS -> 329 candles | last close ₹190.90
+2026-03-17 11:36:33,952 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹190.9 | ema_fast=191.45 | ema_slow=191.23 | rsi=50.4
+2026-03-17 11:36:34,069 | INFO | VEDL.NS -> 329 candles | last close ₹688.40
+2026-03-17 11:36:34,072 | INFO | VEDL.NS -> signal=HOLD | price=₹688.4 | ema_fast=690.85 | ema_slow=690.44 | rsi=45.1
+2026-03-17 11:36:34,192 | INFO | LT.NS -> 329 candles | last close ₹3470.40
+2026-03-17 11:36:34,194 | INFO | LT.NS -> signal=HOLD | price=₹3470.4 | ema_fast=3476.68 | ema_slow=3479.93 | rsi=43.7
+2026-03-17 11:36:34,320 | INFO | ITC.NS -> 329 candles | last close ₹305.25
+2026-03-17 11:36:34,324 | INFO | ITC.NS -> signal=HOLD | price=₹305.25 | ema_fast=305.69 | ema_slow=306.03 | rsi=37.4
+2026-03-17 11:41:36,727 | INFO | NIFTY trend: BEAR | price=23391 | ema20=23443
+2026-03-17 11:41:36,727 | INFO | NIFTY trend: BEAR
+2026-03-17 11:41:36,909 | INFO | HDFCBANK.NS -> 330 candles | last close ₹837.20
+2026-03-17 11:41:36,912 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹837.2 | ema_fast=838.37 | ema_slow=839.73 | rsi=41.4
+2026-03-17 11:41:37,059 | INFO | ICICIBANK.NS -> 330 candles | last close ₹1278.80
+2026-03-17 11:41:37,063 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1278.8 | ema_fast=1278.77 | ema_slow=1279.70 | rsi=49.1
+2026-03-17 11:41:37,174 | INFO | SBIN.NS -> 330 candles | last close ₹1053.80
+2026-03-17 11:41:37,177 | INFO | SBIN.NS -> signal=HOLD | price=₹1053.8 | ema_fast=1051.98 | ema_slow=1053.55 | rsi=49.2
+2026-03-17 11:41:37,372 | INFO | AXISBANK.NS -> 330 candles | last close ₹1221.10
+2026-03-17 11:41:37,374 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1221.1 | ema_fast=1220.57 | ema_slow=1220.00 | rsi=54.1
+2026-03-17 11:41:37,518 | INFO | KOTAKBANK.NS -> 330 candles | last close ₹370.20
+2026-03-17 11:41:37,522 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹370.2 | ema_fast=371.13 | ema_slow=371.41 | rsi=41.5
+2026-03-17 11:41:37,649 | INFO | INDUSINDBK.NS -> 330 candles | last close ₹810.00
+2026-03-17 11:41:37,651 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹810.0 | ema_fast=811.37 | ema_slow=813.59 | rsi=35.9
+2026-03-17 11:41:37,768 | INFO | BAJFINANCE.NS -> 330 candles | last close ₹862.40
+2026-03-17 11:41:37,770 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹862.4 | ema_fast=865.57 | ema_slow=868.74 | rsi=29.0
+2026-03-17 11:41:37,933 | INFO | TCS.NS -> 330 candles | last close ₹2383.70
+2026-03-17 11:41:37,937 | INFO | TCS.NS -> signal=HOLD | price=₹2383.7 | ema_fast=2385.20 | ema_slow=2385.17 | rsi=47.9
+2026-03-17 11:41:38,092 | INFO | INFY.NS -> 330 candles | last close ₹1230.90
+2026-03-17 11:41:38,096 | INFO | INFY.NS -> signal=HOLD | price=₹1230.9 | ema_fast=1232.58 | ema_slow=1233.39 | rsi=44.8
+2026-03-17 11:41:38,223 | INFO | TECHM.NS -> 330 candles | last close ₹1346.10
+2026-03-17 11:41:38,225 | INFO | TECHM.NS -> signal=HOLD | price=₹1346.1 | ema_fast=1344.63 | ema_slow=1340.45 | rsi=61.2
+2026-03-17 11:41:38,341 | INFO | RELIANCE.NS -> 330 candles | last close ₹1389.20
+2026-03-17 11:41:38,345 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1389.2 | ema_fast=1393.44 | ema_slow=1395.68 | rsi=30.3
+2026-03-17 11:41:38,502 | INFO | TATASTEEL.NS -> 330 candles | last close ₹191.25
+2026-03-17 11:41:38,506 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.25 | ema_fast=191.47 | ema_slow=191.26 | rsi=54.2
+2026-03-17 11:41:38,623 | INFO | VEDL.NS -> 330 candles | last close ₹690.20
+2026-03-17 11:41:38,626 | INFO | VEDL.NS -> signal=HOLD | price=₹690.2 | ema_fast=691.08 | ema_slow=690.61 | rsi=50.2
+2026-03-17 11:41:38,818 | INFO | LT.NS -> 330 candles | last close ₹3473.70
+2026-03-17 11:41:38,822 | INFO | LT.NS -> signal=HOLD | price=₹3473.7 | ema_fast=3476.26 | ema_slow=3479.45 | rsi=46.2
+2026-03-17 11:41:39,008 | INFO | ITC.NS -> 330 candles | last close ₹305.25
+2026-03-17 11:41:39,012 | INFO | ITC.NS -> signal=HOLD | price=₹305.25 | ema_fast=305.57 | ema_slow=305.94 | rsi=38.9
+2026-03-17 11:46:39,252 | INFO | NIFTY trend: BEAR | price=23398 | ema20=23439
+2026-03-17 11:46:39,252 | INFO | NIFTY trend: BEAR
+2026-03-17 11:46:39,381 | INFO | HDFCBANK.NS -> 331 candles | last close ₹837.45
+2026-03-17 11:46:39,384 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹837.45 | ema_fast=838.18 | ema_slow=839.52 | rsi=42.4
+2026-03-17 11:46:39,510 | INFO | ICICIBANK.NS -> 331 candles | last close ₹1279.10
+2026-03-17 11:46:39,513 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1279.1 | ema_fast=1278.85 | ema_slow=1279.65 | rsi=49.9
+2026-03-17 11:46:39,634 | INFO | SBIN.NS -> 331 candles | last close ₹1053.00
+2026-03-17 11:46:39,639 | INFO | SBIN.NS -> signal=HOLD | price=₹1053.0 | ema_fast=1052.06 | ema_slow=1053.43 | rsi=47.4
+2026-03-17 11:46:39,778 | INFO | AXISBANK.NS -> 331 candles | last close ₹1221.60
+2026-03-17 11:46:39,784 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1221.6 | ema_fast=1220.84 | ema_slow=1220.18 | rsi=55.0
+2026-03-17 11:46:39,914 | INFO | KOTAKBANK.NS -> 331 candles | last close ₹370.50
+2026-03-17 11:46:39,917 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹370.5 | ema_fast=371.02 | ema_slow=371.34 | rsi=44.0
+2026-03-17 11:46:40,049 | INFO | INDUSINDBK.NS -> 331 candles | last close ₹810.60
+2026-03-17 11:46:40,052 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹810.6 | ema_fast=811.30 | ema_slow=813.37 | rsi=38.2
+2026-03-17 11:46:40,190 | INFO | BAJFINANCE.NS -> 331 candles | last close ₹861.10
+2026-03-17 11:46:40,194 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹861.1 | ema_fast=864.47 | ema_slow=867.94 | rsi=27.0
+2026-03-17 11:46:40,327 | INFO | TCS.NS -> 331 candles | last close ₹2386.60
+2026-03-17 11:46:40,330 | INFO | TCS.NS -> signal=HOLD | price=₹2386.6 | ema_fast=2385.79 | ema_slow=2385.46 | rsi=51.5
+2026-03-17 11:46:40,455 | INFO | INFY.NS -> 331 candles | last close ₹1232.60
+2026-03-17 11:46:40,457 | INFO | INFY.NS -> signal=HOLD | price=₹1232.6 | ema_fast=1232.82 | ema_slow=1233.44 | rsi=47.9
+2026-03-17 11:46:40,579 | INFO | TECHM.NS -> 331 candles | last close ₹1349.00
+2026-03-17 11:46:40,582 | INFO | TECHM.NS -> signal=HOLD | price=₹1349.0 | ema_fast=1345.65 | ema_slow=1341.31 | rsi=65.2
+2026-03-17 11:46:40,822 | INFO | RELIANCE.NS -> 331 candles | last close ₹1389.90
+2026-03-17 11:46:40,825 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1389.9 | ema_fast=1392.75 | ema_slow=1395.16 | rsi=33.0
+2026-03-17 11:46:40,992 | INFO | TATASTEEL.NS -> 331 candles | last close ₹191.25
+2026-03-17 11:46:40,995 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.25 | ema_fast=191.43 | ema_slow=191.26 | rsi=54.2
+2026-03-17 11:46:41,128 | INFO | VEDL.NS -> 331 candles | last close ₹690.40
+2026-03-17 11:46:41,131 | INFO | VEDL.NS -> signal=HOLD | price=₹690.4 | ema_fast=690.95 | ema_slow=690.59 | rsi=50.8
+2026-03-17 11:46:41,261 | INFO | LT.NS -> 331 candles | last close ₹3470.30
+2026-03-17 11:46:41,264 | INFO | LT.NS -> signal=HOLD | price=₹3470.3 | ema_fast=3474.31 | ema_slow=3478.23 | rsi=44.1
+2026-03-17 11:46:41,393 | INFO | ITC.NS -> 331 candles | last close ₹305.55
+2026-03-17 11:46:41,396 | INFO | ITC.NS -> signal=HOLD | price=₹305.55 | ema_fast=305.59 | ema_slow=305.92 | rsi=43.6
+2026-03-17 11:51:42,772 | INFO | NIFTY trend: NEUTRAL | price=23428 | ema20=23437
+2026-03-17 11:51:42,772 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 11:51:42,990 | INFO | HDFCBANK.NS -> 332 candles | last close ₹839.85
+2026-03-17 11:51:42,993 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹839.85 | ema_fast=838.62 | ema_slow=839.60 | rsi=50.7
+2026-03-17 11:51:43,137 | INFO | ICICIBANK.NS -> 332 candles | last close ₹1278.90
+2026-03-17 11:51:43,141 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1278.9 | ema_fast=1278.70 | ema_slow=1279.50 | rsi=49.5
+2026-03-17 11:51:43,267 | INFO | SBIN.NS -> 332 candles | last close ₹1053.60
+2026-03-17 11:51:43,272 | INFO | SBIN.NS -> signal=HOLD | price=₹1053.6 | ema_fast=1052.25 | ema_slow=1053.39 | rsi=49.2
+2026-03-17 11:51:43,435 | INFO | AXISBANK.NS -> 332 candles | last close ₹1223.10
+2026-03-17 11:51:43,439 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1223.1 | ema_fast=1221.15 | ema_slow=1220.37 | rsi=57.5
+2026-03-17 11:51:43,595 | INFO | KOTAKBANK.NS -> 332 candles | last close ₹370.45
+2026-03-17 11:51:43,599 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹370.45 | ema_fast=370.86 | ema_slow=371.24 | rsi=44.0
+2026-03-17 11:51:43,753 | INFO | INDUSINDBK.NS -> 332 candles | last close ₹813.75
+2026-03-17 11:51:43,757 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹813.75 | ema_fast=811.87 | ema_slow=813.44 | rsi=48.8
+2026-03-17 11:51:43,912 | INFO | BAJFINANCE.NS -> 332 candles | last close ₹864.10
+2026-03-17 11:51:43,916 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹864.1 | ema_fast=864.47 | ema_slow=867.63 | rsi=37.9
+2026-03-17 11:51:44,057 | INFO | TCS.NS -> 332 candles | last close ₹2389.80
+2026-03-17 11:51:44,060 | INFO | TCS.NS -> signal=HOLD | price=₹2389.8 | ema_fast=2386.51 | ema_slow=2385.81 | rsi=55.5
+2026-03-17 11:51:44,214 | INFO | INFY.NS -> 332 candles | last close ₹1233.90
+2026-03-17 11:51:44,218 | INFO | INFY.NS -> signal=HOLD | price=₹1233.9 | ema_fast=1232.88 | ema_slow=1233.40 | rsi=50.6
+2026-03-17 11:51:44,362 | INFO | TECHM.NS -> 332 candles | last close ₹1347.40
+2026-03-17 11:51:44,366 | INFO | TECHM.NS -> signal=HOLD | price=₹1347.4 | ema_fast=1345.86 | ema_slow=1341.79 | rsi=62.7
+2026-03-17 11:51:44,511 | INFO | RELIANCE.NS -> 332 candles | last close ₹1392.00
+2026-03-17 11:51:44,514 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1392.0 | ema_fast=1392.60 | ema_slow=1394.87 | rsi=40.8
+2026-03-17 11:51:44,659 | INFO | TATASTEEL.NS -> 332 candles | last close ₹191.68
+2026-03-17 11:51:44,663 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.68 | ema_fast=191.49 | ema_slow=191.30 | rsi=59.1
+2026-03-17 11:51:44,878 | INFO | VEDL.NS -> 332 candles | last close ₹692.30
+2026-03-17 11:51:44,882 | INFO | VEDL.NS -> signal=HOLD | price=₹692.3 | ema_fast=691.18 | ema_slow=690.73 | rsi=56.5
+2026-03-17 11:51:45,036 | INFO | LT.NS -> 332 candles | last close ₹3473.50
+2026-03-17 11:51:45,040 | INFO | LT.NS -> signal=HOLD | price=₹3473.5 | ema_fast=3473.22 | ema_slow=3477.32 | rsi=47.4
+2026-03-17 11:51:45,159 | INFO | ITC.NS -> 332 candles | last close ₹306.30
+2026-03-17 11:51:45,164 | INFO | ITC.NS -> signal=HOLD | price=₹306.3 | ema_fast=305.77 | ema_slow=305.97 | rsi=53.4
+2026-03-17 11:56:48,732 | INFO | NIFTY trend: BEAR | price=23381 | ema20=23430
+2026-03-17 11:56:48,732 | INFO | NIFTY trend: BEAR
+2026-03-17 11:56:49,416 | INFO | HDFCBANK.NS -> 333 candles | last close ₹838.85
+2026-03-17 11:56:49,420 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹838.85 | ema_fast=838.61 | ema_slow=839.51 | rsi=47.5
+2026-03-17 11:56:50,032 | INFO | ICICIBANK.NS -> 333 candles | last close ₹1276.70
+2026-03-17 11:56:50,037 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1276.7 | ema_fast=1278.07 | ema_slow=1279.13 | rsi=43.8
+2026-03-17 11:56:50,596 | INFO | SBIN.NS -> 333 candles | last close ₹1052.00
+2026-03-17 11:56:50,599 | INFO | SBIN.NS -> signal=HOLD | price=₹1052.0 | ema_fast=1052.15 | ema_slow=1053.24 | rsi=45.5
+2026-03-17 11:56:51,295 | INFO | AXISBANK.NS -> 333 candles | last close ₹1220.40
+2026-03-17 11:56:51,299 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1220.4 | ema_fast=1220.76 | ema_slow=1220.25 | rsi=52.0
+2026-03-17 11:56:52,196 | INFO | KOTAKBANK.NS -> 333 candles | last close ₹370.05
+2026-03-17 11:56:52,200 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹370.05 | ema_fast=370.69 | ema_slow=371.12 | rsi=41.2
+2026-03-17 11:56:52,836 | INFO | INDUSINDBK.NS -> 333 candles | last close ₹811.50
+2026-03-17 11:56:52,840 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹811.5 | ema_fast=811.60 | ema_slow=813.17 | rsi=42.4
+2026-03-17 11:56:53,558 | INFO | BAJFINANCE.NS -> 333 candles | last close ₹860.25
+2026-03-17 11:56:53,562 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹860.25 | ema_fast=863.25 | ema_slow=866.77 | rsi=27.1
+2026-03-17 11:56:54,547 | INFO | TCS.NS -> 333 candles | last close ₹2383.00
+2026-03-17 11:56:54,552 | INFO | TCS.NS -> signal=HOLD | price=₹2383.0 | ema_fast=2385.52 | ema_slow=2385.41 | rsi=46.7
+2026-03-17 11:56:55,575 | INFO | INFY.NS -> 333 candles | last close ₹1229.90
+2026-03-17 11:56:55,577 | INFO | INFY.NS -> signal=HOLD | price=₹1229.9 | ema_fast=1232.25 | ema_slow=1233.07 | rsi=43.6
+2026-03-17 11:56:56,340 | INFO | TECHM.NS -> 333 candles | last close ₹1348.10
+2026-03-17 11:56:56,344 | INFO | TECHM.NS -> signal=HOLD | price=₹1348.1 | ema_fast=1346.72 | ema_slow=1342.57 | rsi=62.3
+2026-03-17 11:56:56,856 | INFO | RELIANCE.NS -> 333 candles | last close ₹1390.10
+2026-03-17 11:56:56,860 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1390.1 | ema_fast=1392.00 | ema_slow=1394.39 | rsi=35.9
+2026-03-17 11:56:57,156 | INFO | TATASTEEL.NS -> 333 candles | last close ₹191.10
+2026-03-17 11:56:57,159 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.1 | ema_fast=191.35 | ema_slow=191.26 | rsi=51.7
+2026-03-17 11:56:57,718 | INFO | VEDL.NS -> 333 candles | last close ₹690.25
+2026-03-17 11:56:57,722 | INFO | VEDL.NS -> signal=HOLD | price=₹690.25 | ema_fast=690.85 | ema_slow=690.60 | rsi=50.1
+2026-03-17 11:56:58,265 | INFO | LT.NS -> 333 candles | last close ₹3464.40
+2026-03-17 11:56:58,267 | INFO | LT.NS -> signal=HOLD | price=₹3464.4 | ema_fast=3471.01 | ema_slow=3475.92 | rsi=41.5
+2026-03-17 11:56:59,402 | INFO | ITC.NS -> 333 candles | last close ₹306.00
+2026-03-17 11:56:59,406 | INFO | ITC.NS -> signal=HOLD | price=₹306.0 | ema_fast=305.81 | ema_slow=305.97 | rsi=49.6
+2026-03-17 12:01:59,673 | INFO | NIFTY trend: NEUTRAL | price=23421 | ema20=23432
+2026-03-17 12:01:59,673 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 12:01:59,798 | INFO | HDFCBANK.NS -> 334 candles | last close ₹840.20
+2026-03-17 12:01:59,801 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹840.2 | ema_fast=839.11 | ema_slow=839.66 | rsi=51.9
+2026-03-17 12:01:59,957 | INFO | ICICIBANK.NS -> 334 candles | last close ₹1278.80
+2026-03-17 12:01:59,961 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1278.8 | ema_fast=1278.43 | ema_slow=1279.21 | rsi=49.7
+2026-03-17 12:02:00,125 | INFO | SBIN.NS -> 334 candles | last close ₹1054.00
+2026-03-17 12:02:00,130 | INFO | SBIN.NS -> signal=HOLD | price=₹1054.0 | ema_fast=1052.75 | ema_slow=1053.43 | rsi=50.4
+2026-03-17 12:02:00,254 | INFO | AXISBANK.NS -> 334 candles | last close ₹1222.00
+2026-03-17 12:02:00,257 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1222.0 | ema_fast=1221.25 | ema_slow=1220.53 | rsi=55.7
+2026-03-17 12:02:00,375 | INFO | KOTAKBANK.NS -> 334 candles | last close ₹370.90
+2026-03-17 12:02:00,378 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹370.9 | ema_fast=370.84 | ema_slow=371.16 | rsi=48.1
+2026-03-17 12:02:00,558 | INFO | INDUSINDBK.NS -> 334 candles | last close ₹812.00
+2026-03-17 12:02:00,562 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹812.0 | ema_fast=811.76 | ema_slow=813.10 | rsi=43.7
+2026-03-17 12:02:00,712 | INFO | BAJFINANCE.NS -> 334 candles | last close ₹862.85
+2026-03-17 12:02:00,719 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹862.85 | ema_fast=863.48 | ema_slow=866.57 | rsi=34.2
+2026-03-17 12:02:00,873 | INFO | TCS.NS -> 334 candles | last close ₹2387.00
+2026-03-17 12:02:00,876 | INFO | TCS.NS -> signal=HOLD | price=₹2387.0 | ema_fast=2386.44 | ema_slow=2385.88 | rsi=51.9
+2026-03-17 12:02:01,076 | INFO | INFY.NS -> 334 candles | last close ₹1234.30
+2026-03-17 12:02:01,079 | INFO | INFY.NS -> signal=HOLD | price=₹1234.3 | ema_fast=1233.27 | ema_slow=1233.49 | rsi=51.5
+2026-03-17 12:02:01,228 | INFO | TECHM.NS -> 334 candles | last close ₹1350.10
+2026-03-17 12:02:01,231 | INFO | TECHM.NS -> signal=HOLD | price=₹1350.1 | ema_fast=1347.72 | ema_slow=1343.42 | rsi=66.5
+2026-03-17 12:02:01,367 | INFO | RELIANCE.NS -> 334 candles | last close ₹1392.70
+2026-03-17 12:02:01,370 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1392.7 | ema_fast=1392.49 | ema_slow=1394.42 | rsi=43.5
+2026-03-17 12:02:01,538 | INFO | TATASTEEL.NS -> 334 candles | last close ₹191.60
+2026-03-17 12:02:01,543 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.6 | ema_fast=191.49 | ema_slow=191.33 | rsi=58.1
+2026-03-17 12:02:01,690 | INFO | VEDL.NS -> 334 candles | last close ₹691.45
+2026-03-17 12:02:01,694 | INFO | VEDL.NS -> signal=HOLD | price=₹691.45 | ema_fast=691.17 | ema_slow=690.78 | rsi=54.1
+2026-03-17 12:02:01,843 | INFO | LT.NS -> 334 candles | last close ₹3469.50
+2026-03-17 12:02:01,846 | INFO | LT.NS -> signal=HOLD | price=₹3469.5 | ema_fast=3471.54 | ema_slow=3475.76 | rsi=44.6
+2026-03-17 12:02:01,976 | INFO | ITC.NS -> 334 candles | last close ₹306.20
+2026-03-17 12:02:01,980 | INFO | ITC.NS -> signal=HOLD | price=₹306.2 | ema_fast=305.92 | ema_slow=306.01 | rsi=52.1
+2026-03-17 12:07:03,330 | INFO | NIFTY trend: NEUTRAL | price=23419 | ema20=23430
+2026-03-17 12:07:03,330 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 12:07:03,499 | INFO | HDFCBANK.NS -> 335 candles | last close ₹840.25
+2026-03-17 12:07:03,502 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹840.25 | ema_fast=839.33 | ema_slow=839.71 | rsi=52.1
+2026-03-17 12:07:03,644 | INFO | ICICIBANK.NS -> 335 candles | last close ₹1278.70
+2026-03-17 12:07:03,647 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1278.7 | ema_fast=1278.37 | ema_slow=1279.10 | rsi=49.6
+2026-03-17 12:07:03,781 | INFO | SBIN.NS -> 335 candles | last close ₹1052.90
+2026-03-17 12:07:03,784 | INFO | SBIN.NS -> signal=HOLD | price=₹1052.9 | ema_fast=1052.62 | ema_slow=1053.29 | rsi=47.4
+2026-03-17 12:07:03,934 | INFO | AXISBANK.NS -> 335 candles | last close ₹1223.10
+2026-03-17 12:07:03,939 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1223.1 | ema_fast=1221.68 | ema_slow=1220.80 | rsi=58.0
+2026-03-17 12:07:04,112 | INFO | KOTAKBANK.NS -> 335 candles | last close ₹371.25
+2026-03-17 12:07:04,116 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.25 | ema_fast=370.90 | ema_slow=371.15 | rsi=51.3
+2026-03-17 12:07:04,258 | INFO | INDUSINDBK.NS -> 335 candles | last close ₹811.40
+2026-03-17 12:07:04,260 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹811.4 | ema_fast=811.62 | ema_slow=812.91 | rsi=42.0
+2026-03-17 12:07:04,416 | INFO | BAJFINANCE.NS -> 335 candles | last close ₹862.80
+2026-03-17 12:07:04,421 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹862.8 | ema_fast=863.30 | ema_slow=866.20 | rsi=34.1
+2026-03-17 12:07:04,590 | INFO | TCS.NS -> 335 candles | last close ₹2386.10
+2026-03-17 12:07:04,594 | INFO | TCS.NS -> signal=HOLD | price=₹2386.1 | ema_fast=2386.21 | ema_slow=2385.81 | rsi=50.5
+2026-03-17 12:07:04,864 | INFO | INFY.NS -> 335 candles | last close ₹1233.60
+2026-03-17 12:07:04,868 | INFO | INFY.NS -> signal=HOLD | price=₹1233.6 | ema_fast=1233.18 | ema_slow=1233.42 | rsi=50.1
+2026-03-17 12:07:05,046 | INFO | TECHM.NS -> 335 candles | last close ₹1348.90
+2026-03-17 12:07:05,050 | INFO | TECHM.NS -> signal=HOLD | price=₹1348.9 | ema_fast=1347.79 | ema_slow=1343.84 | rsi=63.6
+2026-03-17 12:07:05,183 | INFO | RELIANCE.NS -> 335 candles | last close ₹1393.60
+2026-03-17 12:07:05,186 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1393.6 | ema_fast=1392.84 | ema_slow=1394.41 | rsi=46.5
+2026-03-17 12:07:05,329 | INFO | TATASTEEL.NS -> 335 candles | last close ₹191.16
+2026-03-17 12:07:05,333 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.16 | ema_fast=191.37 | ema_slow=191.29 | rsi=51.6
+2026-03-17 12:07:05,505 | INFO | VEDL.NS -> 335 candles | last close ₹690.35
+2026-03-17 12:07:05,509 | INFO | VEDL.NS -> signal=HOLD | price=₹690.35 | ema_fast=690.87 | ema_slow=690.67 | rsi=50.0
+2026-03-17 12:07:05,643 | INFO | LT.NS -> 335 candles | last close ₹3468.10
+2026-03-17 12:07:05,647 | INFO | LT.NS -> signal=HOLD | price=₹3468.1 | ema_fast=3470.60 | ema_slow=3474.93 | rsi=43.7
+2026-03-17 12:07:05,819 | INFO | ITC.NS -> 335 candles | last close ₹306.35
+2026-03-17 12:07:05,823 | INFO | ITC.NS -> signal=HOLD | price=₹306.35 | ema_fast=306.01 | ema_slow=306.05 | rsi=54.1
+2026-03-17 12:12:06,191 | INFO | NIFTY trend: NEUTRAL | price=23437 | ema20=23433
+2026-03-17 12:12:06,191 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 12:12:06,330 | INFO | HDFCBANK.NS -> 336 candles | last close ₹840.50
+2026-03-17 12:12:06,333 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹840.5 | ema_fast=839.58 | ema_slow=839.79 | rsi=53.0
+2026-03-17 12:12:06,467 | INFO | ICICIBANK.NS -> 336 candles | last close ₹1280.00
+2026-03-17 12:12:06,470 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1280.0 | ema_fast=1278.86 | ema_slow=1279.27 | rsi=53.4
+2026-03-17 12:12:06,633 | INFO | SBIN.NS -> 336 candles | last close ₹1054.00
+2026-03-17 12:12:06,638 | INFO | SBIN.NS -> signal=HOLD | price=₹1054.0 | ema_fast=1052.89 | ema_slow=1053.36 | rsi=50.8
+2026-03-17 12:12:06,802 | INFO | AXISBANK.NS -> 336 candles | last close ₹1223.60
+2026-03-17 12:12:06,806 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1223.6 | ema_fast=1222.05 | ema_slow=1221.04 | rsi=59.1
+2026-03-17 12:12:06,938 | INFO | KOTAKBANK.NS -> 336 candles | last close ₹371.35
+2026-03-17 12:12:06,940 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.35 | ema_fast=371.00 | ema_slow=371.18 | rsi=52.1
+2026-03-17 12:12:07,217 | INFO | INDUSINDBK.NS -> 336 candles | last close ₹811.75
+2026-03-17 12:12:07,221 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹811.75 | ema_fast=811.70 | ema_slow=812.83 | rsi=43.2
+2026-03-17 12:12:07,361 | INFO | BAJFINANCE.NS -> 336 candles | last close ₹864.00
+2026-03-17 12:12:07,364 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹864.0 | ema_fast=863.54 | ema_slow=866.05 | rsi=39.2
+2026-03-17 12:12:07,496 | INFO | TCS.NS -> 336 candles | last close ₹2387.50
+2026-03-17 12:12:07,499 | INFO | TCS.NS -> signal=HOLD | price=₹2387.5 | ema_fast=2386.72 | ema_slow=2386.10 | rsi=52.6
+2026-03-17 12:12:07,656 | INFO | INFY.NS -> 336 candles | last close ₹1234.40
+2026-03-17 12:12:07,661 | INFO | INFY.NS -> signal=HOLD | price=₹1234.4 | ema_fast=1233.60 | ema_slow=1233.60 | rsi=51.7
+2026-03-17 12:12:07,799 | INFO | TECHM.NS -> 336 candles | last close ₹1349.90
+2026-03-17 12:12:07,802 | INFO | TECHM.NS -> signal=HOLD | price=₹1349.9 | ema_fast=1348.28 | ema_slow=1344.42 | rsi=65.2
+2026-03-17 12:12:07,933 | INFO | RELIANCE.NS -> 336 candles | last close ₹1393.30
+2026-03-17 12:12:07,936 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1393.3 | ema_fast=1393.16 | ema_slow=1394.43 | rsi=45.9
+2026-03-17 12:12:08,101 | INFO | TATASTEEL.NS -> 336 candles | last close ₹191.43
+2026-03-17 12:12:08,103 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.43 | ema_fast=191.41 | ema_slow=191.32 | rsi=55.1
+2026-03-17 12:12:08,237 | INFO | VEDL.NS -> 336 candles | last close ₹691.85
+2026-03-17 12:12:08,239 | INFO | VEDL.NS -> signal=HOLD | price=₹691.85 | ema_fast=691.12 | ema_slow=690.81 | rsi=55.4
+2026-03-17 12:12:08,433 | INFO | LT.NS -> 336 candles | last close ₹3468.20
+2026-03-17 12:12:08,436 | INFO | LT.NS -> signal=HOLD | price=₹3468.2 | ema_fast=3470.50 | ema_slow=3474.52 | rsi=44.1
+2026-03-17 12:12:08,616 | INFO | ITC.NS -> 336 candles | last close ₹306.65
+2026-03-17 12:12:08,620 | INFO | ITC.NS -> signal=HOLD | price=₹306.65 | ema_fast=306.18 | ema_slow=306.12 | rsi=57.7
+2026-03-17 12:17:10,544 | INFO | NIFTY trend: BEAR | price=23405 | ema20=23430
+2026-03-17 12:17:10,544 | INFO | NIFTY trend: BEAR
+2026-03-17 12:17:10,871 | INFO | HDFCBANK.NS -> 337 candles | last close ₹839.60
+2026-03-17 12:17:10,876 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹839.6 | ema_fast=839.60 | ema_slow=839.78 | rsi=49.3
+2026-03-17 12:17:11,195 | INFO | ICICIBANK.NS -> 337 candles | last close ₹1279.40
+2026-03-17 12:17:11,198 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1279.4 | ema_fast=1279.01 | ema_slow=1279.30 | rsi=51.2
+2026-03-17 12:17:11,525 | INFO | SBIN.NS -> 337 candles | last close ₹1051.80
+2026-03-17 12:17:11,529 | INFO | SBIN.NS -> signal=HOLD | price=₹1051.8 | ema_fast=1052.64 | ema_slow=1053.20 | rsi=44.6
+2026-03-17 12:17:11,845 | INFO | AXISBANK.NS -> 337 candles | last close ₹1221.30
+2026-03-17 12:17:11,848 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1221.3 | ema_fast=1221.85 | ema_slow=1221.04 | rsi=52.5
+2026-03-17 12:17:12,152 | INFO | KOTAKBANK.NS -> 337 candles | last close ₹370.60
+2026-03-17 12:17:12,155 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹370.6 | ema_fast=370.87 | ema_slow=371.10 | rsi=45.7
+2026-03-17 12:17:12,489 | INFO | INDUSINDBK.NS -> 337 candles | last close ₹810.65
+2026-03-17 12:17:12,493 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹810.65 | ema_fast=811.51 | ema_slow=812.65 | rsi=39.9
+2026-03-17 12:17:12,807 | INFO | BAJFINANCE.NS -> 337 candles | last close ₹862.40
+2026-03-17 12:17:12,812 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹862.4 | ema_fast=863.36 | ema_slow=865.75 | rsi=35.7
+2026-03-17 12:17:13,119 | INFO | TCS.NS -> 337 candles | last close ₹2382.80
+2026-03-17 12:17:13,123 | INFO | TCS.NS -> signal=HOLD | price=₹2382.8 | ema_fast=2385.68 | ema_slow=2385.67 | rsi=45.4
+2026-03-17 12:17:13,437 | INFO | INFY.NS -> 337 candles | last close ₹1234.00
+2026-03-17 12:17:13,442 | INFO | INFY.NS -> signal=HOLD | price=₹1234.0 | ema_fast=1233.61 | ema_slow=1233.60 | rsi=50.8
+2026-03-17 12:17:13,759 | INFO | TECHM.NS -> 337 candles | last close ₹1349.50
+2026-03-17 12:17:13,764 | INFO | TECHM.NS -> signal=HOLD | price=₹1349.5 | ema_fast=1348.68 | ema_slow=1344.97 | rsi=62.9
+2026-03-17 12:17:14,067 | INFO | RELIANCE.NS -> 337 candles | last close ₹1392.20
+2026-03-17 12:17:14,070 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1392.2 | ema_fast=1393.01 | ema_slow=1394.25 | rsi=43.0
+2026-03-17 12:17:14,408 | INFO | TATASTEEL.NS -> 337 candles | last close ₹190.67
+2026-03-17 12:17:14,412 | INFO | TATASTEEL.NS -> signal=SELL | price=₹190.67 | ema_fast=191.22 | ema_slow=191.24 | rsi=44.9
+2026-03-17 12:17:14,412 | INFO | TATASTEEL.NS -> SELL signal but no open position
+2026-03-17 12:17:14,729 | INFO | VEDL.NS -> 337 candles | last close ₹690.25
+2026-03-17 12:17:14,734 | INFO | VEDL.NS -> signal=HOLD | price=₹690.25 | ema_fast=690.97 | ema_slow=690.77 | rsi=49.2
+2026-03-17 12:17:15,034 | INFO | LT.NS -> 337 candles | last close ₹3460.10
+2026-03-17 12:17:15,036 | INFO | LT.NS -> signal=HOLD | price=₹3460.1 | ema_fast=3468.39 | ema_slow=3473.19 | rsi=38.5
+2026-03-17 12:17:15,381 | INFO | ITC.NS -> 337 candles | last close ₹306.55
+2026-03-17 12:17:15,385 | INFO | ITC.NS -> signal=HOLD | price=₹306.55 | ema_fast=306.26 | ema_slow=306.16 | rsi=55.8
+2026-03-17 12:22:16,730 | INFO | NIFTY trend: NEUTRAL | price=23406 | ema20=23426
+2026-03-17 12:22:16,730 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 12:22:16,973 | INFO | HDFCBANK.NS -> 338 candles | last close ₹840.20
+2026-03-17 12:22:16,976 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹840.2 | ema_fast=839.60 | ema_slow=839.76 | rsi=51.7
+2026-03-17 12:22:17,109 | INFO | ICICIBANK.NS -> 338 candles | last close ₹1281.50
+2026-03-17 12:22:17,112 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1281.5 | ema_fast=1279.64 | ema_slow=1279.57 | rsi=57.7
+2026-03-17 12:22:17,275 | INFO | SBIN.NS -> 338 candles | last close ₹1052.00
+2026-03-17 12:22:17,279 | INFO | SBIN.NS -> signal=HOLD | price=₹1052.0 | ema_fast=1052.39 | ema_slow=1053.03 | rsi=45.8
+2026-03-17 12:22:17,459 | INFO | AXISBANK.NS -> 338 candles | last close ₹1221.30
+2026-03-17 12:22:17,463 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1221.3 | ema_fast=1221.53 | ema_slow=1220.96 | rsi=52.4
+2026-03-17 12:22:17,604 | INFO | KOTAKBANK.NS -> 338 candles | last close ₹370.80
+2026-03-17 12:22:17,606 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹370.8 | ema_fast=370.80 | ema_slow=371.05 | rsi=48.0
+2026-03-17 12:22:17,884 | INFO | INDUSINDBK.NS -> 338 candles | last close ₹811.20
+2026-03-17 12:22:17,888 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹811.2 | ema_fast=811.47 | ema_slow=812.52 | rsi=42.2
+2026-03-17 12:22:18,021 | INFO | BAJFINANCE.NS -> 338 candles | last close ₹862.90
+2026-03-17 12:22:18,024 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹862.9 | ema_fast=863.25 | ema_slow=865.48 | rsi=38.0
+2026-03-17 12:22:18,251 | INFO | TCS.NS -> 338 candles | last close ₹2383.00
+2026-03-17 12:22:18,255 | INFO | TCS.NS -> signal=HOLD | price=₹2383.0 | ema_fast=2384.62 | ema_slow=2385.15 | rsi=46.8
+2026-03-17 12:22:18,424 | INFO | INFY.NS -> 338 candles | last close ₹1232.70
+2026-03-17 12:22:18,428 | INFO | INFY.NS -> signal=HOLD | price=₹1232.7 | ema_fast=1232.95 | ema_slow=1233.27 | rsi=48.4
+2026-03-17 12:22:18,568 | INFO | TECHM.NS -> 338 candles | last close ₹1350.30
+2026-03-17 12:22:18,570 | INFO | TECHM.NS -> signal=HOLD | price=₹1350.3 | ema_fast=1348.96 | ema_slow=1345.43 | rsi=63.9
+2026-03-17 12:22:18,741 | INFO | RELIANCE.NS -> 338 candles | last close ₹1391.10
+2026-03-17 12:22:18,746 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1391.1 | ema_fast=1392.34 | ema_slow=1393.81 | rsi=41.3
+2026-03-17 12:22:18,911 | INFO | TATASTEEL.NS -> 338 candles | last close ₹190.70
+2026-03-17 12:22:18,915 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹190.7 | ema_fast=191.09 | ema_slow=191.18 | rsi=45.8
+2026-03-17 12:22:19,194 | INFO | VEDL.NS -> 338 candles | last close ₹689.90
+2026-03-17 12:22:19,198 | INFO | VEDL.NS -> signal=HOLD | price=₹689.9 | ema_fast=690.66 | ema_slow=690.64 | rsi=48.2
+2026-03-17 12:22:19,371 | INFO | LT.NS -> 338 candles | last close ₹3458.70
+2026-03-17 12:22:19,375 | INFO | LT.NS -> signal=HOLD | price=₹3458.7 | ema_fast=3465.62 | ema_slow=3471.45 | rsi=39.2
+2026-03-17 12:22:19,519 | INFO | ITC.NS -> 338 candles | last close ₹306.50
+2026-03-17 12:22:19,522 | INFO | ITC.NS -> signal=HOLD | price=₹306.5 | ema_fast=306.30 | ema_slow=306.19 | rsi=55.1
+2026-03-17 12:27:24,521 | INFO | NIFTY trend: NEUTRAL | price=23402 | ema20=23422
+2026-03-17 12:27:24,521 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 12:27:25,139 | INFO | HDFCBANK.NS -> 339 candles | last close ₹839.40
+2026-03-17 12:27:25,143 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹839.4 | ema_fast=839.37 | ema_slow=839.63 | rsi=48.9
+2026-03-17 12:27:25,745 | INFO | ICICIBANK.NS -> 339 candles | last close ₹1281.90
+2026-03-17 12:27:25,749 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1281.9 | ema_fast=1279.98 | ema_slow=1279.72 | rsi=59.0
+2026-03-17 12:27:26,338 | INFO | SBIN.NS -> 339 candles | last close ₹1050.60
+2026-03-17 12:27:26,340 | INFO | SBIN.NS -> signal=HOLD | price=₹1050.6 | ema_fast=1051.81 | ema_slow=1052.69 | rsi=41.7
+2026-03-17 12:27:26,900 | INFO | AXISBANK.NS -> 339 candles | last close ₹1221.20
+2026-03-17 12:27:26,904 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1221.2 | ema_fast=1221.26 | ema_slow=1220.87 | rsi=52.4
+2026-03-17 12:27:27,240 | INFO | KOTAKBANK.NS -> 339 candles | last close ₹371.05
+2026-03-17 12:27:27,244 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.05 | ema_fast=370.83 | ema_slow=371.03 | rsi=50.2
+2026-03-17 12:27:27,577 | INFO | INDUSINDBK.NS -> 339 candles | last close ₹811.45
+2026-03-17 12:27:27,582 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹811.45 | ema_fast=811.47 | ema_slow=812.43 | rsi=43.3
+2026-03-17 12:27:27,881 | INFO | BAJFINANCE.NS -> 339 candles | last close ₹860.90
+2026-03-17 12:27:27,884 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹860.9 | ema_fast=862.49 | ema_slow=864.91 | rsi=32.5
+2026-03-17 12:27:28,495 | INFO | TCS.NS -> 339 candles | last close ₹2384.50
+2026-03-17 12:27:28,499 | INFO | TCS.NS -> signal=HOLD | price=₹2384.5 | ema_fast=2384.28 | ema_slow=2384.93 | rsi=49.2
+2026-03-17 12:27:30,163 | INFO | INFY.NS -> 339 candles | last close ₹1231.80
+2026-03-17 12:27:30,168 | INFO | INFY.NS -> signal=HOLD | price=₹1231.8 | ema_fast=1232.38 | ema_slow=1232.97 | rsi=46.7
+2026-03-17 12:27:30,743 | INFO | TECHM.NS -> 339 candles | last close ₹1350.30
+2026-03-17 12:27:30,747 | INFO | TECHM.NS -> signal=HOLD | price=₹1350.3 | ema_fast=1348.89 | ema_slow=1345.70 | rsi=63.0
+2026-03-17 12:27:31,107 | INFO | RELIANCE.NS -> 339 candles | last close ₹1390.60
+2026-03-17 12:27:31,111 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1390.6 | ema_fast=1391.84 | ema_slow=1393.44 | rsi=40.1
+2026-03-17 12:27:31,441 | INFO | TATASTEEL.NS -> 339 candles | last close ₹190.63
+2026-03-17 12:27:31,448 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹190.63 | ema_fast=190.97 | ema_slow=191.11 | rsi=45.1
+2026-03-17 12:27:31,768 | INFO | VEDL.NS -> 339 candles | last close ₹689.95
+2026-03-17 12:27:31,771 | INFO | VEDL.NS -> signal=HOLD | price=₹689.95 | ema_fast=690.47 | ema_slow=690.56 | rsi=48.5
+2026-03-17 12:27:32,131 | INFO | LT.NS -> 339 candles | last close ₹3464.00
+2026-03-17 12:27:32,134 | INFO | LT.NS -> signal=HOLD | price=₹3464.0 | ema_fast=3464.85 | ema_slow=3470.54 | rsi=44.1
+2026-03-17 12:27:32,483 | INFO | ITC.NS -> 339 candles | last close ₹306.50
+2026-03-17 12:27:32,487 | INFO | ITC.NS -> signal=HOLD | price=₹306.5 | ema_fast=306.32 | ema_slow=306.21 | rsi=54.8
+2026-03-17 12:32:33,882 | INFO | NIFTY trend: BEAR | price=23393 | ema20=23419
+2026-03-17 12:32:33,882 | INFO | NIFTY trend: BEAR
+2026-03-17 12:32:34,034 | INFO | HDFCBANK.NS -> 340 candles | last close ₹839.30
+2026-03-17 12:32:34,037 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹839.3 | ema_fast=839.41 | ema_slow=839.63 | rsi=48.5
+2026-03-17 12:32:34,208 | INFO | ICICIBANK.NS -> 340 candles | last close ₹1283.10
+2026-03-17 12:32:34,213 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1283.1 | ema_fast=1280.73 | ema_slow=1280.10 | rsi=62.1
+2026-03-17 12:32:34,463 | INFO | SBIN.NS -> 340 candles | last close ₹1049.90
+2026-03-17 12:32:34,466 | INFO | SBIN.NS -> signal=HOLD | price=₹1049.9 | ema_fast=1051.49 | ema_slow=1052.47 | rsi=40.3
+2026-03-17 12:32:34,604 | INFO | AXISBANK.NS -> 340 candles | last close ₹1221.00
+2026-03-17 12:32:34,607 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1221.0 | ema_fast=1221.32 | ema_slow=1220.94 | rsi=51.6
+2026-03-17 12:32:34,793 | INFO | KOTAKBANK.NS -> 340 candles | last close ₹370.75
+2026-03-17 12:32:34,797 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹370.75 | ema_fast=370.81 | ema_slow=371.01 | rsi=47.7
+2026-03-17 12:32:34,988 | INFO | INDUSINDBK.NS -> 340 candles | last close ₹810.75
+2026-03-17 12:32:34,990 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹810.75 | ema_fast=811.34 | ema_slow=812.28 | rsi=40.9
+2026-03-17 12:32:35,171 | INFO | BAJFINANCE.NS -> 340 candles | last close ₹860.60
+2026-03-17 12:32:35,175 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹860.6 | ema_fast=862.23 | ema_slow=864.58 | rsi=32.9
+2026-03-17 12:32:35,351 | INFO | TCS.NS -> 340 candles | last close ₹2383.00
+2026-03-17 12:32:35,355 | INFO | TCS.NS -> signal=HOLD | price=₹2383.0 | ema_fast=2384.10 | ema_slow=2384.79 | rsi=47.1
+2026-03-17 12:32:35,640 | INFO | INFY.NS -> 340 candles | last close ₹1231.50
+2026-03-17 12:32:35,644 | INFO | INFY.NS -> signal=HOLD | price=₹1231.5 | ema_fast=1232.26 | ema_slow=1232.86 | rsi=46.0
+2026-03-17 12:32:35,902 | INFO | TECHM.NS -> 340 candles | last close ₹1347.80
+2026-03-17 12:32:35,905 | INFO | TECHM.NS -> signal=HOLD | price=₹1347.8 | ema_fast=1348.67 | ema_slow=1345.89 | rsi=57.0
+2026-03-17 12:32:36,049 | INFO | RELIANCE.NS -> 340 candles | last close ₹1390.00
+2026-03-17 12:32:36,052 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1390.0 | ema_fast=1391.36 | ema_slow=1393.07 | rsi=38.3
+2026-03-17 12:32:36,381 | INFO | TATASTEEL.NS -> 340 candles | last close ₹190.46
+2026-03-17 12:32:36,384 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹190.46 | ema_fast=190.87 | ema_slow=191.05 | rsi=42.9
+2026-03-17 12:32:36,553 | INFO | VEDL.NS -> 340 candles | last close ₹689.80
+2026-03-17 12:32:36,555 | INFO | VEDL.NS -> signal=HOLD | price=₹689.8 | ema_fast=690.38 | ema_slow=690.51 | rsi=47.9
+2026-03-17 12:32:36,737 | INFO | LT.NS -> 340 candles | last close ₹3461.10
+2026-03-17 12:32:36,741 | INFO | LT.NS -> signal=HOLD | price=₹3461.1 | ema_fast=3464.34 | ema_slow=3469.80 | rsi=42.4
+2026-03-17 12:32:36,890 | INFO | ITC.NS -> 340 candles | last close ₹306.45
+2026-03-17 12:32:36,893 | INFO | ITC.NS -> signal=HOLD | price=₹306.45 | ema_fast=306.35 | ema_slow=306.23 | rsi=53.7
+2026-03-17 12:37:38,313 | INFO | NIFTY trend: NEUTRAL | price=23422 | ema20=23421
+2026-03-17 12:37:38,313 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 12:37:38,968 | INFO | HDFCBANK.NS -> 341 candles | last close ₹841.10
+2026-03-17 12:37:38,971 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹841.1 | ema_fast=839.93 | ema_slow=839.86 | rsi=55.6
+2026-03-17 12:37:39,148 | INFO | ICICIBANK.NS -> 341 candles | last close ₹1283.00
+2026-03-17 12:37:39,151 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1283.0 | ema_fast=1281.07 | ema_slow=1280.30 | rsi=61.5
+2026-03-17 12:37:39,329 | INFO | SBIN.NS -> 341 candles | last close ₹1051.80
+2026-03-17 12:37:39,333 | INFO | SBIN.NS -> signal=HOLD | price=₹1051.8 | ema_fast=1051.81 | ema_slow=1052.54 | rsi=45.9
+2026-03-17 12:37:39,466 | INFO | AXISBANK.NS -> 341 candles | last close ₹1221.60
+2026-03-17 12:37:39,469 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1221.6 | ema_fast=1221.47 | ema_slow=1221.05 | rsi=53.2
+2026-03-17 12:37:39,598 | INFO | KOTAKBANK.NS -> 341 candles | last close ₹371.20
+2026-03-17 12:37:39,601 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.2 | ema_fast=370.93 | ema_slow=371.05 | rsi=51.6
+2026-03-17 12:37:39,763 | INFO | INDUSINDBK.NS -> 341 candles | last close ₹811.75
+2026-03-17 12:37:39,767 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹811.75 | ema_fast=811.54 | ema_slow=812.30 | rsi=44.8
+2026-03-17 12:37:39,910 | INFO | BAJFINANCE.NS -> 341 candles | last close ₹861.50
+2026-03-17 12:37:39,913 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹861.5 | ema_fast=862.11 | ema_slow=864.32 | rsi=36.5
+2026-03-17 12:37:40,045 | INFO | TCS.NS -> 341 candles | last close ₹2385.70
+2026-03-17 12:37:40,048 | INFO | TCS.NS -> signal=HOLD | price=₹2385.7 | ema_fast=2384.80 | ema_slow=2385.07 | rsi=50.9
+2026-03-17 12:37:40,232 | INFO | INFY.NS -> 341 candles | last close ₹1231.80
+2026-03-17 12:37:40,236 | INFO | INFY.NS -> signal=HOLD | price=₹1231.8 | ema_fast=1232.26 | ema_slow=1232.81 | rsi=46.6
+2026-03-17 12:37:40,388 | INFO | TECHM.NS -> 341 candles | last close ₹1350.60
+2026-03-17 12:37:40,391 | INFO | TECHM.NS -> signal=HOLD | price=₹1350.6 | ema_fast=1349.25 | ema_slow=1346.42 | rsi=62.4
+2026-03-17 12:37:40,525 | INFO | RELIANCE.NS -> 341 candles | last close ₹1391.70
+2026-03-17 12:37:40,527 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1391.7 | ema_fast=1391.63 | ema_slow=1393.05 | rsi=44.3
+2026-03-17 12:37:40,704 | INFO | TATASTEEL.NS -> 341 candles | last close ₹190.82
+2026-03-17 12:37:40,708 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹190.82 | ema_fast=190.87 | ema_slow=191.04 | rsi=48.3
+2026-03-17 12:37:40,865 | INFO | VEDL.NS -> 341 candles | last close ₹691.00
+2026-03-17 12:37:40,869 | INFO | VEDL.NS -> signal=HOLD | price=₹691.0 | ema_fast=690.64 | ema_slow=690.63 | rsi=52.5
+2026-03-17 12:37:41,061 | INFO | LT.NS -> 341 candles | last close ₹3469.60
+2026-03-17 12:37:41,064 | INFO | LT.NS -> signal=HOLD | price=₹3469.6 | ema_fast=3466.19 | ema_slow=3470.20 | rsi=48.7
+2026-03-17 12:37:41,239 | INFO | ITC.NS -> 341 candles | last close ₹306.60
+2026-03-17 12:37:41,243 | INFO | ITC.NS -> signal=HOLD | price=₹306.6 | ema_fast=306.41 | ema_slow=306.27 | rsi=56.0
+2026-03-17 12:42:42,626 | INFO | NIFTY trend: NEUTRAL | price=23419 | ema20=23421
+2026-03-17 12:42:42,626 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 12:42:42,790 | INFO | HDFCBANK.NS -> 342 candles | last close ₹841.30
+2026-03-17 12:42:42,794 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹841.3 | ema_fast=840.31 | ema_slow=840.04 | rsi=55.7
+2026-03-17 12:42:42,979 | INFO | ICICIBANK.NS -> 342 candles | last close ₹1283.10
+2026-03-17 12:42:42,981 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1283.1 | ema_fast=1281.46 | ema_slow=1280.55 | rsi=61.8
+2026-03-17 12:42:43,103 | INFO | SBIN.NS -> 342 candles | last close ₹1050.90
+2026-03-17 12:42:43,106 | INFO | SBIN.NS -> signal=HOLD | price=₹1050.9 | ema_fast=1051.50 | ema_slow=1052.32 | rsi=43.1
+2026-03-17 12:42:43,247 | INFO | AXISBANK.NS -> 342 candles | last close ₹1221.90
+2026-03-17 12:42:43,251 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1221.9 | ema_fast=1221.60 | ema_slow=1221.15 | rsi=54.0
+2026-03-17 12:42:43,456 | INFO | KOTAKBANK.NS -> 342 candles | last close ₹371.00
+2026-03-17 12:42:43,458 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.0 | ema_fast=370.96 | ema_slow=371.05 | rsi=49.6
+2026-03-17 12:42:43,663 | INFO | INDUSINDBK.NS -> 342 candles | last close ₹811.75
+2026-03-17 12:42:43,666 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹811.75 | ema_fast=811.53 | ema_slow=812.22 | rsi=45.0
+2026-03-17 12:42:43,811 | INFO | BAJFINANCE.NS -> 342 candles | last close ₹861.05
+2026-03-17 12:42:43,814 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹861.05 | ema_fast=861.86 | ema_slow=864.00 | rsi=34.9
+2026-03-17 12:42:43,932 | INFO | TCS.NS -> 342 candles | last close ₹2384.50
+2026-03-17 12:42:43,935 | INFO | TCS.NS -> signal=HOLD | price=₹2384.5 | ema_fast=2384.54 | ema_slow=2384.91 | rsi=49.1
+2026-03-17 12:42:44,045 | INFO | INFY.NS -> 342 candles | last close ₹1232.30
+2026-03-17 12:42:44,048 | INFO | INFY.NS -> signal=HOLD | price=₹1232.3 | ema_fast=1232.28 | ema_slow=1232.77 | rsi=48.0
+2026-03-17 12:42:44,198 | INFO | TECHM.NS -> 342 candles | last close ₹1349.70
+2026-03-17 12:42:44,202 | INFO | TECHM.NS -> signal=HOLD | price=₹1349.7 | ema_fast=1349.16 | ema_slow=1346.62 | rsi=61.0
+2026-03-17 12:42:44,361 | INFO | RELIANCE.NS -> 342 candles | last close ₹1391.60
+2026-03-17 12:42:44,365 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1391.6 | ema_fast=1391.67 | ema_slow=1392.94 | rsi=44.2
+2026-03-17 12:42:44,478 | INFO | TATASTEEL.NS -> 342 candles | last close ₹190.65
+2026-03-17 12:42:44,481 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹190.65 | ema_fast=190.81 | ema_slow=190.99 | rsi=45.8
+2026-03-17 12:42:44,589 | INFO | VEDL.NS -> 342 candles | last close ₹690.50
+2026-03-17 12:42:44,591 | INFO | VEDL.NS -> signal=HOLD | price=₹690.5 | ema_fast=690.61 | ema_slow=690.61 | rsi=50.3
+2026-03-17 12:42:44,737 | INFO | LT.NS -> 342 candles | last close ₹3469.20
+2026-03-17 12:42:44,741 | INFO | LT.NS -> signal=HOLD | price=₹3469.2 | ema_fast=3466.95 | ema_slow=3470.19 | rsi=48.4
+2026-03-17 12:42:44,864 | INFO | ITC.NS -> 342 candles | last close ₹306.75
+2026-03-17 12:42:44,867 | INFO | ITC.NS -> signal=HOLD | price=₹306.75 | ema_fast=306.49 | ema_slow=306.32 | rsi=58.1
+2026-03-17 12:47:46,261 | INFO | NIFTY trend: BULL | price=23459 | ema20=23428
+2026-03-17 12:47:46,261 | INFO | NIFTY trend: BULL
+2026-03-17 12:47:46,408 | INFO | HDFCBANK.NS -> 343 candles | last close ₹842.35
+2026-03-17 12:47:46,411 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹842.35 | ema_fast=840.85 | ema_slow=840.32 | rsi=59.9
+2026-03-17 12:47:46,590 | INFO | ICICIBANK.NS -> 343 candles | last close ₹1283.80
+2026-03-17 12:47:46,594 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1283.8 | ema_fast=1282.17 | ema_slow=1280.97 | rsi=62.1
+2026-03-17 12:47:46,764 | INFO | SBIN.NS -> 343 candles | last close ₹1051.90
+2026-03-17 12:47:46,768 | INFO | SBIN.NS -> signal=HOLD | price=₹1051.9 | ema_fast=1052.07 | ema_slow=1052.54 | rsi=47.0
+2026-03-17 12:47:47,021 | INFO | AXISBANK.NS -> 343 candles | last close ₹1224.90
+2026-03-17 12:47:47,024 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1224.9 | ema_fast=1222.70 | ema_slow=1221.72 | rsi=61.1
+2026-03-17 12:47:47,201 | INFO | KOTAKBANK.NS -> 343 candles | last close ₹371.55
+2026-03-17 12:47:47,205 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.55 | ema_fast=371.16 | ema_slow=371.14 | rsi=54.7
+2026-03-17 12:47:47,347 | INFO | INDUSINDBK.NS -> 343 candles | last close ₹814.00
+2026-03-17 12:47:47,350 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹814.0 | ema_fast=812.42 | ema_slow=812.59 | rsi=54.5
+2026-03-17 12:47:47,490 | INFO | BAJFINANCE.NS -> 343 candles | last close ₹862.90
+2026-03-17 12:47:47,494 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹862.9 | ema_fast=862.30 | ema_slow=864.02 | rsi=42.4
+2026-03-17 12:47:47,671 | INFO | TCS.NS -> 343 candles | last close ₹2394.10
+2026-03-17 12:47:47,675 | INFO | TCS.NS -> signal=HOLD | price=₹2394.1 | ema_fast=2387.63 | ema_slow=2386.36 | rsi=61.2
+2026-03-17 12:47:47,813 | INFO | INFY.NS -> 343 candles | last close ₹1233.20
+2026-03-17 12:47:47,815 | INFO | INFY.NS -> signal=HOLD | price=₹1233.2 | ema_fast=1232.55 | ema_slow=1232.85 | rsi=50.5
+2026-03-17 12:47:47,962 | INFO | TECHM.NS -> 343 candles | last close ₹1352.00
+2026-03-17 12:47:47,966 | INFO | TECHM.NS -> signal=HOLD | price=₹1352.0 | ema_fast=1349.96 | ema_slow=1347.23 | rsi=64.7
+2026-03-17 12:47:48,144 | INFO | RELIANCE.NS -> 343 candles | last close ₹1396.40
+2026-03-17 12:47:48,148 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1396.4 | ema_fast=1393.28 | ema_slow=1393.60 | rsi=57.5
+2026-03-17 12:47:48,285 | INFO | TATASTEEL.NS -> 343 candles | last close ₹191.20
+2026-03-17 12:47:48,289 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.2 | ema_fast=190.95 | ema_slow=191.04 | rsi=53.9
+2026-03-17 12:47:48,449 | INFO | VEDL.NS -> 343 candles | last close ₹692.45
+2026-03-17 12:47:48,454 | INFO | VEDL.NS -> signal=HOLD | price=₹692.45 | ema_fast=691.19 | ema_slow=690.89 | rsi=57.8
+2026-03-17 12:47:48,639 | INFO | LT.NS -> 343 candles | last close ₹3476.20
+2026-03-17 12:47:48,643 | INFO | LT.NS -> signal=HOLD | price=₹3476.2 | ema_fast=3469.68 | ema_slow=3471.19 | rsi=53.8
+2026-03-17 12:47:48,785 | INFO | ITC.NS -> 343 candles | last close ₹307.20
+2026-03-17 12:47:48,788 | INFO | ITC.NS -> signal=HOLD | price=₹307.2 | ema_fast=306.69 | ema_slow=306.43 | rsi=63.7
+2026-03-17 12:52:50,126 | INFO | NIFTY trend: BULL | price=23466 | ema20=23434
+2026-03-17 12:52:50,126 | INFO | NIFTY trend: BULL
+2026-03-17 12:52:50,346 | INFO | HDFCBANK.NS -> 344 candles | last close ₹844.00
+2026-03-17 12:52:50,350 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.0 | ema_fast=841.68 | ema_slow=840.76 | rsi=64.9
+2026-03-17 12:52:50,464 | INFO | ICICIBANK.NS -> 344 candles | last close ₹1284.60
+2026-03-17 12:52:50,466 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1284.6 | ema_fast=1282.90 | ema_slow=1281.42 | rsi=64.0
+2026-03-17 12:52:50,700 | INFO | SBIN.NS -> 344 candles | last close ₹1053.30
+2026-03-17 12:52:50,704 | INFO | SBIN.NS -> signal=HOLD | price=₹1053.3 | ema_fast=1052.64 | ema_slow=1052.78 | rsi=50.8
+2026-03-17 12:52:50,847 | INFO | AXISBANK.NS -> 344 candles | last close ₹1224.40
+2026-03-17 12:52:50,851 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1224.4 | ema_fast=1223.24 | ema_slow=1222.07 | rsi=57.9
+2026-03-17 12:52:50,963 | INFO | KOTAKBANK.NS -> 344 candles | last close ₹371.45
+2026-03-17 12:52:50,966 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.45 | ema_fast=371.29 | ema_slow=371.20 | rsi=52.7
+2026-03-17 12:52:51,098 | INFO | INDUSINDBK.NS -> 344 candles | last close ₹813.60
+2026-03-17 12:52:51,102 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹813.6 | ema_fast=812.90 | ema_slow=812.81 | rsi=51.8
+2026-03-17 12:52:51,249 | INFO | BAJFINANCE.NS -> 344 candles | last close ₹862.45
+2026-03-17 12:52:51,253 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹862.45 | ema_fast=862.50 | ema_slow=863.97 | rsi=42.0
+2026-03-17 12:52:51,370 | INFO | TCS.NS -> 344 candles | last close ₹2392.00
+2026-03-17 12:52:51,372 | INFO | TCS.NS -> signal=HOLD | price=₹2392.0 | ema_fast=2388.62 | ema_slow=2386.93 | rsi=57.4
+2026-03-17 12:52:51,480 | INFO | INFY.NS -> 344 candles | last close ₹1233.00
+2026-03-17 12:52:51,483 | INFO | INFY.NS -> signal=HOLD | price=₹1233.0 | ema_fast=1232.91 | ema_slow=1233.01 | rsi=49.6
+2026-03-17 12:52:51,642 | INFO | TECHM.NS -> 344 candles | last close ₹1351.20
+2026-03-17 12:52:51,646 | INFO | TECHM.NS -> signal=HOLD | price=₹1351.2 | ema_fast=1350.36 | ema_slow=1347.67 | rsi=61.2
+2026-03-17 12:52:51,782 | INFO | RELIANCE.NS -> 344 candles | last close ₹1397.70
+2026-03-17 12:52:51,785 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1397.7 | ema_fast=1394.56 | ema_slow=1394.18 | rsi=58.9
+2026-03-17 12:52:51,903 | INFO | TATASTEEL.NS -> 344 candles | last close ₹191.02
+2026-03-17 12:52:51,908 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.02 | ema_fast=190.98 | ema_slow=191.05 | rsi=50.9
+2026-03-17 12:52:52,036 | INFO | VEDL.NS -> 344 candles | last close ₹691.30
+2026-03-17 12:52:52,040 | INFO | VEDL.NS -> signal=HOLD | price=₹691.3 | ema_fast=691.20 | ema_slow=690.92 | rsi=52.6
+2026-03-17 12:52:52,255 | INFO | LT.NS -> 344 candles | last close ₹3481.30
+2026-03-17 12:52:52,259 | INFO | LT.NS -> signal=HOLD | price=₹3481.3 | ema_fast=3472.92 | ema_slow=3472.58 | rsi=57.1
+2026-03-17 12:52:52,452 | INFO | ITC.NS -> 344 candles | last close ₹307.05
+2026-03-17 12:52:52,455 | INFO | ITC.NS -> signal=HOLD | price=₹307.05 | ema_fast=306.77 | ema_slow=306.49 | rsi=60.3
+2026-03-17 12:57:54,642 | INFO | NIFTY trend: BULL | price=23470 | ema20=23437
+2026-03-17 12:57:54,642 | INFO | NIFTY trend: BULL
+2026-03-17 12:57:54,969 | INFO | HDFCBANK.NS -> 345 candles | last close ₹844.00
+2026-03-17 12:57:54,973 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.0 | ema_fast=842.08 | ema_slow=841.02 | rsi=65.0
+2026-03-17 12:57:55,290 | INFO | ICICIBANK.NS -> 345 candles | last close ₹1283.60
+2026-03-17 12:57:55,293 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1283.6 | ema_fast=1282.86 | ema_slow=1281.53 | rsi=59.7
+2026-03-17 12:57:55,636 | INFO | SBIN.NS -> 345 candles | last close ₹1054.40
+2026-03-17 12:57:55,641 | INFO | SBIN.NS -> signal=HOLD | price=₹1054.4 | ema_fast=1053.07 | ema_slow=1052.97 | rsi=54.4
+2026-03-17 12:57:55,959 | INFO | AXISBANK.NS -> 345 candles | last close ₹1225.30
+2026-03-17 12:57:55,961 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1225.3 | ema_fast=1223.74 | ema_slow=1222.40 | rsi=60.3
+2026-03-17 12:57:56,263 | INFO | KOTAKBANK.NS -> 345 candles | last close ₹371.70
+2026-03-17 12:57:56,266 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.7 | ema_fast=371.43 | ema_slow=371.28 | rsi=55.1
+2026-03-17 12:57:56,623 | INFO | INDUSINDBK.NS -> 345 candles | last close ₹813.70
+2026-03-17 12:57:56,627 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹813.7 | ema_fast=813.06 | ema_slow=812.89 | rsi=52.1
+2026-03-17 12:57:56,964 | INFO | BAJFINANCE.NS -> 345 candles | last close ₹863.05
+2026-03-17 12:57:56,967 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹863.05 | ema_fast=862.66 | ema_slow=863.91 | rsi=43.9
+2026-03-17 12:57:57,281 | INFO | TCS.NS -> 345 candles | last close ₹2391.80
+2026-03-17 12:57:57,283 | INFO | TCS.NS -> signal=HOLD | price=₹2391.8 | ema_fast=2389.11 | ema_slow=2387.30 | rsi=57.0
+2026-03-17 12:57:57,601 | INFO | INFY.NS -> 345 candles | last close ₹1232.50
+2026-03-17 12:57:57,605 | INFO | INFY.NS -> signal=HOLD | price=₹1232.5 | ema_fast=1232.81 | ema_slow=1232.95 | rsi=48.4
+2026-03-17 12:57:57,959 | INFO | TECHM.NS -> 345 candles | last close ₹1349.80
+2026-03-17 12:57:57,963 | INFO | TECHM.NS -> signal=HOLD | price=₹1349.8 | ema_fast=1350.06 | ema_slow=1347.77 | rsi=57.8
+2026-03-17 12:57:58,276 | INFO | RELIANCE.NS -> 345 candles | last close ₹1398.30
+2026-03-17 12:57:58,279 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1398.3 | ema_fast=1395.34 | ema_slow=1394.57 | rsi=60.3
+2026-03-17 12:57:58,583 | INFO | TATASTEEL.NS -> 345 candles | last close ₹191.05
+2026-03-17 12:57:58,586 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.05 | ema_fast=190.97 | ema_slow=191.04 | rsi=51.4
+2026-03-17 12:57:58,926 | INFO | VEDL.NS -> 345 candles | last close ₹691.35
+2026-03-17 12:57:58,929 | INFO | VEDL.NS -> signal=HOLD | price=₹691.35 | ema_fast=691.19 | ema_slow=690.94 | rsi=52.7
+2026-03-17 12:57:59,251 | INFO | LT.NS -> 345 candles | last close ₹3480.50
+2026-03-17 12:57:59,254 | INFO | LT.NS -> signal=HOLD | price=₹3480.5 | ema_fast=3474.48 | ema_slow=3473.33 | rsi=56.3
+2026-03-17 12:57:59,582 | INFO | ITC.NS -> 345 candles | last close ₹306.90
+2026-03-17 12:57:59,586 | INFO | ITC.NS -> signal=HOLD | price=₹306.9 | ema_fast=306.77 | ema_slow=306.52 | rsi=57.6
+2026-03-17 13:03:00,885 | INFO | NIFTY trend: BULL | price=23503 | ema20=23444
+2026-03-17 13:03:00,885 | INFO | NIFTY trend: BULL
+2026-03-17 13:03:01,032 | INFO | HDFCBANK.NS -> 346 candles | last close ₹843.90
+2026-03-17 13:03:01,037 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.9 | ema_fast=842.36 | ema_slow=841.24 | rsi=64.6
+2026-03-17 13:03:01,154 | INFO | ICICIBANK.NS -> 346 candles | last close ₹1281.90
+2026-03-17 13:03:01,157 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1281.9 | ema_fast=1282.76 | ema_slow=1281.61 | rsi=52.6
+2026-03-17 13:03:01,287 | INFO | SBIN.NS -> 346 candles | last close ₹1055.60
+2026-03-17 13:03:01,290 | INFO | SBIN.NS -> signal=HOLD | price=₹1055.6 | ema_fast=1053.51 | ema_slow=1053.17 | rsi=58.2
+2026-03-17 13:03:01,417 | INFO | AXISBANK.NS -> 346 candles | last close ₹1225.80
+2026-03-17 13:03:01,421 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1225.8 | ema_fast=1224.20 | ema_slow=1222.74 | rsi=61.4
+2026-03-17 13:03:01,646 | INFO | KOTAKBANK.NS -> 346 candles | last close ₹371.90
+2026-03-17 13:03:01,650 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.9 | ema_fast=371.52 | ema_slow=371.33 | rsi=56.9
+2026-03-17 13:03:01,776 | INFO | INDUSINDBK.NS -> 346 candles | last close ₹815.00
+2026-03-17 13:03:01,779 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹815.0 | ema_fast=813.46 | ema_slow=813.08 | rsi=56.6
+2026-03-17 13:03:01,899 | INFO | BAJFINANCE.NS -> 346 candles | last close ₹865.35
+2026-03-17 13:03:01,902 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹865.35 | ema_fast=863.17 | ema_slow=864.02 | rsi=52.0
+2026-03-17 13:03:02,018 | INFO | TCS.NS -> 346 candles | last close ₹2393.70
+2026-03-17 13:03:02,021 | INFO | TCS.NS -> signal=HOLD | price=₹2393.7 | ema_fast=2390.20 | ema_slow=2387.97 | rsi=59.1
+2026-03-17 13:03:02,247 | INFO | INFY.NS -> 346 candles | last close ₹1233.90
+2026-03-17 13:03:02,251 | INFO | INFY.NS -> signal=HOLD | price=₹1233.9 | ema_fast=1233.11 | ema_slow=1233.08 | rsi=52.1
+2026-03-17 13:03:02,371 | INFO | TECHM.NS -> 346 candles | last close ₹1351.30
+2026-03-17 13:03:02,374 | INFO | TECHM.NS -> signal=HOLD | price=₹1351.3 | ema_fast=1350.36 | ema_slow=1348.11 | rsi=60.6
+2026-03-17 13:03:02,521 | INFO | RELIANCE.NS -> 346 candles | last close ₹1397.40
+2026-03-17 13:03:02,525 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1397.4 | ema_fast=1395.83 | ema_slow=1394.87 | rsi=57.0
+2026-03-17 13:03:02,682 | INFO | TATASTEEL.NS -> 346 candles | last close ₹191.90
+2026-03-17 13:03:02,686 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.9 | ema_fast=191.18 | ema_slow=191.13 | rsi=61.4
+2026-03-17 13:03:02,808 | INFO | VEDL.NS -> 346 candles | last close ₹693.30
+2026-03-17 13:03:02,811 | INFO | VEDL.NS -> signal=HOLD | price=₹693.3 | ema_fast=691.64 | ema_slow=691.17 | rsi=59.6
+2026-03-17 13:03:02,928 | INFO | LT.NS -> 346 candles | last close ₹3490.00
+2026-03-17 13:03:02,931 | INFO | LT.NS -> signal=HOLD | price=₹3490.0 | ema_fast=3478.05 | ema_slow=3475.08 | rsi=63.0
+2026-03-17 13:03:03,063 | INFO | ITC.NS -> 346 candles | last close ₹307.15
+2026-03-17 13:03:03,067 | INFO | ITC.NS -> signal=HOLD | price=₹307.15 | ema_fast=306.85 | ema_slow=306.57 | rsi=60.9
+2026-03-17 13:08:03,326 | INFO | NIFTY trend: BULL | price=23506 | ema20=23450
+2026-03-17 13:08:03,326 | INFO | NIFTY trend: BULL
+2026-03-17 13:08:03,490 | INFO | HDFCBANK.NS -> 347 candles | last close ₹844.00
+2026-03-17 13:08:03,494 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.0 | ema_fast=842.63 | ema_slow=841.46 | rsi=65.0
+2026-03-17 13:08:03,636 | INFO | ICICIBANK.NS -> 347 candles | last close ₹1282.20
+2026-03-17 13:08:03,639 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1282.2 | ema_fast=1282.78 | ema_slow=1281.73 | rsi=53.5
+2026-03-17 13:08:03,789 | INFO | SBIN.NS -> 347 candles | last close ₹1056.50
+2026-03-17 13:08:03,793 | INFO | SBIN.NS -> signal=HOLD | price=₹1056.5 | ema_fast=1054.35 | ema_slow=1053.60 | rsi=59.6
+2026-03-17 13:08:03,920 | INFO | AXISBANK.NS -> 347 candles | last close ₹1226.90
+2026-03-17 13:08:03,923 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1226.9 | ema_fast=1224.75 | ema_slow=1223.12 | rsi=63.8
+2026-03-17 13:08:04,166 | INFO | KOTAKBANK.NS -> 347 candles | last close ₹372.10
+2026-03-17 13:08:04,169 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.1 | ema_fast=371.69 | ema_slow=371.43 | rsi=58.2
+2026-03-17 13:08:04,468 | INFO | INDUSINDBK.NS -> 347 candles | last close ₹813.95
+2026-03-17 13:08:04,473 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹813.95 | ema_fast=813.51 | ema_slow=813.14 | rsi=52.5
+2026-03-17 13:08:04,619 | INFO | BAJFINANCE.NS -> 347 candles | last close ₹864.75
+2026-03-17 13:08:04,622 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹864.75 | ema_fast=863.44 | ema_slow=864.07 | rsi=50.0
+2026-03-17 13:08:04,750 | INFO | TCS.NS -> 347 candles | last close ₹2393.20
+2026-03-17 13:08:04,753 | INFO | TCS.NS -> signal=HOLD | price=₹2393.2 | ema_fast=2390.79 | ema_slow=2388.44 | rsi=58.3
+2026-03-17 13:08:04,887 | INFO | INFY.NS -> 347 candles | last close ₹1232.70
+2026-03-17 13:08:04,893 | INFO | INFY.NS -> signal=HOLD | price=₹1232.7 | ema_fast=1233.06 | ema_slow=1233.06 | rsi=48.7
+2026-03-17 13:08:05,052 | INFO | TECHM.NS -> 347 candles | last close ₹1351.20
+2026-03-17 13:08:05,056 | INFO | TECHM.NS -> signal=HOLD | price=₹1351.2 | ema_fast=1350.56 | ema_slow=1348.41 | rsi=60.1
+2026-03-17 13:08:05,190 | INFO | RELIANCE.NS -> 347 candles | last close ₹1398.60
+2026-03-17 13:08:05,193 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1398.6 | ema_fast=1396.67 | ema_slow=1395.35 | rsi=60.1
+2026-03-17 13:08:05,635 | INFO | TATASTEEL.NS -> 347 candles | last close ₹191.84
+2026-03-17 13:08:05,638 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹191.84 | ema_fast=191.30 | ema_slow=191.19 | rsi=60.9
+2026-03-17 13:08:05,771 | INFO | VEDL.NS -> 347 candles | last close ₹693.00
+2026-03-17 13:08:05,773 | INFO | VEDL.NS -> signal=HOLD | price=₹693.0 | ema_fast=691.89 | ema_slow=691.32 | rsi=58.4
+2026-03-17 13:08:06,057 | INFO | LT.NS -> 347 candles | last close ₹3494.90
+2026-03-17 13:08:06,061 | INFO | LT.NS -> signal=HOLD | price=₹3494.9 | ema_fast=3482.00 | ema_slow=3477.18 | rsi=65.7
+2026-03-17 13:08:06,215 | INFO | ITC.NS -> 347 candles | last close ₹306.95
+2026-03-17 13:08:06,219 | INFO | ITC.NS -> signal=HOLD | price=₹306.95 | ema_fast=306.84 | ema_slow=306.59 | rsi=58.3
+2026-03-17 13:13:07,562 | INFO | NIFTY trend: BULL | price=23524 | ema20=23458
+2026-03-17 13:13:07,562 | INFO | NIFTY trend: BULL
+2026-03-17 13:13:07,694 | INFO | HDFCBANK.NS -> 348 candles | last close ₹844.90
+2026-03-17 13:13:07,697 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.9 | ema_fast=843.15 | ema_slow=841.81 | rsi=67.9
+2026-03-17 13:13:07,808 | INFO | ICICIBANK.NS -> 348 candles | last close ₹1283.50
+2026-03-17 13:13:07,811 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1283.5 | ema_fast=1283.12 | ema_slow=1281.99 | rsi=57.7
+2026-03-17 13:13:07,922 | INFO | SBIN.NS -> 348 candles | last close ₹1056.30
+2026-03-17 13:13:07,924 | INFO | SBIN.NS -> signal=HOLD | price=₹1056.3 | ema_fast=1054.85 | ema_slow=1053.90 | rsi=58.5
+2026-03-17 13:13:08,070 | INFO | AXISBANK.NS -> 348 candles | last close ₹1231.30
+2026-03-17 13:13:08,073 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1231.3 | ema_fast=1226.38 | ema_slow=1224.03 | rsi=71.3
+2026-03-17 13:13:08,191 | INFO | KOTAKBANK.NS -> 348 candles | last close ₹373.20
+2026-03-17 13:13:08,194 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.2 | ema_fast=372.12 | ema_slow=371.66 | rsi=66.5
+2026-03-17 13:13:08,301 | INFO | INDUSINDBK.NS -> 348 candles | last close ₹814.85
+2026-03-17 13:13:08,303 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹814.85 | ema_fast=813.88 | ema_slow=813.35 | rsi=56.2
+2026-03-17 13:13:08,410 | INFO | BAJFINANCE.NS -> 348 candles | last close ₹866.20
+2026-03-17 13:13:08,412 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹866.2 | ema_fast=864.08 | ema_slow=864.30 | rsi=54.8
+2026-03-17 13:13:08,622 | INFO | TCS.NS -> 348 candles | last close ₹2396.40
+2026-03-17 13:13:08,626 | INFO | TCS.NS -> signal=HOLD | price=₹2396.4 | ema_fast=2392.18 | ema_slow=2389.30 | rsi=62.2
+2026-03-17 13:13:08,729 | INFO | INFY.NS -> 348 candles | last close ₹1232.70
+2026-03-17 13:13:08,732 | INFO | INFY.NS -> signal=HOLD | price=₹1232.7 | ema_fast=1232.97 | ema_slow=1233.02 | rsi=48.7
+2026-03-17 13:13:08,839 | INFO | TECHM.NS -> 348 candles | last close ₹1352.40
+2026-03-17 13:13:08,842 | INFO | TECHM.NS -> signal=HOLD | price=₹1352.4 | ema_fast=1351.05 | ema_slow=1348.84 | rsi=62.6
+2026-03-17 13:13:09,058 | INFO | RELIANCE.NS -> 348 candles | last close ₹1399.40
+2026-03-17 13:13:09,062 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.4 | ema_fast=1397.35 | ema_slow=1395.79 | rsi=62.5
+2026-03-17 13:13:09,177 | INFO | TATASTEEL.NS -> 348 candles | last close ₹192.20
+2026-03-17 13:13:09,180 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹192.2 | ema_fast=191.51 | ema_slow=191.30 | rsi=64.4
+2026-03-17 13:13:09,292 | INFO | VEDL.NS -> 348 candles | last close ₹693.40
+2026-03-17 13:13:09,295 | INFO | VEDL.NS -> signal=HOLD | price=₹693.4 | ema_fast=692.20 | ema_slow=691.52 | rsi=59.9
+2026-03-17 13:13:09,439 | INFO | LT.NS -> 348 candles | last close ₹3497.00
+2026-03-17 13:13:09,443 | INFO | LT.NS -> signal=HOLD | price=₹3497.0 | ema_fast=3485.51 | ema_slow=3479.25 | rsi=66.2
+2026-03-17 13:13:09,573 | INFO | ITC.NS -> 348 candles | last close ₹306.55
+2026-03-17 13:13:09,578 | INFO | ITC.NS -> signal=HOLD | price=₹306.55 | ema_fast=306.71 | ema_slow=306.55 | rsi=50.9
+2026-03-17 13:18:10,918 | INFO | NIFTY trend: BULL | price=23551 | ema20=23468
+2026-03-17 13:18:10,918 | INFO | NIFTY trend: BULL
+2026-03-17 13:18:11,081 | INFO | HDFCBANK.NS -> 349 candles | last close ₹845.10
+2026-03-17 13:18:11,084 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹845.1 | ema_fast=843.56 | ema_slow=842.11 | rsi=68.6
+2026-03-17 13:18:11,242 | INFO | ICICIBANK.NS -> 349 candles | last close ₹1284.00
+2026-03-17 13:18:11,245 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1284.0 | ema_fast=1283.23 | ema_slow=1282.14 | rsi=59.0
+2026-03-17 13:18:11,497 | INFO | SBIN.NS -> 349 candles | last close ₹1058.20
+2026-03-17 13:18:11,501 | INFO | SBIN.NS -> signal=HOLD | price=₹1058.2 | ema_fast=1055.65 | ema_slow=1054.36 | rsi=64.7
+2026-03-17 13:18:11,624 | INFO | AXISBANK.NS -> 349 candles | last close ₹1230.50
+2026-03-17 13:18:11,627 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1230.5 | ema_fast=1227.08 | ema_slow=1224.55 | rsi=70.2
+2026-03-17 13:18:11,919 | INFO | KOTAKBANK.NS -> 349 candles | last close ₹373.60
+2026-03-17 13:18:11,924 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.6 | ema_fast=372.46 | ema_slow=371.86 | rsi=68.9
+2026-03-17 13:18:12,062 | INFO | INDUSINDBK.NS -> 349 candles | last close ₹816.30
+2026-03-17 13:18:12,064 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹816.3 | ema_fast=814.36 | ema_slow=813.62 | rsi=61.2
+2026-03-17 13:18:12,189 | INFO | BAJFINANCE.NS -> 349 candles | last close ₹866.65
+2026-03-17 13:18:12,193 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹866.65 | ema_fast=864.58 | ema_slow=864.51 | rsi=56.3
+2026-03-17 13:18:12,329 | INFO | TCS.NS -> 349 candles | last close ₹2399.10
+2026-03-17 13:18:12,334 | INFO | TCS.NS -> signal=HOLD | price=₹2399.1 | ema_fast=2393.82 | ema_slow=2390.33 | rsi=65.1
+2026-03-17 13:18:12,495 | INFO | INFY.NS -> 349 candles | last close ₹1234.70
+2026-03-17 13:18:12,499 | INFO | INFY.NS -> signal=HOLD | price=₹1234.7 | ema_fast=1233.53 | ema_slow=1233.28 | rsi=54.1
+2026-03-17 13:18:12,638 | INFO | TECHM.NS -> 349 candles | last close ₹1352.90
+2026-03-17 13:18:12,641 | INFO | TECHM.NS -> signal=HOLD | price=₹1352.9 | ema_fast=1351.49 | ema_slow=1349.24 | rsi=63.5
+2026-03-17 13:18:12,851 | INFO | RELIANCE.NS -> 349 candles | last close ₹1400.90
+2026-03-17 13:18:12,855 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1400.9 | ema_fast=1398.17 | ema_slow=1396.31 | rsi=65.7
+2026-03-17 13:18:13,092 | INFO | TATASTEEL.NS -> 349 candles | last close ₹193.07
+2026-03-17 13:18:13,094 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.07 | ema_fast=191.82 | ema_slow=191.46 | rsi=71.5
+2026-03-17 13:18:13,224 | INFO | VEDL.NS -> 349 candles | last close ₹694.35
+2026-03-17 13:18:13,227 | INFO | VEDL.NS -> signal=HOLD | price=₹694.35 | ema_fast=692.71 | ema_slow=691.81 | rsi=63.0
+2026-03-17 13:18:13,398 | INFO | LT.NS -> 349 candles | last close ₹3504.20
+2026-03-17 13:18:13,403 | INFO | LT.NS -> signal=HOLD | price=₹3504.2 | ema_fast=3489.13 | ema_slow=3481.46 | rsi=69.6
+2026-03-17 13:18:13,531 | INFO | ITC.NS -> 349 candles | last close ₹306.60
+2026-03-17 13:18:13,534 | INFO | ITC.NS -> signal=HOLD | price=₹306.6 | ema_fast=306.69 | ema_slow=306.55 | rsi=51.8
+2026-03-17 13:23:15,444 | INFO | NIFTY trend: BULL | price=23541 | ema20=23475
+2026-03-17 13:23:15,444 | INFO | NIFTY trend: BULL
+2026-03-17 13:23:15,780 | INFO | HDFCBANK.NS -> 350 candles | last close ₹844.55
+2026-03-17 13:23:15,784 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.55 | ema_fast=843.77 | ema_slow=842.34 | rsi=64.3
+2026-03-17 13:23:16,096 | INFO | ICICIBANK.NS -> 350 candles | last close ₹1283.60
+2026-03-17 13:23:16,099 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1283.6 | ema_fast=1283.25 | ema_slow=1282.25 | rsi=57.7
+2026-03-17 13:23:16,412 | INFO | SBIN.NS -> 350 candles | last close ₹1057.50
+2026-03-17 13:23:16,416 | INFO | SBIN.NS -> signal=HOLD | price=₹1057.5 | ema_fast=1056.08 | ema_slow=1054.68 | rsi=60.8
+2026-03-17 13:23:16,752 | INFO | AXISBANK.NS -> 350 candles | last close ₹1230.20
+2026-03-17 13:23:16,756 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1230.2 | ema_fast=1227.69 | ema_slow=1225.06 | rsi=69.0
+2026-03-17 13:23:17,056 | INFO | KOTAKBANK.NS -> 350 candles | last close ₹372.85
+2026-03-17 13:23:17,059 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.85 | ema_fast=372.50 | ema_slow=371.93 | rsi=60.5
+2026-03-17 13:23:17,359 | INFO | INDUSINDBK.NS -> 350 candles | last close ₹816.15
+2026-03-17 13:23:17,362 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹816.15 | ema_fast=814.65 | ema_slow=813.81 | rsi=60.8
+2026-03-17 13:23:17,707 | INFO | BAJFINANCE.NS -> 350 candles | last close ₹866.00
+2026-03-17 13:23:17,711 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹866.0 | ema_fast=864.83 | ema_slow=864.63 | rsi=53.8
+2026-03-17 13:23:18,014 | INFO | TCS.NS -> 350 candles | last close ₹2397.10
+2026-03-17 13:23:18,017 | INFO | TCS.NS -> signal=HOLD | price=₹2397.1 | ema_fast=2394.57 | ema_slow=2390.99 | rsi=60.8
+2026-03-17 13:23:18,320 | INFO | INFY.NS -> 350 candles | last close ₹1234.10
+2026-03-17 13:23:18,322 | INFO | INFY.NS -> signal=HOLD | price=₹1234.1 | ema_fast=1233.66 | ema_slow=1233.36 | rsi=52.2
+2026-03-17 13:23:18,624 | INFO | TECHM.NS -> 350 candles | last close ₹1351.20
+2026-03-17 13:23:18,627 | INFO | TECHM.NS -> signal=HOLD | price=₹1351.2 | ema_fast=1351.37 | ema_slow=1349.39 | rsi=58.3
+2026-03-17 13:23:18,935 | INFO | RELIANCE.NS -> 350 candles | last close ₹1400.10
+2026-03-17 13:23:18,938 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1400.1 | ema_fast=1398.52 | ema_slow=1396.64 | rsi=62.9
+2026-03-17 13:23:19,276 | INFO | TATASTEEL.NS -> 350 candles | last close ₹193.05
+2026-03-17 13:23:19,280 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.05 | ema_fast=192.10 | ema_slow=191.62 | rsi=69.4
+2026-03-17 13:23:19,614 | INFO | VEDL.NS -> 350 candles | last close ₹693.45
+2026-03-17 13:23:19,618 | INFO | VEDL.NS -> signal=HOLD | price=₹693.45 | ema_fast=692.92 | ema_slow=692.00 | rsi=57.6
+2026-03-17 13:23:19,917 | INFO | LT.NS -> 350 candles | last close ₹3501.60
+2026-03-17 13:23:19,919 | INFO | LT.NS -> signal=HOLD | price=₹3501.6 | ema_fast=3491.69 | ema_slow=3483.32 | rsi=66.5
+2026-03-17 13:23:20,253 | INFO | ITC.NS -> 350 candles | last close ₹306.45
+2026-03-17 13:23:20,257 | INFO | ITC.NS -> signal=HOLD | price=₹306.45 | ema_fast=306.65 | ema_slow=306.55 | rsi=49.0
+2026-03-17 13:28:21,573 | INFO | NIFTY trend: BULL | price=23539 | ema20=23481
+2026-03-17 13:28:21,574 | INFO | NIFTY trend: BULL
+2026-03-17 13:28:21,721 | INFO | HDFCBANK.NS -> 351 candles | last close ₹844.75
+2026-03-17 13:28:21,725 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.75 | ema_fast=843.93 | ema_slow=842.54 | rsi=64.5
+2026-03-17 13:28:21,870 | INFO | ICICIBANK.NS -> 351 candles | last close ₹1284.00
+2026-03-17 13:28:21,874 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1284.0 | ema_fast=1283.48 | ema_slow=1282.45 | rsi=58.9
+2026-03-17 13:28:21,995 | INFO | SBIN.NS -> 351 candles | last close ₹1057.30
+2026-03-17 13:28:21,998 | INFO | SBIN.NS -> signal=HOLD | price=₹1057.3 | ema_fast=1056.38 | ema_slow=1054.94 | rsi=59.9
+2026-03-17 13:28:22,213 | INFO | AXISBANK.NS -> 351 candles | last close ₹1229.80
+2026-03-17 13:28:22,217 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1229.8 | ema_fast=1228.08 | ema_slow=1225.47 | rsi=67.4
+2026-03-17 13:28:22,412 | INFO | KOTAKBANK.NS -> 351 candles | last close ₹372.65
+2026-03-17 13:28:22,414 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.65 | ema_fast=372.57 | ema_slow=372.01 | rsi=58.0
+2026-03-17 13:28:22,527 | INFO | INDUSINDBK.NS -> 351 candles | last close ₹814.40
+2026-03-17 13:28:22,530 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹814.4 | ema_fast=814.37 | ema_slow=813.74 | rsi=52.9
+2026-03-17 13:28:22,764 | INFO | BAJFINANCE.NS -> 351 candles | last close ₹865.70
+2026-03-17 13:28:22,768 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹865.7 | ema_fast=864.94 | ema_slow=864.70 | rsi=52.6
+2026-03-17 13:28:22,949 | INFO | TCS.NS -> 351 candles | last close ₹2401.00
+2026-03-17 13:28:22,952 | INFO | TCS.NS -> signal=HOLD | price=₹2401.0 | ema_fast=2396.15 | ema_slow=2392.05 | rsi=66.4
+2026-03-17 13:28:23,075 | INFO | INFY.NS -> 351 candles | last close ₹1233.70
+2026-03-17 13:28:23,077 | INFO | INFY.NS -> signal=HOLD | price=₹1233.7 | ema_fast=1233.65 | ema_slow=1233.39 | rsi=51.0
+2026-03-17 13:28:23,243 | INFO | TECHM.NS -> 351 candles | last close ₹1351.00
+2026-03-17 13:28:23,247 | INFO | TECHM.NS -> signal=HOLD | price=₹1351.0 | ema_fast=1351.29 | ema_slow=1349.53 | rsi=57.6
+2026-03-17 13:28:23,433 | INFO | RELIANCE.NS -> 351 candles | last close ₹1399.20
+2026-03-17 13:28:23,436 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.2 | ema_fast=1398.58 | ema_slow=1396.83 | rsi=59.4
+2026-03-17 13:28:23,551 | INFO | TATASTEEL.NS -> 351 candles | last close ₹193.70
+2026-03-17 13:28:23,554 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.7 | ema_fast=192.40 | ema_slow=191.80 | rsi=72.8
+2026-03-17 13:28:23,916 | INFO | VEDL.NS -> 351 candles | last close ₹693.05
+2026-03-17 13:28:23,919 | INFO | VEDL.NS -> signal=HOLD | price=₹693.05 | ema_fast=692.99 | ema_slow=692.11 | rsi=55.6
+2026-03-17 13:28:24,141 | INFO | LT.NS -> 351 candles | last close ₹3499.70
+2026-03-17 13:28:24,144 | INFO | LT.NS -> signal=HOLD | price=₹3499.7 | ema_fast=3493.01 | ema_slow=3484.66 | rsi=64.7
+2026-03-17 13:28:24,301 | INFO | ITC.NS -> 351 candles | last close ₹306.35
+2026-03-17 13:28:24,305 | INFO | ITC.NS -> signal=HOLD | price=₹306.35 | ema_fast=306.59 | ema_slow=306.53 | rsi=47.3
+2026-03-17 13:33:25,577 | INFO | NIFTY trend: BULL | price=23573 | ema20=23490
+2026-03-17 13:33:25,578 | INFO | NIFTY trend: BULL
+2026-03-17 13:33:25,690 | INFO | HDFCBANK.NS -> 352 candles | last close ₹845.60
+2026-03-17 13:33:25,692 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹845.6 | ema_fast=844.28 | ema_slow=842.83 | rsi=67.5
+2026-03-17 13:33:25,838 | INFO | ICICIBANK.NS -> 352 candles | last close ₹1285.80
+2026-03-17 13:33:25,842 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1285.8 | ema_fast=1283.98 | ema_slow=1282.77 | rsi=64.6
+2026-03-17 13:33:26,023 | INFO | SBIN.NS -> 352 candles | last close ₹1059.90
+2026-03-17 13:33:26,026 | INFO | SBIN.NS -> signal=HOLD | price=₹1059.9 | ema_fast=1057.00 | ema_slow=1055.35 | rsi=65.7
+2026-03-17 13:33:26,139 | INFO | AXISBANK.NS -> 352 candles | last close ₹1230.00
+2026-03-17 13:33:26,142 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1230.0 | ema_fast=1228.29 | ema_slow=1225.79 | rsi=65.9
+2026-03-17 13:33:26,290 | INFO | KOTAKBANK.NS -> 352 candles | last close ₹373.25
+2026-03-17 13:33:26,294 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.25 | ema_fast=372.75 | ema_slow=372.15 | rsi=63.5
+2026-03-17 13:33:26,484 | INFO | INDUSINDBK.NS -> 352 candles | last close ₹816.65
+2026-03-17 13:33:26,487 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹816.65 | ema_fast=814.71 | ema_slow=813.95 | rsi=60.0
+2026-03-17 13:33:26,609 | INFO | BAJFINANCE.NS -> 352 candles | last close ₹866.55
+2026-03-17 13:33:26,612 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹866.55 | ema_fast=865.25 | ema_slow=864.86 | rsi=55.8
+2026-03-17 13:33:26,770 | INFO | TCS.NS -> 352 candles | last close ₹2402.50
+2026-03-17 13:33:26,774 | INFO | TCS.NS -> signal=HOLD | price=₹2402.5 | ema_fast=2397.37 | ema_slow=2392.98 | rsi=68.0
+2026-03-17 13:33:26,969 | INFO | INFY.NS -> 352 candles | last close ₹1234.40
+2026-03-17 13:33:26,972 | INFO | INFY.NS -> signal=HOLD | price=₹1234.4 | ema_fast=1233.88 | ema_slow=1233.52 | rsi=53.1
+2026-03-17 13:33:27,086 | INFO | TECHM.NS -> 352 candles | last close ₹1352.50
+2026-03-17 13:33:27,089 | INFO | TECHM.NS -> signal=HOLD | price=₹1352.5 | ema_fast=1351.49 | ema_slow=1349.78 | rsi=60.8
+2026-03-17 13:33:27,238 | INFO | RELIANCE.NS -> 352 candles | last close ₹1401.60
+2026-03-17 13:33:27,242 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1401.6 | ema_fast=1399.26 | ema_slow=1397.31 | rsi=65.8
+2026-03-17 13:33:27,424 | INFO | TATASTEEL.NS -> 352 candles | last close ₹193.65
+2026-03-17 13:33:27,426 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.65 | ema_fast=192.63 | ema_slow=191.96 | rsi=72.6
+2026-03-17 13:33:27,541 | INFO | VEDL.NS -> 352 candles | last close ₹694.45
+2026-03-17 13:33:27,543 | INFO | VEDL.NS -> signal=HOLD | price=₹694.45 | ema_fast=693.32 | ema_slow=692.35 | rsi=60.9
+2026-03-17 13:33:27,666 | INFO | LT.NS -> 352 candles | last close ₹3507.30
+2026-03-17 13:33:27,670 | INFO | LT.NS -> signal=HOLD | price=₹3507.3 | ema_fast=3495.86 | ema_slow=3486.72 | rsi=68.8
+2026-03-17 13:33:27,844 | INFO | ITC.NS -> 352 candles | last close ₹306.90
+2026-03-17 13:33:27,848 | INFO | ITC.NS -> signal=HOLD | price=₹306.9 | ema_fast=306.65 | ema_slow=306.56 | rsi=56.3
+2026-03-17 13:38:29,147 | INFO | NIFTY trend: BULL | price=23550 | ema20=23494
+2026-03-17 13:38:29,147 | INFO | NIFTY trend: BULL
+2026-03-17 13:38:29,313 | INFO | HDFCBANK.NS -> 353 candles | last close ₹844.90
+2026-03-17 13:38:29,316 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.9 | ema_fast=844.27 | ema_slow=842.95 | rsi=64.9
+2026-03-17 13:38:29,453 | INFO | ICICIBANK.NS -> 353 candles | last close ₹1283.00
+2026-03-17 13:38:29,457 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1283.0 | ema_fast=1283.48 | ema_slow=1282.63 | rsi=53.8
+2026-03-17 13:38:29,607 | INFO | SBIN.NS -> 353 candles | last close ₹1058.80
+2026-03-17 13:38:29,613 | INFO | SBIN.NS -> signal=HOLD | price=₹1058.8 | ema_fast=1057.10 | ema_slow=1055.53 | rsi=63.3
+2026-03-17 13:38:29,852 | INFO | AXISBANK.NS -> 353 candles | last close ₹1228.70
+2026-03-17 13:38:29,855 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1228.7 | ema_fast=1228.18 | ema_slow=1225.96 | rsi=62.9
+2026-03-17 13:38:29,990 | INFO | KOTAKBANK.NS -> 353 candles | last close ₹372.75
+2026-03-17 13:38:29,993 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.75 | ema_fast=372.65 | ema_slow=372.15 | rsi=58.7
+2026-03-17 13:38:30,218 | INFO | INDUSINDBK.NS -> 353 candles | last close ₹814.50
+2026-03-17 13:38:30,222 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹814.5 | ema_fast=814.46 | ema_slow=813.89 | rsi=52.5
+2026-03-17 13:38:30,478 | INFO | BAJFINANCE.NS -> 353 candles | last close ₹865.60
+2026-03-17 13:38:30,480 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹865.6 | ema_fast=865.12 | ema_slow=864.82 | rsi=52.2
+2026-03-17 13:38:30,655 | INFO | TCS.NS -> 353 candles | last close ₹2400.00
+2026-03-17 13:38:30,659 | INFO | TCS.NS -> signal=HOLD | price=₹2400.0 | ema_fast=2397.66 | ema_slow=2393.49 | rsi=64.1
+2026-03-17 13:38:30,868 | INFO | INFY.NS -> 353 candles | last close ₹1233.50
+2026-03-17 13:38:30,870 | INFO | INFY.NS -> signal=HOLD | price=₹1233.5 | ema_fast=1233.64 | ema_slow=1233.43 | rsi=50.2
+2026-03-17 13:38:31,214 | INFO | TECHM.NS -> 353 candles | last close ₹1351.60
+2026-03-17 13:38:31,218 | INFO | TECHM.NS -> signal=HOLD | price=₹1351.6 | ema_fast=1351.36 | ema_slow=1349.87 | rsi=58.8
+2026-03-17 13:38:31,533 | INFO | RELIANCE.NS -> 353 candles | last close ₹1400.40
+2026-03-17 13:38:31,536 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1400.4 | ema_fast=1399.23 | ema_slow=1397.45 | rsi=63.1
+2026-03-17 13:38:31,802 | INFO | TATASTEEL.NS -> 353 candles | last close ₹193.23
+2026-03-17 13:38:31,804 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.23 | ema_fast=192.68 | ema_slow=192.04 | rsi=66.6
+2026-03-17 13:38:32,292 | INFO | VEDL.NS -> 353 candles | last close ₹694.00
+2026-03-17 13:38:32,295 | INFO | VEDL.NS -> signal=HOLD | price=₹694.0 | ema_fast=693.36 | ema_slow=692.45 | rsi=59.4
+2026-03-17 13:38:32,765 | INFO | LT.NS -> 353 candles | last close ₹3503.90
+2026-03-17 13:38:32,769 | INFO | LT.NS -> signal=HOLD | price=₹3503.9 | ema_fast=3496.82 | ema_slow=3487.94 | rsi=67.1
+2026-03-17 13:38:32,910 | INFO | ITC.NS -> 353 candles | last close ₹306.25
+2026-03-17 13:38:32,913 | INFO | ITC.NS -> signal=HOLD | price=₹306.25 | ema_fast=306.51 | ema_slow=306.51 | rsi=45.8
+2026-03-17 13:43:34,203 | INFO | NIFTY trend: BULL | price=23532 | ema20=23494
+2026-03-17 13:43:34,203 | INFO | NIFTY trend: BULL
+2026-03-17 13:43:34,363 | INFO | HDFCBANK.NS -> 354 candles | last close ₹843.65
+2026-03-17 13:43:34,367 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.65 | ema_fast=843.93 | ema_slow=842.90 | rsi=56.7
+2026-03-17 13:43:34,520 | INFO | ICICIBANK.NS -> 354 candles | last close ₹1283.20
+2026-03-17 13:43:34,524 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1283.2 | ema_fast=1283.20 | ema_slow=1282.57 | rsi=54.1
+2026-03-17 13:43:34,649 | INFO | SBIN.NS -> 354 candles | last close ₹1057.10
+2026-03-17 13:43:34,652 | INFO | SBIN.NS -> signal=HOLD | price=₹1057.1 | ema_fast=1056.93 | ema_slow=1055.58 | rsi=56.9
+2026-03-17 13:43:34,816 | INFO | AXISBANK.NS -> 354 candles | last close ₹1227.60
+2026-03-17 13:43:34,820 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1227.6 | ema_fast=1227.74 | ema_slow=1225.94 | rsi=58.0
+2026-03-17 13:43:34,994 | INFO | KOTAKBANK.NS -> 354 candles | last close ₹372.50
+2026-03-17 13:43:34,998 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.5 | ema_fast=372.52 | ema_slow=372.13 | rsi=55.4
+2026-03-17 13:43:35,117 | INFO | INDUSINDBK.NS -> 354 candles | last close ₹814.80
+2026-03-17 13:43:35,120 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹814.8 | ema_fast=814.30 | ema_slow=813.85 | rsi=53.3
+2026-03-17 13:43:35,242 | INFO | BAJFINANCE.NS -> 354 candles | last close ₹865.05
+2026-03-17 13:43:35,245 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹865.05 | ema_fast=864.83 | ema_slow=864.70 | rsi=50.2
+2026-03-17 13:43:35,413 | INFO | TCS.NS -> 354 candles | last close ₹2397.70
+2026-03-17 13:43:35,417 | INFO | TCS.NS -> signal=HOLD | price=₹2397.7 | ema_fast=2397.09 | ema_slow=2393.58 | rsi=58.9
+2026-03-17 13:43:35,536 | INFO | INFY.NS -> 354 candles | last close ₹1232.70
+2026-03-17 13:43:35,539 | INFO | INFY.NS -> signal=HOLD | price=₹1232.7 | ema_fast=1233.21 | ema_slow=1233.24 | rsi=48.1
+2026-03-17 13:43:35,835 | INFO | TECHM.NS -> 354 candles | last close ₹1350.60
+2026-03-17 13:43:35,839 | INFO | TECHM.NS -> signal=HOLD | price=₹1350.6 | ema_fast=1350.96 | ema_slow=1349.80 | rsi=55.3
+2026-03-17 13:43:36,002 | INFO | RELIANCE.NS -> 354 candles | last close ₹1399.20
+2026-03-17 13:43:36,006 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.2 | ema_fast=1398.84 | ema_slow=1397.41 | rsi=57.6
+2026-03-17 13:43:36,276 | INFO | TATASTEEL.NS -> 354 candles | last close ₹192.98
+2026-03-17 13:43:36,280 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹192.98 | ema_fast=192.69 | ema_slow=192.09 | rsi=62.9
+2026-03-17 13:43:36,448 | INFO | VEDL.NS -> 354 candles | last close ₹692.90
+2026-03-17 13:43:36,452 | INFO | VEDL.NS -> signal=HOLD | price=₹692.9 | ema_fast=693.11 | ema_slow=692.41 | rsi=54.1
+2026-03-17 13:43:36,585 | INFO | LT.NS -> 354 candles | last close ₹3500.00
+2026-03-17 13:43:36,588 | INFO | LT.NS -> signal=HOLD | price=₹3500.0 | ema_fast=3496.25 | ema_slow=3488.42 | rsi=61.9
+2026-03-17 13:43:36,733 | INFO | ITC.NS -> 354 candles | last close ₹306.10
+2026-03-17 13:43:36,737 | INFO | ITC.NS -> signal=HOLD | price=₹306.1 | ema_fast=306.34 | ema_slow=306.42 | rsi=45.4
+2026-03-17 13:48:39,094 | INFO | NIFTY trend: BULL | price=23542 | ema20=23498
+2026-03-17 13:48:39,094 | INFO | NIFTY trend: BULL
+2026-03-17 13:48:39,231 | INFO | HDFCBANK.NS -> 355 candles | last close ₹843.65
+2026-03-17 13:48:39,234 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.65 | ema_fast=843.86 | ema_slow=842.96 | rsi=56.7
+2026-03-17 13:48:39,393 | INFO | ICICIBANK.NS -> 355 candles | last close ₹1285.30
+2026-03-17 13:48:39,397 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1285.3 | ema_fast=1283.52 | ema_slow=1282.77 | rsi=60.6
+2026-03-17 13:48:39,546 | INFO | SBIN.NS -> 355 candles | last close ₹1057.80
+2026-03-17 13:48:39,550 | INFO | SBIN.NS -> signal=HOLD | price=₹1057.8 | ema_fast=1057.20 | ema_slow=1055.83 | rsi=59.8
+2026-03-17 13:48:39,673 | INFO | AXISBANK.NS -> 355 candles | last close ₹1227.00
+2026-03-17 13:48:39,675 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1227.0 | ema_fast=1227.40 | ema_slow=1225.94 | rsi=56.4
+2026-03-17 13:48:39,839 | INFO | KOTAKBANK.NS -> 355 candles | last close ₹372.40
+2026-03-17 13:48:39,843 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.4 | ema_fast=372.45 | ema_slow=372.13 | rsi=54.6
+2026-03-17 13:48:39,997 | INFO | INDUSINDBK.NS -> 355 candles | last close ₹814.45
+2026-03-17 13:48:40,001 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹814.45 | ema_fast=814.24 | ema_slow=813.86 | rsi=52.3
+2026-03-17 13:48:40,129 | INFO | BAJFINANCE.NS -> 355 candles | last close ₹865.65
+2026-03-17 13:48:40,131 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹865.65 | ema_fast=865.05 | ema_slow=864.82 | rsi=52.4
+2026-03-17 13:48:40,306 | INFO | TCS.NS -> 355 candles | last close ₹2398.60
+2026-03-17 13:48:40,310 | INFO | TCS.NS -> signal=HOLD | price=₹2398.6 | ema_fast=2397.39 | ema_slow=2394.03 | rsi=60.1
+2026-03-17 13:48:40,438 | INFO | INFY.NS -> 355 candles | last close ₹1233.40
+2026-03-17 13:48:40,441 | INFO | INFY.NS -> signal=HOLD | price=₹1233.4 | ema_fast=1233.20 | ema_slow=1233.23 | rsi=50.4
+2026-03-17 13:48:40,568 | INFO | TECHM.NS -> 355 candles | last close ₹1350.30
+2026-03-17 13:48:40,571 | INFO | TECHM.NS -> signal=HOLD | price=₹1350.3 | ema_fast=1350.62 | ema_slow=1349.74 | rsi=54.4
+2026-03-17 13:48:40,919 | INFO | RELIANCE.NS -> 355 candles | last close ₹1399.00
+2026-03-17 13:48:40,922 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.0 | ema_fast=1398.76 | ema_slow=1397.50 | rsi=57.2
+2026-03-17 13:48:41,042 | INFO | TATASTEEL.NS -> 355 candles | last close ₹193.00
+2026-03-17 13:48:41,046 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.0 | ema_fast=192.74 | ema_slow=192.17 | rsi=63.1
+2026-03-17 13:48:41,204 | INFO | VEDL.NS -> 355 candles | last close ₹692.40
+2026-03-17 13:48:41,208 | INFO | VEDL.NS -> signal=HOLD | price=₹692.4 | ema_fast=692.89 | ema_slow=692.37 | rsi=51.7
+2026-03-17 13:48:41,360 | INFO | LT.NS -> 355 candles | last close ₹3497.00
+2026-03-17 13:48:41,364 | INFO | LT.NS -> signal=HOLD | price=₹3497.0 | ema_fast=3496.24 | ema_slow=3489.12 | rsi=59.2
+2026-03-17 13:48:41,487 | INFO | ITC.NS -> 355 candles | last close ₹305.70
+2026-03-17 13:48:41,490 | INFO | ITC.NS -> signal=HOLD | price=₹305.7 | ema_fast=306.18 | ema_slow=306.34 | rsi=39.7
+2026-03-17 13:53:42,365 | INFO | NIFTY trend: BULL | price=23552 | ema20=23505
+2026-03-17 13:53:42,365 | INFO | NIFTY trend: BULL
+2026-03-17 13:53:42,502 | INFO | HDFCBANK.NS -> 356 candles | last close ₹843.60
+2026-03-17 13:53:42,505 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.6 | ema_fast=843.86 | ema_slow=843.05 | rsi=55.8
+2026-03-17 13:53:42,666 | INFO | ICICIBANK.NS -> 356 candles | last close ₹1285.80
+2026-03-17 13:53:42,670 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1285.8 | ema_fast=1284.22 | ema_slow=1283.17 | rsi=60.3
+2026-03-17 13:53:42,880 | INFO | SBIN.NS -> 356 candles | last close ₹1058.50
+2026-03-17 13:53:42,883 | INFO | SBIN.NS -> signal=HOLD | price=₹1058.5 | ema_fast=1057.57 | ema_slow=1056.13 | rsi=61.9
+2026-03-17 13:53:43,073 | INFO | AXISBANK.NS -> 356 candles | last close ₹1227.80
+2026-03-17 13:53:43,076 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1227.8 | ema_fast=1227.64 | ema_slow=1226.19 | rsi=58.2
+2026-03-17 13:53:43,285 | INFO | KOTAKBANK.NS -> 356 candles | last close ₹372.45
+2026-03-17 13:53:43,289 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.45 | ema_fast=372.51 | ema_slow=372.19 | rsi=54.3
+2026-03-17 13:53:43,471 | INFO | INDUSINDBK.NS -> 356 candles | last close ₹814.05
+2026-03-17 13:53:43,476 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹814.05 | ema_fast=814.27 | ema_slow=813.91 | rsi=50.6
+2026-03-17 13:53:43,639 | INFO | BAJFINANCE.NS -> 356 candles | last close ₹866.40
+2026-03-17 13:53:43,646 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹866.4 | ema_fast=865.43 | ema_slow=865.01 | rsi=55.1
+2026-03-17 13:53:43,793 | INFO | TCS.NS -> 356 candles | last close ₹2400.70
+2026-03-17 13:53:43,797 | INFO | TCS.NS -> signal=HOLD | price=₹2400.7 | ema_fast=2398.37 | ema_slow=2394.80 | rsi=62.7
+2026-03-17 13:53:43,931 | INFO | INFY.NS -> 356 candles | last close ₹1234.10
+2026-03-17 13:53:43,935 | INFO | INFY.NS -> signal=HOLD | price=₹1234.1 | ema_fast=1233.51 | ema_slow=1233.38 | rsi=52.5
+2026-03-17 13:53:44,110 | INFO | TECHM.NS -> 356 candles | last close ₹1350.30
+2026-03-17 13:53:44,114 | INFO | TECHM.NS -> signal=HOLD | price=₹1350.3 | ema_fast=1350.76 | ema_slow=1349.90 | rsi=53.6
+2026-03-17 13:53:44,290 | INFO | RELIANCE.NS -> 356 candles | last close ₹1399.10
+2026-03-17 13:53:44,294 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.1 | ema_fast=1399.07 | ema_slow=1397.77 | rsi=55.9
+2026-03-17 13:53:44,515 | INFO | TATASTEEL.NS -> 356 candles | last close ₹193.14
+2026-03-17 13:53:44,518 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.14 | ema_fast=192.82 | ema_slow=192.26 | rsi=64.4
+2026-03-17 13:53:44,819 | INFO | VEDL.NS -> 356 candles | last close ₹692.65
+2026-03-17 13:53:44,822 | INFO | VEDL.NS -> signal=HOLD | price=₹692.65 | ema_fast=692.85 | ema_slow=692.39 | rsi=52.9
+2026-03-17 13:53:44,979 | INFO | LT.NS -> 356 candles | last close ₹3503.20
+2026-03-17 13:53:44,982 | INFO | LT.NS -> signal=HOLD | price=₹3503.2 | ema_fast=3498.23 | ema_slow=3490.70 | rsi=64.0
+2026-03-17 13:53:45,206 | INFO | ITC.NS -> 356 candles | last close ₹305.70
+2026-03-17 13:53:45,209 | INFO | ITC.NS -> signal=HOLD | price=₹305.7 | ema_fast=306.08 | ema_slow=306.28 | rsi=40.1
+2026-03-17 13:58:46,667 | INFO | NIFTY trend: BULL | price=23533 | ema20=23507
+2026-03-17 13:58:46,668 | INFO | NIFTY trend: BULL
+2026-03-17 13:58:46,815 | INFO | HDFCBANK.NS -> 357 candles | last close ₹842.85
+2026-03-17 13:58:46,818 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹842.85 | ema_fast=843.61 | ema_slow=843.00 | rsi=51.2
+2026-03-17 13:58:46,946 | INFO | ICICIBANK.NS -> 357 candles | last close ₹1285.10
+2026-03-17 13:58:46,949 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1285.1 | ema_fast=1284.38 | ema_slow=1283.34 | rsi=57.6
+2026-03-17 13:58:47,185 | INFO | SBIN.NS -> 357 candles | last close ₹1057.40
+2026-03-17 13:58:47,188 | INFO | SBIN.NS -> signal=HOLD | price=₹1057.4 | ema_fast=1057.46 | ema_slow=1056.21 | rsi=56.6
+2026-03-17 13:58:47,330 | INFO | AXISBANK.NS -> 357 candles | last close ₹1225.00
+2026-03-17 13:58:47,335 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1225.0 | ema_fast=1227.02 | ema_slow=1226.03 | rsi=49.0
+2026-03-17 13:58:47,509 | INFO | KOTAKBANK.NS -> 357 candles | last close ₹372.25
+2026-03-17 13:58:47,513 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.25 | ema_fast=372.45 | ema_slow=372.19 | rsi=52.1
+2026-03-17 13:58:47,638 | INFO | INDUSINDBK.NS -> 357 candles | last close ₹813.95
+2026-03-17 13:58:47,641 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹813.95 | ema_fast=814.15 | ema_slow=813.89 | rsi=50.3
+2026-03-17 13:58:47,889 | INFO | BAJFINANCE.NS -> 357 candles | last close ₹865.15
+2026-03-17 13:58:47,891 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹865.15 | ema_fast=865.33 | ema_slow=865.01 | rsi=49.8
+2026-03-17 13:58:48,028 | INFO | TCS.NS -> 357 candles | last close ₹2398.10
+2026-03-17 13:58:48,031 | INFO | TCS.NS -> signal=HOLD | price=₹2398.1 | ema_fast=2398.32 | ema_slow=2395.10 | rsi=57.4
+2026-03-17 13:58:48,306 | INFO | INFY.NS -> 357 candles | last close ₹1232.70
+2026-03-17 13:58:48,310 | INFO | INFY.NS -> signal=HOLD | price=₹1232.7 | ema_fast=1233.33 | ema_slow=1233.31 | rsi=47.9
+2026-03-17 13:58:48,561 | INFO | TECHM.NS -> 357 candles | last close ₹1350.00
+2026-03-17 13:58:48,563 | INFO | TECHM.NS -> signal=HOLD | price=₹1350.0 | ema_fast=1350.53 | ema_slow=1349.87 | rsi=52.8
+2026-03-17 13:58:48,814 | INFO | RELIANCE.NS -> 357 candles | last close ₹1398.60
+2026-03-17 13:58:48,818 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1398.6 | ema_fast=1399.06 | ema_slow=1397.89 | rsi=54.0
+2026-03-17 13:58:48,966 | INFO | TATASTEEL.NS -> 357 candles | last close ₹193.04
+2026-03-17 13:58:48,970 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.04 | ema_fast=192.86 | ema_slow=192.33 | rsi=63.0
+2026-03-17 13:58:49,209 | INFO | VEDL.NS -> 357 candles | last close ₹691.85
+2026-03-17 13:58:49,212 | INFO | VEDL.NS -> signal=HOLD | price=₹691.85 | ema_fast=692.61 | ema_slow=692.33 | rsi=48.7
+2026-03-17 13:58:49,386 | INFO | LT.NS -> 357 candles | last close ₹3500.70
+2026-03-17 13:58:49,390 | INFO | LT.NS -> signal=HOLD | price=₹3500.7 | ema_fast=3498.70 | ema_slow=3491.60 | rsi=61.2
+2026-03-17 13:58:49,535 | INFO | ITC.NS -> 357 candles | last close ₹305.75
+2026-03-17 13:58:49,538 | INFO | ITC.NS -> signal=HOLD | price=₹305.75 | ema_fast=306.01 | ema_slow=306.23 | rsi=41.1
+2026-03-17 14:03:49,800 | INFO | NIFTY trend: BULL | price=23561 | ema20=23513
+2026-03-17 14:03:49,801 | INFO | NIFTY trend: BULL
+2026-03-17 14:03:49,915 | INFO | HDFCBANK.NS -> 358 candles | last close ₹843.35
+2026-03-17 14:03:49,918 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.35 | ema_fast=843.64 | ema_slow=843.08 | rsi=54.2
+2026-03-17 14:03:50,042 | INFO | ICICIBANK.NS -> 358 candles | last close ₹1288.30
+2026-03-17 14:03:50,045 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1288.3 | ema_fast=1285.36 | ema_slow=1283.89 | rsi=66.0
+2026-03-17 14:03:50,159 | INFO | SBIN.NS -> 358 candles | last close ₹1059.90
+2026-03-17 14:03:50,162 | INFO | SBIN.NS -> signal=HOLD | price=₹1059.9 | ema_fast=1058.10 | ema_slow=1056.63 | rsi=65.3
+2026-03-17 14:03:50,286 | INFO | AXISBANK.NS -> 358 candles | last close ₹1225.70
+2026-03-17 14:03:50,289 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1225.7 | ema_fast=1226.77 | ema_slow=1226.01 | rsi=51.1
+2026-03-17 14:03:50,482 | INFO | KOTAKBANK.NS -> 358 candles | last close ₹372.65
+2026-03-17 14:03:50,485 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.65 | ema_fast=372.51 | ema_slow=372.25 | rsi=56.2
+2026-03-17 14:03:50,679 | INFO | INDUSINDBK.NS -> 358 candles | last close ₹816.30
+2026-03-17 14:03:50,684 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹816.3 | ema_fast=814.61 | ema_slow=814.12 | rsi=58.0
+2026-03-17 14:03:50,810 | INFO | BAJFINANCE.NS -> 358 candles | last close ₹866.45
+2026-03-17 14:03:50,813 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹866.45 | ema_fast=865.60 | ema_slow=865.16 | rsi=54.9
+2026-03-17 14:03:50,971 | INFO | TCS.NS -> 358 candles | last close ₹2400.80
+2026-03-17 14:03:50,976 | INFO | TCS.NS -> signal=HOLD | price=₹2400.8 | ema_fast=2398.70 | ema_slow=2395.56 | rsi=60.7
+2026-03-17 14:03:51,100 | INFO | INFY.NS -> 358 candles | last close ₹1232.80
+2026-03-17 14:03:51,104 | INFO | INFY.NS -> signal=HOLD | price=₹1232.8 | ema_fast=1233.13 | ema_slow=1233.21 | rsi=48.5
+2026-03-17 14:03:51,236 | INFO | TECHM.NS -> 358 candles | last close ₹1352.80
+2026-03-17 14:03:51,241 | INFO | TECHM.NS -> signal=HOLD | price=₹1352.8 | ema_fast=1350.98 | ema_slow=1350.13 | rsi=59.4
+2026-03-17 14:03:51,376 | INFO | RELIANCE.NS -> 358 candles | last close ₹1400.20
+2026-03-17 14:03:51,380 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1400.2 | ema_fast=1399.35 | ema_slow=1398.13 | rsi=58.9
+2026-03-17 14:03:51,579 | INFO | TATASTEEL.NS -> 358 candles | last close ₹193.20
+2026-03-17 14:03:51,583 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.2 | ema_fast=192.91 | ema_slow=192.40 | rsi=64.2
+2026-03-17 14:03:51,716 | INFO | VEDL.NS -> 358 candles | last close ₹693.05
+2026-03-17 14:03:51,721 | INFO | VEDL.NS -> signal=HOLD | price=₹693.05 | ema_fast=692.76 | ema_slow=692.42 | rsi=54.9
+2026-03-17 14:03:51,845 | INFO | LT.NS -> 358 candles | last close ₹3504.70
+2026-03-17 14:03:51,850 | INFO | LT.NS -> signal=HOLD | price=₹3504.7 | ema_fast=3500.14 | ema_slow=3492.92 | rsi=64.6
+2026-03-17 14:03:51,965 | INFO | ITC.NS -> 358 candles | last close ₹305.95
+2026-03-17 14:03:51,968 | INFO | ITC.NS -> signal=HOLD | price=₹305.95 | ema_fast=306.00 | ema_slow=306.21 | rsi=44.9
+2026-03-17 14:08:53,380 | INFO | NIFTY trend: BULL | price=23562 | ema20=23518
+2026-03-17 14:08:53,380 | INFO | NIFTY trend: BULL
+2026-03-17 14:08:53,537 | INFO | HDFCBANK.NS -> 359 candles | last close ₹843.60
+2026-03-17 14:08:53,541 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.6 | ema_fast=843.65 | ema_slow=843.14 | rsi=55.7
+2026-03-17 14:08:53,655 | INFO | ICICIBANK.NS -> 359 candles | last close ₹1288.20
+2026-03-17 14:08:53,658 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1288.2 | ema_fast=1286.00 | ema_slow=1284.32 | rsi=64.6
+2026-03-17 14:08:53,777 | INFO | SBIN.NS -> 359 candles | last close ₹1062.00
+2026-03-17 14:08:53,779 | INFO | SBIN.NS -> signal=HOLD | price=₹1062.0 | ema_fast=1059.01 | ema_slow=1057.18 | rsi=70.4
+2026-03-17 14:08:53,929 | INFO | AXISBANK.NS -> 359 candles | last close ₹1225.60
+2026-03-17 14:08:53,934 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1225.6 | ema_fast=1226.57 | ema_slow=1225.99 | rsi=50.7
+2026-03-17 14:08:54,075 | INFO | KOTAKBANK.NS -> 359 candles | last close ₹372.50
+2026-03-17 14:08:54,079 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.5 | ema_fast=372.53 | ema_slow=372.28 | rsi=54.1
+2026-03-17 14:08:54,188 | INFO | INDUSINDBK.NS -> 359 candles | last close ₹814.90
+2026-03-17 14:08:54,192 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹814.9 | ema_fast=814.47 | ema_slow=814.09 | rsi=53.6
+2026-03-17 14:08:54,305 | INFO | BAJFINANCE.NS -> 359 candles | last close ₹866.85
+2026-03-17 14:08:54,307 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹866.85 | ema_fast=865.89 | ema_slow=865.34 | rsi=56.4
+2026-03-17 14:08:54,536 | INFO | TCS.NS -> 359 candles | last close ₹2400.60
+2026-03-17 14:08:54,540 | INFO | TCS.NS -> signal=HOLD | price=₹2400.6 | ema_fast=2399.16 | ema_slow=2396.06 | rsi=59.9
+2026-03-17 14:08:54,664 | INFO | INFY.NS -> 359 candles | last close ₹1233.80
+2026-03-17 14:08:54,668 | INFO | INFY.NS -> signal=HOLD | price=₹1233.8 | ema_fast=1233.38 | ema_slow=1233.32 | rsi=51.6
+2026-03-17 14:08:54,795 | INFO | TECHM.NS -> 359 candles | last close ₹1351.50
+2026-03-17 14:08:54,798 | INFO | TECHM.NS -> signal=HOLD | price=₹1351.5 | ema_fast=1351.20 | ema_slow=1350.32 | rsi=55.0
+2026-03-17 14:08:54,952 | INFO | RELIANCE.NS -> 359 candles | last close ₹1399.80
+2026-03-17 14:08:54,956 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.8 | ema_fast=1399.62 | ema_slow=1398.37 | rsi=56.1
+2026-03-17 14:08:55,169 | INFO | TATASTEEL.NS -> 359 candles | last close ₹193.04
+2026-03-17 14:08:55,173 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.04 | ema_fast=192.92 | ema_slow=192.45 | rsi=62.1
+2026-03-17 14:08:55,295 | INFO | VEDL.NS -> 359 candles | last close ₹692.50
+2026-03-17 14:08:55,300 | INFO | VEDL.NS -> signal=HOLD | price=₹692.5 | ema_fast=692.77 | ema_slow=692.46 | rsi=51.5
+2026-03-17 14:08:55,447 | INFO | LT.NS -> 359 candles | last close ₹3513.20
+2026-03-17 14:08:55,451 | INFO | LT.NS -> signal=HOLD | price=₹3513.2 | ema_fast=3502.64 | ema_slow=3494.70 | rsi=69.9
+2026-03-17 14:08:55,603 | INFO | ITC.NS -> 359 candles | last close ₹305.95
+2026-03-17 14:08:55,607 | INFO | ITC.NS -> signal=HOLD | price=₹305.95 | ema_fast=306.02 | ema_slow=306.20 | rsi=45.3
+2026-03-17 14:13:59,487 | INFO | NIFTY trend: BULL | price=23604 | ema20=23527
+2026-03-17 14:13:59,487 | INFO | NIFTY trend: BULL
+2026-03-17 14:13:59,644 | INFO | HDFCBANK.NS -> 360 candles | last close ₹845.20
+2026-03-17 14:13:59,648 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹845.2 | ema_fast=844.03 | ema_slow=843.36 | rsi=63.9
+2026-03-17 14:13:59,768 | INFO | ICICIBANK.NS -> 360 candles | last close ₹1291.40
+2026-03-17 14:13:59,771 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1291.4 | ema_fast=1287.28 | ema_slow=1285.06 | rsi=71.8
+2026-03-17 14:13:59,894 | INFO | SBIN.NS -> 360 candles | last close ₹1064.30
+2026-03-17 14:13:59,896 | INFO | SBIN.NS -> signal=HOLD | price=₹1064.3 | ema_fast=1059.88 | ema_slow=1057.73 | rsi=74.9
+2026-03-17 14:14:00,028 | INFO | AXISBANK.NS -> 360 candles | last close ₹1226.40
+2026-03-17 14:14:00,030 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1226.4 | ema_fast=1226.76 | ema_slow=1226.14 | rsi=52.8
+2026-03-17 14:14:00,221 | INFO | KOTAKBANK.NS -> 360 candles | last close ₹373.05
+2026-03-17 14:14:00,224 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.05 | ema_fast=372.66 | ema_slow=372.36 | rsi=59.9
+2026-03-17 14:14:00,340 | INFO | INDUSINDBK.NS -> 360 candles | last close ₹817.20
+2026-03-17 14:14:00,343 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹817.2 | ema_fast=814.99 | ema_slow=814.36 | rsi=60.8
+2026-03-17 14:14:00,489 | INFO | BAJFINANCE.NS -> 360 candles | last close ₹868.25
+2026-03-17 14:14:00,494 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹868.25 | ema_fast=866.44 | ema_slow=865.64 | rsi=61.1
+2026-03-17 14:14:00,653 | INFO | TCS.NS -> 360 candles | last close ₹2403.70
+2026-03-17 14:14:00,657 | INFO | TCS.NS -> signal=HOLD | price=₹2403.7 | ema_fast=2400.26 | ema_slow=2396.86 | rsi=64.2
+2026-03-17 14:14:00,775 | INFO | INFY.NS -> 360 candles | last close ₹1234.40
+2026-03-17 14:14:00,777 | INFO | INFY.NS -> signal=HOLD | price=₹1234.4 | ema_fast=1233.64 | ema_slow=1233.45 | rsi=53.4
+2026-03-17 14:14:00,948 | INFO | TECHM.NS -> 360 candles | last close ₹1352.80
+2026-03-17 14:14:00,952 | INFO | TECHM.NS -> signal=HOLD | price=₹1352.8 | ema_fast=1351.71 | ema_slow=1350.64 | rsi=58.6
+2026-03-17 14:14:01,100 | INFO | RELIANCE.NS -> 360 candles | last close ₹1403.70
+2026-03-17 14:14:01,103 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1403.7 | ema_fast=1400.53 | ema_slow=1398.91 | rsi=65.8
+2026-03-17 14:14:01,226 | INFO | TATASTEEL.NS -> 360 candles | last close ₹193.50
+2026-03-17 14:14:01,229 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.5 | ema_fast=193.08 | ema_slow=192.57 | rsi=67.1
+2026-03-17 14:14:01,363 | INFO | VEDL.NS -> 360 candles | last close ₹694.15
+2026-03-17 14:14:01,366 | INFO | VEDL.NS -> signal=HOLD | price=₹694.15 | ema_fast=693.09 | ema_slow=692.64 | rsi=58.9
+2026-03-17 14:14:01,573 | INFO | LT.NS -> 360 candles | last close ₹3521.60
+2026-03-17 14:14:01,579 | INFO | LT.NS -> signal=HOLD | price=₹3521.6 | ema_fast=3506.56 | ema_slow=3497.22 | rsi=74.0
+2026-03-17 14:14:01,701 | INFO | ITC.NS -> 360 candles | last close ₹306.20
+2026-03-17 14:14:01,704 | INFO | ITC.NS -> signal=HOLD | price=₹306.2 | ema_fast=306.07 | ema_slow=306.20 | rsi=49.4
+2026-03-17 14:19:09,568 | INFO | NIFTY trend: BULL | price=23565 | ema20=23530
+2026-03-17 14:19:09,568 | INFO | NIFTY trend: BULL
+2026-03-17 14:19:09,698 | INFO | HDFCBANK.NS -> 361 candles | last close ₹844.00
+2026-03-17 14:19:09,701 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.0 | ema_fast=844.09 | ema_slow=843.45 | rsi=54.8
+2026-03-17 14:19:09,824 | INFO | ICICIBANK.NS -> 361 candles | last close ₹1289.40
+2026-03-17 14:19:09,827 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1289.4 | ema_fast=1287.80 | ema_slow=1285.51 | rsi=63.0
+2026-03-17 14:19:09,955 | INFO | SBIN.NS -> 361 candles | last close ₹1060.00
+2026-03-17 14:19:09,958 | INFO | SBIN.NS -> signal=HOLD | price=₹1060.0 | ema_fast=1059.82 | ema_slow=1057.89 | rsi=58.2
+2026-03-17 14:19:10,093 | INFO | AXISBANK.NS -> 361 candles | last close ₹1224.30
+2026-03-17 14:19:10,096 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1224.3 | ema_fast=1226.23 | ema_slow=1225.96 | rsi=46.4
+2026-03-17 14:19:10,240 | INFO | KOTAKBANK.NS -> 361 candles | last close ₹372.55
+2026-03-17 14:19:10,243 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.55 | ema_fast=372.60 | ema_slow=372.36 | rsi=54.1
+2026-03-17 14:19:10,376 | INFO | INDUSINDBK.NS -> 361 candles | last close ₹815.70
+2026-03-17 14:19:10,380 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹815.7 | ema_fast=815.00 | ema_slow=814.42 | rsi=55.5
+2026-03-17 14:19:10,524 | INFO | BAJFINANCE.NS -> 361 candles | last close ₹867.25
+2026-03-17 14:19:10,528 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹867.25 | ema_fast=866.52 | ema_slow=865.74 | rsi=57.0
+2026-03-17 14:19:10,665 | INFO | TCS.NS -> 361 candles | last close ₹2397.00
+2026-03-17 14:19:10,668 | INFO | TCS.NS -> signal=HOLD | price=₹2397.0 | ema_fast=2399.47 | ema_slow=2396.79 | rsi=52.3
+2026-03-17 14:19:10,828 | INFO | INFY.NS -> 361 candles | last close ₹1231.80
+2026-03-17 14:19:10,831 | INFO | INFY.NS -> signal=HOLD | price=₹1231.8 | ema_fast=1233.18 | ema_slow=1233.25 | rsi=45.1
+2026-03-17 14:19:12,071 | INFO | TECHM.NS -> 361 candles | last close ₹1347.70
+2026-03-17 14:19:12,074 | INFO | TECHM.NS -> signal=HOLD | price=₹1347.7 | ema_fast=1350.70 | ema_slow=1350.27 | rsi=45.3
+2026-03-17 14:19:12,213 | INFO | RELIANCE.NS -> 361 candles | last close ₹1401.50
+2026-03-17 14:19:12,216 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1401.5 | ema_fast=1400.71 | ema_slow=1399.13 | rsi=58.3
+2026-03-17 14:19:12,343 | INFO | TATASTEEL.NS -> 361 candles | last close ₹193.54
+2026-03-17 14:19:12,345 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.54 | ema_fast=193.18 | ema_slow=192.66 | rsi=67.5
+2026-03-17 14:19:12,613 | INFO | VEDL.NS -> 361 candles | last close ₹693.35
+2026-03-17 14:19:12,617 | INFO | VEDL.NS -> signal=HOLD | price=₹693.35 | ema_fast=693.15 | ema_slow=692.71 | rsi=54.4
+2026-03-17 14:19:13,567 | INFO | LT.NS -> 361 candles | last close ₹3511.20
+2026-03-17 14:19:13,569 | INFO | LT.NS -> signal=HOLD | price=₹3511.2 | ema_fast=3507.06 | ema_slow=3498.26 | rsi=63.8
+2026-03-17 14:19:13,849 | INFO | ITC.NS -> 361 candles | last close ₹306.00
+2026-03-17 14:19:13,851 | INFO | ITC.NS -> signal=HOLD | price=₹306.0 | ema_fast=306.05 | ema_slow=306.18 | rsi=46.3
+2026-03-17 14:24:14,119 | INFO | NIFTY trend: NEUTRAL | price=23540 | ema20=23531
+2026-03-17 14:24:14,119 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 14:24:14,250 | INFO | HDFCBANK.NS -> 362 candles | last close ₹843.10
+2026-03-17 14:24:14,254 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.1 | ema_fast=843.86 | ema_slow=843.40 | rsi=50.0
+2026-03-17 14:24:14,385 | INFO | ICICIBANK.NS -> 362 candles | last close ₹1287.80
+2026-03-17 14:24:14,388 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1287.8 | ema_fast=1287.75 | ema_slow=1285.69 | rsi=57.9
+2026-03-17 14:24:14,626 | INFO | SBIN.NS -> 362 candles | last close ₹1058.30
+2026-03-17 14:24:14,629 | INFO | SBIN.NS -> signal=HOLD | price=₹1058.3 | ema_fast=1059.49 | ema_slow=1057.91 | rsi=52.8
+2026-03-17 14:24:14,785 | INFO | AXISBANK.NS -> 362 candles | last close ₹1223.00
+2026-03-17 14:24:14,790 | INFO | AXISBANK.NS -> signal=SELL | price=₹1223.0 | ema_fast=1225.56 | ema_slow=1225.67 | rsi=42.9
+2026-03-17 14:24:14,790 | INFO | AXISBANK.NS -> SELL signal but no open position
+2026-03-17 14:24:14,934 | INFO | KOTAKBANK.NS -> 362 candles | last close ₹371.75
+2026-03-17 14:24:14,938 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹371.75 | ema_fast=372.42 | ema_slow=372.30 | rsi=44.9
+2026-03-17 14:24:15,068 | INFO | INDUSINDBK.NS -> 362 candles | last close ₹814.30
+2026-03-17 14:24:15,071 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹814.3 | ema_fast=814.82 | ema_slow=814.39 | rsi=50.0
+2026-03-17 14:24:15,262 | INFO | BAJFINANCE.NS -> 362 candles | last close ₹865.65
+2026-03-17 14:24:15,266 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹865.65 | ema_fast=866.34 | ema_slow=865.73 | rsi=49.6
+2026-03-17 14:24:15,414 | INFO | TCS.NS -> 362 candles | last close ₹2392.80
+2026-03-17 14:24:15,418 | INFO | TCS.NS -> signal=HOLD | price=₹2392.8 | ema_fast=2398.05 | ema_slow=2396.39 | rsi=46.2
+2026-03-17 14:24:15,558 | INFO | INFY.NS -> 362 candles | last close ₹1231.60
+2026-03-17 14:24:15,561 | INFO | INFY.NS -> signal=HOLD | price=₹1231.6 | ema_fast=1232.88 | ema_slow=1233.11 | rsi=44.5
+2026-03-17 14:24:15,747 | INFO | TECHM.NS -> 362 candles | last close ₹1346.50
+2026-03-17 14:24:15,751 | INFO | TECHM.NS -> signal=SELL | price=₹1346.5 | ema_fast=1349.96 | ema_slow=1349.97 | rsi=42.7
+2026-03-17 14:24:15,751 | INFO | TECHM.NS -> SELL signal but no open position
+2026-03-17 14:24:15,912 | INFO | RELIANCE.NS -> 362 candles | last close ₹1400.40
+2026-03-17 14:24:15,915 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1400.4 | ema_fast=1400.63 | ema_slow=1399.24 | rsi=54.9
+2026-03-17 14:24:16,230 | INFO | TATASTEEL.NS -> 362 candles | last close ₹193.25
+2026-03-17 14:24:16,234 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.25 | ema_fast=193.19 | ema_slow=192.71 | rsi=61.8
+2026-03-17 14:24:16,405 | INFO | VEDL.NS -> 362 candles | last close ₹692.15
+2026-03-17 14:24:16,409 | INFO | VEDL.NS -> signal=HOLD | price=₹692.15 | ema_fast=692.98 | ema_slow=692.67 | rsi=48.6
+2026-03-17 14:24:16,542 | INFO | LT.NS -> 362 candles | last close ₹3507.00
+2026-03-17 14:24:16,545 | INFO | LT.NS -> signal=HOLD | price=₹3507.0 | ema_fast=3507.03 | ema_slow=3499.05 | rsi=59.5
+2026-03-17 14:24:16,704 | INFO | ITC.NS -> 362 candles | last close ₹305.75
+2026-03-17 14:24:16,709 | INFO | ITC.NS -> signal=HOLD | price=₹305.75 | ema_fast=305.98 | ema_slow=306.14 | rsi=42.7
+2026-03-17 14:29:16,980 | INFO | NIFTY trend: BULL | price=23562 | ema20=23534
+2026-03-17 14:29:16,980 | INFO | NIFTY trend: BULL
+2026-03-17 14:29:17,111 | INFO | HDFCBANK.NS -> 363 candles | last close ₹843.50
+2026-03-17 14:29:17,113 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.5 | ema_fast=843.79 | ema_slow=843.41 | rsi=52.1
+2026-03-17 14:29:17,257 | INFO | ICICIBANK.NS -> 363 candles | last close ₹1288.40
+2026-03-17 14:29:17,262 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1288.4 | ema_fast=1287.91 | ema_slow=1285.95 | rsi=59.4
+2026-03-17 14:29:17,476 | INFO | SBIN.NS -> 363 candles | last close ₹1060.40
+2026-03-17 14:29:17,480 | INFO | SBIN.NS -> signal=HOLD | price=₹1060.4 | ema_fast=1059.84 | ema_slow=1058.23 | rsi=58.8
+2026-03-17 14:29:17,616 | INFO | AXISBANK.NS -> 363 candles | last close ₹1224.00
+2026-03-17 14:29:17,619 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1224.0 | ema_fast=1225.20 | ema_slow=1225.50 | rsi=46.4
+2026-03-17 14:29:17,850 | INFO | KOTAKBANK.NS -> 363 candles | last close ₹372.50
+2026-03-17 14:29:17,854 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.5 | ema_fast=372.49 | ema_slow=372.35 | rsi=53.2
+2026-03-17 14:29:17,987 | INFO | INDUSINDBK.NS -> 363 candles | last close ₹817.55
+2026-03-17 14:29:17,991 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹817.55 | ema_fast=815.46 | ema_slow=814.72 | rsi=60.7
+2026-03-17 14:29:18,120 | INFO | BAJFINANCE.NS -> 363 candles | last close ₹866.80
+2026-03-17 14:29:18,123 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹866.8 | ema_fast=866.45 | ema_slow=865.84 | rsi=54.3
+2026-03-17 14:29:18,287 | INFO | TCS.NS -> 363 candles | last close ₹2396.00
+2026-03-17 14:29:18,292 | INFO | TCS.NS -> signal=HOLD | price=₹2396.0 | ema_fast=2397.74 | ema_slow=2396.40 | rsi=50.9
+2026-03-17 14:29:18,434 | INFO | INFY.NS -> 363 candles | last close ₹1232.40
+2026-03-17 14:29:18,438 | INFO | INFY.NS -> signal=HOLD | price=₹1232.4 | ema_fast=1232.82 | ema_slow=1233.06 | rsi=47.3
+2026-03-17 14:29:18,571 | INFO | TECHM.NS -> 363 candles | last close ₹1346.90
+2026-03-17 14:29:18,574 | INFO | TECHM.NS -> signal=SELL | price=₹1346.9 | ema_fast=1349.39 | ema_slow=1349.72 | rsi=43.6
+2026-03-17 14:29:18,574 | INFO | TECHM.NS -> SELL signal but no open position
+2026-03-17 14:29:18,737 | INFO | RELIANCE.NS -> 363 candles | last close ₹1400.10
+2026-03-17 14:29:18,741 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1400.1 | ema_fast=1400.57 | ema_slow=1399.34 | rsi=53.9
+2026-03-17 14:29:18,896 | INFO | TATASTEEL.NS -> 363 candles | last close ₹193.81
+2026-03-17 14:29:18,900 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹193.81 | ema_fast=193.33 | ema_slow=192.82 | rsi=68.3
+2026-03-17 14:29:19,033 | INFO | VEDL.NS -> 363 candles | last close ₹693.70
+2026-03-17 14:29:19,037 | INFO | VEDL.NS -> signal=HOLD | price=₹693.7 | ema_fast=693.26 | ema_slow=692.83 | rsi=55.7
+2026-03-17 14:29:19,293 | INFO | LT.NS -> 363 candles | last close ₹3510.30
+2026-03-17 14:29:19,300 | INFO | LT.NS -> signal=HOLD | price=₹3510.3 | ema_fast=3507.65 | ema_slow=3500.06 | rsi=61.6
+2026-03-17 14:29:19,427 | INFO | ITC.NS -> 363 candles | last close ₹305.85
+2026-03-17 14:29:19,429 | INFO | ITC.NS -> signal=HOLD | price=₹305.85 | ema_fast=305.95 | ema_slow=306.11 | rsi=44.8
+2026-03-17 14:34:20,782 | INFO | NIFTY trend: BULL | price=23582 | ema20=23538
+2026-03-17 14:34:20,782 | INFO | NIFTY trend: BULL
+2026-03-17 14:34:20,926 | INFO | HDFCBANK.NS -> 364 candles | last close ₹843.90
+2026-03-17 14:34:20,928 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.9 | ema_fast=843.80 | ema_slow=843.45 | rsi=54.1
+2026-03-17 14:34:21,071 | INFO | ICICIBANK.NS -> 364 candles | last close ₹1289.60
+2026-03-17 14:34:21,074 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1289.6 | ema_fast=1288.15 | ema_slow=1286.24 | rsi=61.9
+2026-03-17 14:34:21,213 | INFO | SBIN.NS -> 364 candles | last close ₹1061.90
+2026-03-17 14:34:21,216 | INFO | SBIN.NS -> signal=HOLD | price=₹1061.9 | ema_fast=1060.24 | ema_slow=1058.56 | rsi=62.4
+2026-03-17 14:34:21,387 | INFO | AXISBANK.NS -> 364 candles | last close ₹1224.70
+2026-03-17 14:34:21,392 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1224.7 | ema_fast=1224.97 | ema_slow=1225.36 | rsi=48.8
+2026-03-17 14:34:21,548 | INFO | KOTAKBANK.NS -> 364 candles | last close ₹372.95
+2026-03-17 14:34:21,553 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹372.95 | ema_fast=372.55 | ema_slow=372.39 | rsi=57.9
+2026-03-17 14:34:21,696 | INFO | INDUSINDBK.NS -> 364 candles | last close ₹819.10
+2026-03-17 14:34:21,699 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹819.1 | ema_fast=816.14 | ema_slow=815.10 | rsi=64.7
+2026-03-17 14:34:21,850 | INFO | BAJFINANCE.NS -> 364 candles | last close ₹868.00
+2026-03-17 14:34:21,853 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹868.0 | ema_fast=866.69 | ema_slow=866.00 | rsi=58.7
+2026-03-17 14:34:22,028 | INFO | TCS.NS -> 364 candles | last close ₹2394.60
+2026-03-17 14:34:22,032 | INFO | TCS.NS -> signal=HOLD | price=₹2394.6 | ema_fast=2396.79 | ema_slow=2396.08 | rsi=48.9
+2026-03-17 14:34:22,172 | INFO | INFY.NS -> 364 candles | last close ₹1231.90
+2026-03-17 14:34:22,176 | INFO | INFY.NS -> signal=HOLD | price=₹1231.9 | ema_fast=1232.52 | ema_slow=1232.90 | rsi=45.6
+2026-03-17 14:34:22,348 | INFO | TECHM.NS -> 364 candles | last close ₹1348.10
+2026-03-17 14:34:22,354 | INFO | TECHM.NS -> signal=HOLD | price=₹1348.1 | ema_fast=1349.05 | ema_slow=1349.53 | rsi=47.3
+2026-03-17 14:34:22,525 | INFO | RELIANCE.NS -> 364 candles | last close ₹1402.40
+2026-03-17 14:34:22,529 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1402.4 | ema_fast=1400.97 | ema_slow=1399.64 | rsi=59.7
+2026-03-17 14:34:22,667 | INFO | TATASTEEL.NS -> 364 candles | last close ₹194.50
+2026-03-17 14:34:22,669 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹194.5 | ema_fast=193.58 | ema_slow=192.98 | rsi=73.7
+2026-03-17 14:34:22,925 | INFO | VEDL.NS -> 364 candles | last close ₹694.80
+2026-03-17 14:34:22,929 | INFO | VEDL.NS -> signal=HOLD | price=₹694.8 | ema_fast=693.56 | ema_slow=693.01 | rsi=60.3
+2026-03-17 14:34:23,065 | INFO | LT.NS -> 364 candles | last close ₹3518.40
+2026-03-17 14:34:23,068 | INFO | LT.NS -> signal=HOLD | price=₹3518.4 | ema_fast=3509.72 | ema_slow=3501.68 | rsi=66.4
+2026-03-17 14:34:23,204 | INFO | ITC.NS -> 364 candles | last close ₹305.90
+2026-03-17 14:34:23,206 | INFO | ITC.NS -> signal=HOLD | price=₹305.9 | ema_fast=305.93 | ema_slow=306.09 | rsi=45.8
+2026-03-17 14:39:25,129 | INFO | NIFTY trend: BULL | price=23586 | ema20=23543
+2026-03-17 14:39:25,129 | INFO | NIFTY trend: BULL
+2026-03-17 14:39:25,447 | INFO | HDFCBANK.NS -> 365 candles | last close ₹844.50
+2026-03-17 14:39:25,450 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.5 | ema_fast=843.94 | ema_slow=843.54 | rsi=57.0
+2026-03-17 14:39:28,218 | INFO | ICICIBANK.NS -> 365 candles | last close ₹1290.20
+2026-03-17 14:39:28,221 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1290.2 | ema_fast=1288.55 | ema_slow=1286.59 | rsi=63.2
+2026-03-17 14:39:28,841 | INFO | SBIN.NS -> 365 candles | last close ₹1060.70
+2026-03-17 14:39:28,845 | INFO | SBIN.NS -> signal=HOLD | price=₹1060.7 | ema_fast=1060.32 | ema_slow=1058.74 | rsi=58.1
+2026-03-17 14:39:29,150 | INFO | AXISBANK.NS -> 365 candles | last close ₹1225.20
+2026-03-17 14:39:29,153 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1225.2 | ema_fast=1225.08 | ema_slow=1225.38 | rsi=50.3
+2026-03-17 14:39:29,472 | INFO | KOTAKBANK.NS -> 365 candles | last close ₹373.50
+2026-03-17 14:39:29,475 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.5 | ema_fast=372.74 | ema_slow=372.49 | rsi=62.8
+2026-03-17 14:39:29,816 | INFO | INDUSINDBK.NS -> 365 candles | last close ₹819.75
+2026-03-17 14:39:29,820 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹819.75 | ema_fast=816.88 | ema_slow=815.53 | rsi=66.2
+2026-03-17 14:39:30,131 | INFO | BAJFINANCE.NS -> 365 candles | last close ₹868.15
+2026-03-17 14:39:30,134 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹868.15 | ema_fast=866.93 | ema_slow=866.17 | rsi=59.3
+2026-03-17 14:39:30,449 | INFO | TCS.NS -> 365 candles | last close ₹2398.10
+2026-03-17 14:39:30,452 | INFO | TCS.NS -> signal=HOLD | price=₹2398.1 | ema_fast=2396.99 | ema_slow=2396.23 | rsi=54.5
+2026-03-17 14:39:30,795 | INFO | INFY.NS -> 365 candles | last close ₹1232.30
+2026-03-17 14:39:30,799 | INFO | INFY.NS -> signal=HOLD | price=₹1232.3 | ema_fast=1232.46 | ema_slow=1232.84 | rsi=47.3
+2026-03-17 14:39:31,123 | INFO | TECHM.NS -> 365 candles | last close ₹1349.30
+2026-03-17 14:39:31,126 | INFO | TECHM.NS -> signal=HOLD | price=₹1349.3 | ema_fast=1348.94 | ema_slow=1349.43 | rsi=50.6
+2026-03-17 14:39:31,451 | INFO | RELIANCE.NS -> 365 candles | last close ₹1401.00
+2026-03-17 14:39:31,454 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1401.0 | ema_fast=1400.98 | ema_slow=1399.76 | rsi=55.2
+2026-03-17 14:39:31,795 | INFO | TATASTEEL.NS -> 365 candles | last close ₹194.86
+2026-03-17 14:39:31,798 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹194.86 | ema_fast=193.84 | ema_slow=193.15 | rsi=75.9
+2026-03-17 14:39:32,114 | INFO | VEDL.NS -> 365 candles | last close ₹695.65
+2026-03-17 14:39:32,117 | INFO | VEDL.NS -> signal=HOLD | price=₹695.65 | ema_fast=694.06 | ema_slow=693.29 | rsi=63.2
+2026-03-17 14:39:32,428 | INFO | LT.NS -> 365 candles | last close ₹3517.30
+2026-03-17 14:39:32,431 | INFO | LT.NS -> signal=HOLD | price=₹3517.3 | ema_fast=3511.19 | ema_slow=3503.08 | rsi=65.4
+2026-03-17 14:39:32,778 | INFO | ITC.NS -> 365 candles | last close ₹306.15
+2026-03-17 14:39:32,781 | INFO | ITC.NS -> signal=HOLD | price=₹306.15 | ema_fast=305.98 | ema_slow=306.10 | rsi=50.2
+2026-03-17 14:44:34,198 | INFO | NIFTY trend: BULL | price=23585 | ema20=23547
+2026-03-17 14:44:34,198 | INFO | NIFTY trend: BULL
+2026-03-17 14:44:34,359 | INFO | HDFCBANK.NS -> 366 candles | last close ₹844.10
+2026-03-17 14:44:34,363 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.1 | ema_fast=844.02 | ema_slow=843.62 | rsi=54.2
+2026-03-17 14:44:34,493 | INFO | ICICIBANK.NS -> 366 candles | last close ₹1290.40
+2026-03-17 14:44:34,496 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1290.4 | ema_fast=1288.97 | ema_slow=1286.96 | rsi=63.4
+2026-03-17 14:44:34,663 | INFO | SBIN.NS -> 366 candles | last close ₹1061.60
+2026-03-17 14:44:34,667 | INFO | SBIN.NS -> signal=HOLD | price=₹1061.6 | ema_fast=1060.62 | ema_slow=1059.03 | rsi=60.7
+2026-03-17 14:44:34,841 | INFO | AXISBANK.NS -> 366 candles | last close ₹1223.80
+2026-03-17 14:44:34,845 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1223.8 | ema_fast=1224.92 | ema_slow=1225.28 | rsi=46.2
+2026-03-17 14:44:34,974 | INFO | KOTAKBANK.NS -> 366 candles | last close ₹373.70
+2026-03-17 14:44:34,977 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.7 | ema_fast=372.94 | ema_slow=372.60 | rsi=64.3
+2026-03-17 14:44:35,240 | INFO | INDUSINDBK.NS -> 366 candles | last close ₹818.30
+2026-03-17 14:44:35,245 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹818.3 | ema_fast=817.19 | ema_slow=815.79 | rsi=59.7
+2026-03-17 14:44:35,369 | INFO | BAJFINANCE.NS -> 366 candles | last close ₹868.65
+2026-03-17 14:44:35,372 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹868.65 | ema_fast=867.29 | ema_slow=866.40 | rsi=61.0
+2026-03-17 14:44:35,496 | INFO | TCS.NS -> 366 candles | last close ₹2396.60
+2026-03-17 14:44:35,499 | INFO | TCS.NS -> signal=HOLD | price=₹2396.6 | ema_fast=2396.75 | ema_slow=2396.18 | rsi=52.1
+2026-03-17 14:44:35,674 | INFO | INFY.NS -> 366 candles | last close ₹1233.10
+2026-03-17 14:44:35,678 | INFO | INFY.NS -> signal=HOLD | price=₹1233.1 | ema_fast=1232.60 | ema_slow=1232.87 | rsi=50.6
+2026-03-17 14:44:35,812 | INFO | TECHM.NS -> 366 candles | last close ₹1348.90
+2026-03-17 14:44:35,815 | INFO | TECHM.NS -> signal=HOLD | price=₹1348.9 | ema_fast=1348.95 | ema_slow=1349.39 | rsi=49.5
+2026-03-17 14:44:35,944 | INFO | RELIANCE.NS -> 366 candles | last close ₹1400.90
+2026-03-17 14:44:35,947 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1400.9 | ema_fast=1400.91 | ema_slow=1399.84 | rsi=54.8
+2026-03-17 14:44:36,209 | INFO | TATASTEEL.NS -> 366 candles | last close ₹195.00
+2026-03-17 14:44:36,212 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹195.0 | ema_fast=194.08 | ema_slow=193.33 | rsi=76.8
+2026-03-17 14:44:36,348 | INFO | VEDL.NS -> 366 candles | last close ₹695.60
+2026-03-17 14:44:36,352 | INFO | VEDL.NS -> signal=HOLD | price=₹695.6 | ema_fast=694.34 | ema_slow=693.49 | rsi=63.1
+2026-03-17 14:44:36,488 | INFO | LT.NS -> 366 candles | last close ₹3523.40
+2026-03-17 14:44:36,493 | INFO | LT.NS -> signal=HOLD | price=₹3523.4 | ema_fast=3514.06 | ema_slow=3505.15 | rsi=69.1
+2026-03-17 14:44:36,656 | INFO | ITC.NS -> 366 candles | last close ₹306.05
+2026-03-17 14:44:36,661 | INFO | ITC.NS -> signal=HOLD | price=₹306.05 | ema_fast=306.01 | ema_slow=306.10 | rsi=48.5
+2026-03-17 14:49:37,868 | INFO | NIFTY trend: BULL | price=23579 | ema20=23550
+2026-03-17 14:49:37,868 | INFO | NIFTY trend: BULL
+2026-03-17 14:49:37,990 | INFO | HDFCBANK.NS -> 367 candles | last close ₹843.65
+2026-03-17 14:49:37,993 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.65 | ema_fast=843.98 | ema_slow=843.64 | rsi=51.5
+2026-03-17 14:49:38,108 | INFO | ICICIBANK.NS -> 367 candles | last close ₹1289.60
+2026-03-17 14:49:38,111 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1289.6 | ema_fast=1289.09 | ema_slow=1287.20 | rsi=60.4
+2026-03-17 14:49:38,233 | INFO | SBIN.NS -> 367 candles | last close ₹1062.70
+2026-03-17 14:49:38,236 | INFO | SBIN.NS -> signal=HOLD | price=₹1062.7 | ema_fast=1061.02 | ema_slow=1059.35 | rsi=63.5
+2026-03-17 14:49:38,596 | INFO | AXISBANK.NS -> 367 candles | last close ₹1223.30
+2026-03-17 14:49:38,599 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1223.3 | ema_fast=1224.61 | ema_slow=1225.11 | rsi=44.8
+2026-03-17 14:49:38,717 | INFO | KOTAKBANK.NS -> 367 candles | last close ₹374.00
+2026-03-17 14:49:38,720 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹374.0 | ema_fast=373.18 | ema_slow=372.74 | rsi=66.6
+2026-03-17 14:49:38,942 | INFO | INDUSINDBK.NS -> 367 candles | last close ₹817.65
+2026-03-17 14:49:38,947 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹817.65 | ema_fast=817.38 | ema_slow=816.01 | rsi=57.0
+2026-03-17 14:49:39,061 | INFO | BAJFINANCE.NS -> 367 candles | last close ₹869.55
+2026-03-17 14:49:39,064 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹869.55 | ema_fast=867.73 | ema_slow=866.68 | rsi=64.0
+2026-03-17 14:49:39,177 | INFO | TCS.NS -> 367 candles | last close ₹2397.00
+2026-03-17 14:49:39,180 | INFO | TCS.NS -> signal=HOLD | price=₹2397.0 | ema_fast=2396.94 | ema_slow=2396.33 | rsi=52.7
+2026-03-17 14:49:39,318 | INFO | INFY.NS -> 367 candles | last close ₹1233.00
+2026-03-17 14:49:39,322 | INFO | INFY.NS -> signal=HOLD | price=₹1233.0 | ema_fast=1232.64 | ema_slow=1232.86 | rsi=50.3
+2026-03-17 14:49:39,475 | INFO | TECHM.NS -> 367 candles | last close ₹1346.90
+2026-03-17 14:49:39,479 | INFO | TECHM.NS -> signal=HOLD | price=₹1346.9 | ema_fast=1348.51 | ema_slow=1349.14 | rsi=44.6
+2026-03-17 14:49:39,613 | INFO | RELIANCE.NS -> 367 candles | last close ₹1399.10
+2026-03-17 14:49:39,615 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.1 | ema_fast=1400.55 | ema_slow=1399.77 | rsi=49.4
+2026-03-17 14:49:39,732 | INFO | TATASTEEL.NS -> 367 candles | last close ₹195.34
+2026-03-17 14:49:39,735 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹195.34 | ema_fast=194.33 | ema_slow=193.51 | rsi=78.8
+2026-03-17 14:49:39,955 | INFO | VEDL.NS -> 367 candles | last close ₹695.35
+2026-03-17 14:49:39,959 | INFO | VEDL.NS -> signal=HOLD | price=₹695.35 | ema_fast=694.57 | ema_slow=693.67 | rsi=61.1
+2026-03-17 14:49:40,070 | INFO | LT.NS -> 367 candles | last close ₹3525.90
+2026-03-17 14:49:40,073 | INFO | LT.NS -> signal=HOLD | price=₹3525.9 | ema_fast=3516.33 | ema_slow=3506.98 | rsi=70.4
+2026-03-17 14:49:40,188 | INFO | ITC.NS -> 367 candles | last close ₹305.70
+2026-03-17 14:49:40,191 | INFO | ITC.NS -> signal=HOLD | price=₹305.7 | ema_fast=305.95 | ema_slow=306.06 | rsi=43.2
+2026-03-17 14:54:41,480 | INFO | NIFTY trend: BULL | price=23609 | ema20=23558
+2026-03-17 14:54:41,480 | INFO | NIFTY trend: BULL
+2026-03-17 14:54:41,611 | INFO | HDFCBANK.NS -> 368 candles | last close ₹844.95
+2026-03-17 14:54:41,615 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.95 | ema_fast=844.31 | ema_slow=843.83 | rsi=58.5
+2026-03-17 14:54:41,738 | INFO | ICICIBANK.NS -> 368 candles | last close ₹1290.20
+2026-03-17 14:54:41,741 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1290.2 | ema_fast=1289.38 | ema_slow=1287.50 | rsi=62.4
+2026-03-17 14:54:41,852 | INFO | SBIN.NS -> 368 candles | last close ₹1064.50
+2026-03-17 14:54:41,854 | INFO | SBIN.NS -> signal=HOLD | price=₹1064.5 | ema_fast=1061.88 | ema_slow=1059.90 | rsi=67.3
+2026-03-17 14:54:41,969 | INFO | AXISBANK.NS -> 368 candles | last close ₹1225.40
+2026-03-17 14:54:41,972 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1225.4 | ema_fast=1224.83 | ema_slow=1225.17 | rsi=51.3
+2026-03-17 14:54:42,090 | INFO | KOTAKBANK.NS -> 368 candles | last close ₹374.60
+2026-03-17 14:54:42,093 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹374.6 | ema_fast=373.49 | ema_slow=372.92 | rsi=70.6
+2026-03-17 14:54:42,239 | INFO | INDUSINDBK.NS -> 368 candles | last close ₹818.90
+2026-03-17 14:54:42,244 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹818.9 | ema_fast=817.80 | ema_slow=816.33 | rsi=61.4
+2026-03-17 14:54:42,393 | INFO | BAJFINANCE.NS -> 368 candles | last close ₹870.75
+2026-03-17 14:54:42,397 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹870.75 | ema_fast=868.44 | ema_slow=867.11 | rsi=67.5
+2026-03-17 14:54:42,521 | INFO | TCS.NS -> 368 candles | last close ₹2398.70
+2026-03-17 14:54:42,525 | INFO | TCS.NS -> signal=HOLD | price=₹2398.7 | ema_fast=2397.73 | ema_slow=2396.77 | rsi=55.1
+2026-03-17 14:54:42,637 | INFO | INFY.NS -> 368 candles | last close ₹1234.30
+2026-03-17 14:54:42,640 | INFO | INFY.NS -> signal=HOLD | price=₹1234.3 | ema_fast=1233.06 | ema_slow=1233.04 | rsi=55.5
+2026-03-17 14:54:42,858 | INFO | TECHM.NS -> 368 candles | last close ₹1349.70
+2026-03-17 14:54:42,862 | INFO | TECHM.NS -> signal=HOLD | price=₹1349.7 | ema_fast=1348.97 | ema_slow=1349.31 | rsi=51.8
+2026-03-17 14:54:42,973 | INFO | RELIANCE.NS -> 368 candles | last close ₹1399.90
+2026-03-17 14:54:42,977 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1399.9 | ema_fast=1400.63 | ema_slow=1399.89 | rsi=51.6
+2026-03-17 14:54:43,191 | INFO | TATASTEEL.NS -> 368 candles | last close ₹195.85
+2026-03-17 14:54:43,196 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹195.85 | ema_fast=194.64 | ema_slow=193.73 | rsi=81.3
+2026-03-17 14:54:43,318 | INFO | VEDL.NS -> 368 candles | last close ₹697.95
+2026-03-17 14:54:43,321 | INFO | VEDL.NS -> signal=HOLD | price=₹697.95 | ema_fast=695.35 | ema_slow=694.11 | rsi=70.9
+2026-03-17 14:54:43,437 | INFO | LT.NS -> 368 candles | last close ₹3536.00
+2026-03-17 14:54:43,440 | INFO | LT.NS -> signal=HOLD | price=₹3536.0 | ema_fast=3520.62 | ema_slow=3509.80 | rsi=75.0
+2026-03-17 14:54:43,566 | INFO | ITC.NS -> 368 candles | last close ₹305.95
+2026-03-17 14:54:43,569 | INFO | ITC.NS -> signal=HOLD | price=₹305.95 | ema_fast=305.98 | ema_slow=306.07 | rsi=47.0
+2026-03-17 14:59:44,972 | INFO | NIFTY trend: BULL | price=23650 | ema20=23568
+2026-03-17 14:59:44,972 | INFO | NIFTY trend: BULL
+2026-03-17 14:59:45,217 | INFO | HDFCBANK.NS -> 369 candles | last close ₹846.15
+2026-03-17 14:59:45,220 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹846.15 | ema_fast=844.75 | ema_slow=844.08 | rsi=63.6
+2026-03-17 14:59:45,362 | INFO | ICICIBANK.NS -> 369 candles | last close ₹1293.40
+2026-03-17 14:59:45,365 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1293.4 | ema_fast=1290.26 | ema_slow=1288.08 | rsi=69.2
+2026-03-17 14:59:45,607 | INFO | SBIN.NS -> 369 candles | last close ₹1068.80
+2026-03-17 14:59:45,610 | INFO | SBIN.NS -> signal=HOLD | price=₹1068.8 | ema_fast=1063.42 | ema_slow=1060.80 | rsi=74.3
+2026-03-17 14:59:45,779 | INFO | AXISBANK.NS -> 369 candles | last close ₹1229.50
+2026-03-17 14:59:45,783 | INFO | AXISBANK.NS -> signal=BUY | price=₹1229.5 | ema_fast=1225.85 | ema_slow=1225.61 | rsi=61.2
+2026-03-17 14:59:45,783 | INFO | BUY  AXISBANK.NS @ ₹1229.50 | qty=8 | invested=₹9,836 | stop=₹1223.35 | target=₹1247.94
+2026-03-17 14:59:45,921 | INFO | KOTAKBANK.NS -> 369 candles | last close ₹374.80
+2026-03-17 14:59:45,923 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹374.8 | ema_fast=373.78 | ema_slow=373.11 | rsi=71.8
+2026-03-17 14:59:46,063 | INFO | INDUSINDBK.NS -> 369 candles | last close ₹821.50
+2026-03-17 14:59:46,067 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹821.5 | ema_fast=818.57 | ema_slow=816.82 | rsi=67.8
+2026-03-17 14:59:46,232 | INFO | BAJFINANCE.NS -> 369 candles | last close ₹871.90
+2026-03-17 14:59:46,236 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹871.9 | ema_fast=869.24 | ema_slow=867.60 | rsi=70.4
+2026-03-17 14:59:46,484 | INFO | TCS.NS -> 369 candles | last close ₹2401.60
+2026-03-17 14:59:46,487 | INFO | TCS.NS -> signal=HOLD | price=₹2401.6 | ema_fast=2398.71 | ema_slow=2397.31 | rsi=60.0
+2026-03-17 14:59:46,662 | INFO | INFY.NS -> 369 candles | last close ₹1235.30
+2026-03-17 14:59:46,665 | INFO | INFY.NS -> signal=HOLD | price=₹1235.3 | ema_fast=1233.51 | ema_slow=1233.24 | rsi=59.1
+2026-03-17 14:59:46,803 | INFO | TECHM.NS -> 369 candles | last close ₹1348.20
+2026-03-17 14:59:46,806 | INFO | TECHM.NS -> signal=HOLD | price=₹1348.2 | ema_fast=1348.86 | ema_slow=1349.23 | rsi=47.7
+2026-03-17 14:59:46,936 | INFO | RELIANCE.NS -> 369 candles | last close ₹1405.00
+2026-03-17 14:59:46,939 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1405.0 | ema_fast=1401.73 | ema_slow=1400.47 | rsi=64.3
+2026-03-17 14:59:47,091 | INFO | TATASTEEL.NS -> 369 candles | last close ₹196.10
+2026-03-17 14:59:47,095 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹196.1 | ema_fast=194.95 | ema_slow=193.95 | rsi=82.4
+2026-03-17 14:59:47,233 | INFO | VEDL.NS -> 369 candles | last close ₹698.45
+2026-03-17 14:59:47,235 | INFO | VEDL.NS -> signal=HOLD | price=₹698.45 | ema_fast=695.98 | ema_slow=694.51 | rsi=72.2
+2026-03-17 14:59:47,496 | INFO | LT.NS -> 369 candles | last close ₹3543.30
+2026-03-17 14:59:47,501 | INFO | LT.NS -> signal=HOLD | price=₹3543.3 | ema_fast=3525.32 | ema_slow=3512.93 | rsi=77.6
+2026-03-17 14:59:47,691 | INFO | ITC.NS -> 369 candles | last close ₹306.15
+2026-03-17 14:59:47,696 | INFO | ITC.NS -> signal=HOLD | price=₹306.15 | ema_fast=306.04 | ema_slow=306.09 | rsi=50.6
+2026-03-17 15:04:49,107 | INFO | NIFTY trend: NEUTRAL | price=23576 | ema20=23569
+2026-03-17 15:04:49,107 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 15:04:49,247 | INFO | HDFCBANK.NS -> 370 candles | last close ₹844.30
+2026-03-17 15:04:49,249 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹844.3 | ema_fast=844.66 | ema_slow=844.10 | rsi=52.5
+2026-03-17 15:04:49,384 | INFO | ICICIBANK.NS -> 370 candles | last close ₹1286.90
+2026-03-17 15:04:49,386 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1286.9 | ema_fast=1289.61 | ema_slow=1287.98 | rsi=49.3
+2026-03-17 15:04:49,530 | INFO | SBIN.NS -> 370 candles | last close ₹1065.10
+2026-03-17 15:04:49,533 | INFO | SBIN.NS -> signal=HOLD | price=₹1065.1 | ema_fast=1063.95 | ema_slow=1061.29 | rsi=60.5
+2026-03-17 15:04:49,680 | INFO | AXISBANK.NS -> 370 candles | last close ₹1226.10
+2026-03-17 15:04:49,683 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1226.1 | ema_fast=1226.06 | ema_slow=1225.73 | rsi=51.4
+2026-03-17 15:04:49,820 | INFO | KOTAKBANK.NS -> 370 candles | last close ₹374.40
+2026-03-17 15:04:49,823 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹374.4 | ema_fast=373.93 | ema_slow=373.24 | rsi=64.7
+2026-03-17 15:04:49,961 | INFO | INDUSINDBK.NS -> 370 candles | last close ₹820.35
+2026-03-17 15:04:49,968 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹820.35 | ema_fast=818.98 | ema_slow=817.17 | rsi=62.2
+2026-03-17 15:04:50,144 | INFO | BAJFINANCE.NS -> 370 candles | last close ₹869.45
+2026-03-17 15:04:50,148 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹869.45 | ema_fast=869.29 | ema_slow=867.77 | rsi=57.8
+2026-03-17 15:04:50,315 | INFO | TCS.NS -> 370 candles | last close ₹2395.20
+2026-03-17 15:04:50,319 | INFO | TCS.NS -> signal=HOLD | price=₹2395.2 | ema_fast=2398.02 | ema_slow=2397.13 | rsi=48.0
+2026-03-17 15:04:50,470 | INFO | INFY.NS -> 370 candles | last close ₹1230.80
+2026-03-17 15:04:50,475 | INFO | INFY.NS -> signal=SELL | price=₹1230.8 | ema_fast=1233.07 | ema_slow=1233.07 | rsi=42.7
+2026-03-17 15:04:50,475 | INFO | INFY.NS -> SELL signal but no open position
+2026-03-17 15:04:50,643 | INFO | TECHM.NS -> 370 candles | last close ₹1343.40
+2026-03-17 15:04:50,647 | INFO | TECHM.NS -> signal=HOLD | price=₹1343.4 | ema_fast=1347.76 | ema_slow=1348.70 | rsi=37.7
+2026-03-17 15:04:50,820 | INFO | RELIANCE.NS -> 370 candles | last close ₹1396.60
+2026-03-17 15:04:50,824 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1396.6 | ema_fast=1400.70 | ema_slow=1400.12 | rsi=43.6
+2026-03-17 15:04:50,993 | INFO | TATASTEEL.NS -> 370 candles | last close ₹195.63
+2026-03-17 15:04:50,997 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹195.63 | ema_fast=195.11 | ema_slow=194.11 | rsi=71.9
+2026-03-17 15:04:51,152 | INFO | VEDL.NS -> 370 candles | last close ₹697.10
+2026-03-17 15:04:51,157 | INFO | VEDL.NS -> signal=HOLD | price=₹697.1 | ema_fast=696.18 | ema_slow=694.73 | rsi=64.0
+2026-03-17 15:04:51,356 | INFO | LT.NS -> 370 candles | last close ₹3540.90
+2026-03-17 15:04:51,360 | INFO | LT.NS -> signal=HOLD | price=₹3540.9 | ema_fast=3528.67 | ema_slow=3515.60 | rsi=73.6
+2026-03-17 15:04:51,976 | INFO | ITC.NS -> 370 candles | last close ₹305.40
+2026-03-17 15:04:51,979 | INFO | ITC.NS -> signal=HOLD | price=₹305.4 | ema_fast=305.91 | ema_slow=306.03 | rsi=39.3
+2026-03-17 15:09:53,317 | INFO | NIFTY trend: NEUTRAL | price=23596 | ema20=23573
+2026-03-17 15:09:53,317 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 15:09:53,444 | INFO | HDFCBANK.NS -> 371 candles | last close ₹847.00
+2026-03-17 15:09:53,448 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹847.0 | ema_fast=845.26 | ema_slow=844.43 | rsi=64.3
+2026-03-17 15:09:53,566 | INFO | ICICIBANK.NS -> 371 candles | last close ₹1289.60
+2026-03-17 15:09:53,569 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1289.6 | ema_fast=1289.83 | ema_slow=1288.25 | rsi=55.5
+2026-03-17 15:09:54,134 | INFO | SBIN.NS -> 371 candles | last close ₹1064.40
+2026-03-17 15:09:54,137 | INFO | SBIN.NS -> signal=HOLD | price=₹1064.4 | ema_fast=1064.15 | ema_slow=1061.63 | rsi=58.5
+2026-03-17 15:09:55,127 | INFO | AXISBANK.NS -> 371 candles | last close ₹1226.80
+2026-03-17 15:09:55,131 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1226.8 | ema_fast=1226.32 | ema_slow=1225.89 | rsi=53.0
+2026-03-17 15:09:55,391 | INFO | KOTAKBANK.NS -> 371 candles | last close ₹374.15
+2026-03-17 15:09:55,395 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹374.15 | ema_fast=374.00 | ema_slow=373.34 | rsi=61.3
+2026-03-17 15:09:56,105 | INFO | INDUSINDBK.NS -> 371 candles | last close ₹820.70
+2026-03-17 15:09:56,109 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹820.7 | ema_fast=819.41 | ema_slow=817.53 | rsi=63.5
+2026-03-17 15:09:56,247 | INFO | BAJFINANCE.NS -> 371 candles | last close ₹868.95
+2026-03-17 15:09:56,250 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹868.95 | ema_fast=869.27 | ema_slow=867.90 | rsi=55.6
+2026-03-17 15:09:56,371 | INFO | TCS.NS -> 371 candles | last close ₹2391.30
+2026-03-17 15:09:56,374 | INFO | TCS.NS -> signal=HOLD | price=₹2391.3 | ema_fast=2396.81 | ema_slow=2396.66 | rsi=42.4
+2026-03-17 15:09:56,611 | INFO | INFY.NS -> 371 candles | last close ₹1234.40
+2026-03-17 15:09:56,616 | INFO | INFY.NS -> signal=HOLD | price=₹1234.4 | ema_fast=1233.49 | ema_slow=1233.27 | rsi=53.5
+2026-03-17 15:09:56,747 | INFO | TECHM.NS -> 371 candles | last close ₹1344.10
+2026-03-17 15:09:56,750 | INFO | TECHM.NS -> signal=HOLD | price=₹1344.1 | ema_fast=1347.10 | ema_slow=1348.32 | rsi=39.2
+2026-03-17 15:09:56,872 | INFO | RELIANCE.NS -> 371 candles | last close ₹1398.90
+2026-03-17 15:09:56,876 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1398.9 | ema_fast=1400.47 | ema_slow=1400.08 | rsi=48.3
+2026-03-17 15:09:57,003 | INFO | TATASTEEL.NS -> 371 candles | last close ₹195.72
+2026-03-17 15:09:57,006 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹195.72 | ema_fast=195.26 | ema_slow=194.28 | rsi=73.2
+2026-03-17 15:09:57,147 | INFO | VEDL.NS -> 371 candles | last close ₹699.40
+2026-03-17 15:09:57,150 | INFO | VEDL.NS -> signal=HOLD | price=₹699.4 | ema_fast=696.88 | ema_slow=695.19 | rsi=71.7
+2026-03-17 15:09:57,279 | INFO | LT.NS -> 371 candles | last close ₹3549.80
+2026-03-17 15:09:57,282 | INFO | LT.NS -> signal=HOLD | price=₹3549.8 | ema_fast=3533.75 | ema_slow=3519.15 | rsi=79.8
+2026-03-17 15:09:57,415 | INFO | ITC.NS -> 371 candles | last close ₹304.90
+2026-03-17 15:09:57,418 | INFO | ITC.NS -> signal=HOLD | price=₹304.9 | ema_fast=305.73 | ema_slow=305.94 | rsi=33.8
+2026-03-17 15:14:58,726 | INFO | NIFTY trend: BULL | price=23609 | ema20=23576
+2026-03-17 15:14:58,726 | INFO | NIFTY trend: BULL
+2026-03-17 15:14:58,846 | INFO | HDFCBANK.NS -> 372 candles | last close ₹847.05
+2026-03-17 15:14:58,849 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹847.05 | ema_fast=845.56 | ema_slow=844.64 | rsi=64.5
+2026-03-17 15:14:58,974 | INFO | ICICIBANK.NS -> 372 candles | last close ₹1292.30
+2026-03-17 15:14:58,977 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1292.3 | ema_fast=1290.31 | ema_slow=1288.61 | rsi=60.9
+2026-03-17 15:14:59,123 | INFO | SBIN.NS -> 372 candles | last close ₹1064.10
+2026-03-17 15:14:59,126 | INFO | SBIN.NS -> signal=HOLD | price=₹1064.1 | ema_fast=1064.14 | ema_slow=1061.85 | rsi=57.7
+2026-03-17 15:14:59,267 | INFO | AXISBANK.NS -> 372 candles | last close ₹1231.50
+2026-03-17 15:14:59,270 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1231.5 | ema_fast=1227.29 | ema_slow=1226.37 | rsi=61.7
+2026-03-17 15:14:59,398 | INFO | KOTAKBANK.NS -> 372 candles | last close ₹374.30
+2026-03-17 15:14:59,401 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹374.3 | ema_fast=374.06 | ema_slow=373.42 | rsi=62.3
+2026-03-17 15:14:59,556 | INFO | INDUSINDBK.NS -> 372 candles | last close ₹822.15
+2026-03-17 15:14:59,560 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹822.15 | ema_fast=819.96 | ema_slow=817.96 | rsi=67.1
+2026-03-17 15:14:59,765 | INFO | BAJFINANCE.NS -> 372 candles | last close ₹868.05
+2026-03-17 15:14:59,769 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹868.05 | ema_fast=869.03 | ema_slow=867.92 | rsi=51.9
+2026-03-17 15:14:59,892 | INFO | TCS.NS -> 372 candles | last close ₹2391.10
+2026-03-17 15:14:59,895 | INFO | TCS.NS -> signal=SELL | price=₹2391.1 | ema_fast=2395.62 | ema_slow=2396.13 | rsi=42.2
+2026-03-17 15:14:59,895 | INFO | TCS.NS -> SELL signal but no open position
+2026-03-17 15:15:00,047 | INFO | INFY.NS -> 372 candles | last close ₹1237.10
+2026-03-17 15:15:00,051 | INFO | INFY.NS -> signal=HOLD | price=₹1237.1 | ema_fast=1234.18 | ema_slow=1233.61 | rsi=60.2
+2026-03-17 15:15:00,188 | INFO | TECHM.NS -> 372 candles | last close ₹1344.00
+2026-03-17 15:15:00,191 | INFO | TECHM.NS -> signal=HOLD | price=₹1344.0 | ema_fast=1346.52 | ema_slow=1347.94 | rsi=39.1
+2026-03-17 15:15:00,309 | INFO | RELIANCE.NS -> 372 candles | last close ₹1401.00
+2026-03-17 15:15:00,312 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1401.0 | ema_fast=1400.53 | ema_slow=1400.13 | rsi=52.6
+2026-03-17 15:15:00,428 | INFO | TATASTEEL.NS -> 372 candles | last close ₹195.21
+2026-03-17 15:15:00,430 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹195.21 | ema_fast=195.24 | ema_slow=194.35 | rsi=64.8
+2026-03-17 15:15:00,583 | INFO | VEDL.NS -> 372 candles | last close ₹701.40
+2026-03-17 15:15:00,587 | INFO | VEDL.NS -> signal=HOLD | price=₹701.4 | ema_fast=697.78 | ema_slow=695.75 | rsi=76.0
+2026-03-17 15:15:00,725 | INFO | LT.NS -> 372 candles | last close ₹3547.00
+2026-03-17 15:15:00,728 | INFO | LT.NS -> signal=HOLD | price=₹3547.0 | ema_fast=3536.38 | ema_slow=3521.67 | rsi=76.3
+2026-03-17 15:15:00,854 | INFO | ITC.NS -> 372 candles | last close ₹304.95
+2026-03-17 15:15:00,857 | INFO | ITC.NS -> signal=HOLD | price=₹304.95 | ema_fast=305.58 | ema_slow=305.85 | rsi=34.8
+2026-03-17 15:20:01,156 | INFO | NIFTY trend: NEUTRAL | price=23562 | ema20=23575
+2026-03-17 15:20:01,157 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 15:20:01,419 | INFO | HDFCBANK.NS -> 373 candles | last close ₹845.30
+2026-03-17 15:20:01,422 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹845.3 | ema_fast=845.50 | ema_slow=844.70 | rsi=54.6
+2026-03-17 15:20:01,560 | INFO | ICICIBANK.NS -> 374 candles | last close ₹1287.60
+2026-03-17 15:20:01,564 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1287.6 | ema_fast=1289.27 | ema_slow=1288.40 | rsi=49.7
+2026-03-17 15:20:01,758 | INFO | SBIN.NS -> 374 candles | last close ₹1061.10
+2026-03-17 15:20:01,762 | INFO | SBIN.NS -> signal=HOLD | price=₹1061.1 | ema_fast=1063.08 | ema_slow=1061.74 | rsi=50.3
+2026-03-17 15:20:02,037 | INFO | AXISBANK.NS -> 374 candles | last close ₹1228.50
+2026-03-17 15:20:02,042 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1228.5 | ema_fast=1227.74 | ema_slow=1226.74 | rsi=54.7
+2026-03-17 15:20:02,225 | INFO | KOTAKBANK.NS -> 374 candles | last close ₹373.95
+2026-03-17 15:20:02,229 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹373.95 | ema_fast=374.03 | ema_slow=373.52 | rsi=57.8
+2026-03-17 15:20:02,407 | INFO | INDUSINDBK.NS -> 373 candles | last close ₹820.60
+2026-03-17 15:20:02,411 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹820.6 | ema_fast=820.09 | ema_slow=818.20 | rsi=60.4
+2026-03-17 15:20:02,549 | INFO | BAJFINANCE.NS -> 374 candles | last close ₹868.15
+2026-03-17 15:20:02,552 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹868.15 | ema_fast=868.74 | ema_slow=867.97 | rsi=52.1
+2026-03-17 15:20:02,721 | INFO | TCS.NS -> 374 candles | last close ₹2391.00
+2026-03-17 15:20:02,724 | INFO | TCS.NS -> signal=HOLD | price=₹2391.0 | ema_fast=2394.00 | ema_slow=2395.27 | rsi=42.1
+2026-03-17 15:20:02,886 | INFO | INFY.NS -> 374 candles | last close ₹1232.80
+2026-03-17 15:20:02,889 | INFO | INFY.NS -> signal=HOLD | price=₹1232.8 | ema_fast=1233.70 | ema_slow=1233.47 | rsi=48.3
+2026-03-17 15:20:03,154 | INFO | TECHM.NS -> 374 candles | last close ₹1340.90
+2026-03-17 15:20:03,158 | INFO | TECHM.NS -> signal=HOLD | price=₹1340.9 | ema_fast=1344.56 | ema_slow=1346.75 | rsi=33.5
+2026-03-17 15:20:03,297 | INFO | RELIANCE.NS -> 374 candles | last close ₹1395.40
+2026-03-17 15:20:03,301 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1395.4 | ema_fast=1398.69 | ema_slow=1399.32 | rsi=42.6
+2026-03-17 15:20:03,476 | INFO | TATASTEEL.NS -> 374 candles | last close ₹195.15
+2026-03-17 15:20:03,480 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹195.15 | ema_fast=195.21 | ema_slow=194.50 | rsi=63.8
+2026-03-17 15:20:03,660 | INFO | VEDL.NS -> 373 candles | last close ₹700.55
+2026-03-17 15:20:03,664 | INFO | VEDL.NS -> signal=HOLD | price=₹700.55 | ema_fast=698.34 | ema_slow=696.19 | rsi=71.0
+2026-03-17 15:20:03,927 | INFO | LT.NS -> 374 candles | last close ₹3539.60
+2026-03-17 15:20:03,931 | INFO | LT.NS -> signal=HOLD | price=₹3539.6 | ema_fast=3537.43 | ema_slow=3524.72 | rsi=67.3
+2026-03-17 15:20:04,101 | INFO | ITC.NS -> 373 candles | last close ₹304.60
+2026-03-17 15:20:04,105 | INFO | ITC.NS -> signal=HOLD | price=₹304.6 | ema_fast=305.38 | ema_slow=305.73 | rsi=31.3
+2026-03-17 15:25:04,495 | INFO | NIFTY trend: NEUTRAL | price=23559 | ema20=23572
+2026-03-17 15:25:04,495 | INFO | NIFTY trend: NEUTRAL
+2026-03-17 15:25:04,612 | INFO | HDFCBANK.NS -> 375 candles | last close ₹843.35
+2026-03-17 15:25:04,615 | INFO | HDFCBANK.NS -> signal=HOLD | price=₹843.35 | ema_fast=844.73 | ema_slow=844.46 | rsi=46.0
+2026-03-17 15:25:04,726 | INFO | ICICIBANK.NS -> 375 candles | last close ₹1287.90
+2026-03-17 15:25:04,729 | INFO | ICICIBANK.NS -> signal=HOLD | price=₹1287.9 | ema_fast=1289.06 | ema_slow=1288.39 | rsi=50.3
+2026-03-17 15:25:04,850 | INFO | SBIN.NS -> 375 candles | last close ₹1063.40
+2026-03-17 15:25:04,854 | INFO | SBIN.NS -> signal=HOLD | price=₹1063.4 | ema_fast=1063.49 | ema_slow=1062.07 | rsi=55.1
+2026-03-17 15:25:04,972 | INFO | AXISBANK.NS -> 375 candles | last close ₹1228.40
+2026-03-17 15:25:04,975 | INFO | AXISBANK.NS -> signal=HOLD | price=₹1228.4 | ema_fast=1227.86 | ema_slow=1226.89 | rsi=54.5
+2026-03-17 15:25:05,088 | INFO | KOTAKBANK.NS -> 375 candles | last close ₹374.30
+2026-03-17 15:25:05,091 | INFO | KOTAKBANK.NS -> signal=HOLD | price=₹374.3 | ema_fast=374.13 | ema_slow=373.61 | rsi=61.1
+2026-03-17 15:25:05,232 | INFO | INDUSINDBK.NS -> 374 candles | last close ₹820.50
+2026-03-17 15:25:05,236 | INFO | INDUSINDBK.NS -> signal=HOLD | price=₹820.5 | ema_fast=820.17 | ema_slow=818.41 | rsi=60.0
+2026-03-17 15:25:05,396 | INFO | BAJFINANCE.NS -> 375 candles | last close ₹868.35
+2026-03-17 15:25:05,400 | INFO | BAJFINANCE.NS -> signal=HOLD | price=₹868.35 | ema_fast=868.72 | ema_slow=868.04 | rsi=52.9
+2026-03-17 15:25:05,544 | INFO | TCS.NS -> 375 candles | last close ₹2389.10
+2026-03-17 15:25:05,548 | INFO | TCS.NS -> signal=HOLD | price=₹2389.1 | ema_fast=2392.89 | ema_slow=2394.64 | rsi=39.3
+2026-03-17 15:25:05,680 | INFO | INFY.NS -> 375 candles | last close ₹1231.00
+2026-03-17 15:25:05,683 | INFO | INFY.NS -> signal=SELL | price=₹1231.0 | ema_fast=1232.86 | ema_slow=1233.09 | rsi=44.5
+2026-03-17 15:25:05,683 | INFO | INFY.NS -> SELL signal but no open position
+2026-03-17 15:25:05,898 | INFO | TECHM.NS -> 375 candles | last close ₹1340.40
+2026-03-17 15:25:05,902 | INFO | TECHM.NS -> signal=HOLD | price=₹1340.4 | ema_fast=1343.69 | ema_slow=1346.16 | rsi=32.6
+2026-03-17 15:25:06,078 | INFO | RELIANCE.NS -> 375 candles | last close ₹1394.10
+2026-03-17 15:25:06,082 | INFO | RELIANCE.NS -> signal=HOLD | price=₹1394.1 | ema_fast=1397.55 | ema_slow=1398.73 | rsi=40.7
+2026-03-17 15:25:06,232 | INFO | TATASTEEL.NS -> 375 candles | last close ₹195.19
+2026-03-17 15:25:06,236 | INFO | TATASTEEL.NS -> signal=HOLD | price=₹195.19 | ema_fast=195.21 | ema_slow=194.56 | rsi=64.4
+2026-03-17 15:25:06,410 | INFO | VEDL.NS -> 374 candles | last close ₹699.45
+2026-03-17 15:25:06,414 | INFO | VEDL.NS -> signal=HOLD | price=₹699.45 | ema_fast=698.56 | ema_slow=696.48 | rsi=65.1
+2026-03-17 15:25:06,626 | INFO | LT.NS -> 375 candles | last close ₹3544.80
+2026-03-17 15:25:06,629 | INFO | LT.NS -> signal=HOLD | price=₹3544.8 | ema_fast=3539.73 | ema_slow=3526.98 | rsi=69.9
+2026-03-17 15:25:06,756 | INFO | ITC.NS -> 374 candles | last close ₹304.55
+2026-03-17 15:25:06,761 | INFO | ITC.NS -> signal=HOLD | price=₹304.55 | ema_fast=305.22 | ema_slow=305.63 | rsi=30.9
+2026-03-17 15:30:06,761 | INFO | Market closed. Squaring off 1 open position(s)...
+2026-03-17 15:30:06,763 | INFO | SELL AXISBANK.NS @ ₹1228.40 | qty=8 | entry=₹1229.50 | PnL=₹-8.80 [LOSS ✗] [EOD-SQUAREOFF] | Total=₹-8.80
+2026-03-17 15:30:06,763 | INFO | =================================================================
+2026-03-17 15:30:06,764 | INFO |            END OF DAY SUMMARY — TRADING REPORT
+2026-03-17 15:30:06,764 | INFO | =================================================================
+2026-03-17 15:30:06,764 | INFO |   #    Symbol          Side     Entry     Exit   Qty        PnL
+2026-03-17 15:30:06,764 | INFO |   ------------------------------------------------------------
+2026-03-17 15:30:06,764 | INFO |   1    AXISBANK.NS     SELL   1229.50  1228.40     8      -8.80  ✗
+2026-03-17 15:30:06,764 | INFO |   ------------------------------------------------------------
+2026-03-17 15:30:06,764 | INFO |   Total Trades   : 1
+2026-03-17 15:30:06,764 | INFO |   Winning Trades : 0
+2026-03-17 15:30:06,764 | INFO |   Losing Trades  : 1
+2026-03-17 15:30:06,764 | INFO |   Win Rate       : 0.0%
+2026-03-17 15:30:06,764 | INFO |   Gross Profit   : ₹+0.00
+2026-03-17 15:30:06,764 | INFO |   Gross Loss     : ₹-8.80
+2026-03-17 15:30:06,764 | INFO |   Net PnL        : ₹-8.80
+2026-03-17 15:30:06,764 | INFO |   Capital Start  : ₹100,000.00
+2026-03-17 15:30:06,764 | INFO |   Capital End    : ₹99,991.20
+2026-03-17 15:30:06,764 | INFO | =================================================================
+2026-03-17 15:30:06,765 | INFO | Engine reset for new trading day.
