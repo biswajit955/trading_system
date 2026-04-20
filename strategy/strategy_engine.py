@@ -1,58 +1,90 @@
-import pandas as pd
+import config
+from logger import logger
+
+# ── Tunable constants ─────────────────────────────────────────────
+CONFIRM_CANDLES     = 1    # EMA must hold cross for N candles before entry
+VOLUME_SPIKE_FACTOR = 1.5  # Entry candle volume must be 1.5x average
+RSI_FRESH_LOOKBACK  = 6    # RSI must have crossed BUY_MIN within last N candles
+ADX_MIN             = 20   # Minimum ADX — skip trades on choppy/sideways days
 
 
-def apply_indicators(df: pd.DataFrame) -> pd.DataFrame:
+def _ema_held_up(df, n: int) -> bool:
+    for i in range(1, n + 1):
+        if df.iloc[-i]["ema_fast"] <= df.iloc[-i]["ema_slow"]:
+            return False
+    return True
+
+
+def _ema_held_down(df, n: int) -> bool:
+    for i in range(1, n + 1):
+        if df.iloc[-i]["ema_fast"] >= df.iloc[-i]["ema_slow"]:
+            return False
+    return True
+
+
+def _rsi_just_crossed_up(df, threshold: float, lookback: int) -> bool:
     """
-    Adds all technical indicators needed by strategy_engine:
-      ema_fast : EMA-9
-      ema_slow : EMA-21
-      rsi      : RSI-14
-      vol_ma   : rolling 20-period volume average
-      adx      : ADX-14  (trend strength — used to skip choppy days)
+    True if RSI crossed ABOVE threshold within last `lookback` candles.
+    lookback=6 (30 min) catches continuation moves on recovery days.
     """
-    df = df.copy()
+    if df.iloc[-1]["rsi"] <= threshold:
+        return False
+    for i in range(2, lookback + 2):
+        if len(df) < i + 1:
+            break
+        if df.iloc[-i]["rsi"] <= threshold:
+            return True
+    return False
 
-    # ── EMA 9 / 21 ────────────────────────────────────────────────
-    df["ema_fast"] = df["Close"].ewm(span=9,  adjust=False).mean()
-    df["ema_slow"] = df["Close"].ewm(span=21, adjust=False).mean()
 
-    # ── RSI 14 ────────────────────────────────────────────────────
-    delta = df["Close"].diff()
-    gain  = delta.clip(lower=0)
-    loss  = (-delta).clip(lower=0)
-    avg_gain = gain.ewm(span=14, adjust=False).mean()
-    avg_loss = loss.ewm(span=14, adjust=False).mean()
-    rs        = avg_gain / avg_loss.replace(0, float("nan"))
-    df["rsi"] = 100 - (100 / (1 + rs))
-    df["rsi"] = df["rsi"].fillna(50)
+def _volume_spike(df, factor: float) -> bool:
+    last = df.iloc[-1]
+    return last["Volume"] > (last["vol_ma"] * factor)
 
-    # ── Volume MA 20 ──────────────────────────────────────────────
-    df["vol_ma"] = df["Volume"].rolling(window=20, min_periods=1).mean()
 
-    # ── ADX 14 ───────────────────────────────────────────────────
-    # ADX measures trend STRENGTH (not direction).
-    # ADX > 20  = trending market   → allow trades
-    # ADX < 20  = choppy/sideways   → skip trades (reduces false signals)
-    high  = df["High"]
-    low   = df["Low"]
-    close = df["Close"]
+def generate_signal(df, nifty_open: float = None) -> str:
+    """
+    BUY  : EMA cross up + RSI fresh + not overbought + volume 1.5x + ADX>20
+    SELL : EMA cross down + RSI < SELL_MAX
+    Returns: 'BUY' | 'SELL' | 'HOLD'
+    """
+    if len(df) < CONFIRM_CANDLES + RSI_FRESH_LOOKBACK + 2:
+        return "HOLD"
 
-    tr = pd.concat([
-        high - low,
-        (high - close.shift(1)).abs(),
-        (low  - close.shift(1)).abs(),
-    ], axis=1).max(axis=1)
+    last = df.iloc[-1]
+    prev = df.iloc[-2]
 
-    plus_dm  = high.diff()
-    minus_dm = low.diff().mul(-1)
-    plus_dm  = plus_dm.where((plus_dm > minus_dm) & (plus_dm > 0), 0.0)
-    minus_dm = minus_dm.where((minus_dm > plus_dm) & (minus_dm > 0), 0.0)
+    crossed_up   = (prev["ema_fast"] <= prev["ema_slow"]
+                    and last["ema_fast"] >  last["ema_slow"])
+    crossed_down = (prev["ema_fast"] >= prev["ema_slow"]
+                    and last["ema_fast"] <  last["ema_slow"])
 
-    atr       = tr.ewm(span=14, adjust=False).mean()
-    plus_di   = 100 * plus_dm.ewm(span=14, adjust=False).mean() / atr
-    minus_di  = 100 * minus_dm.ewm(span=14, adjust=False).mean() / atr
-    dx_denom  = (plus_di + minus_di).replace(0, float("nan"))
-    dx        = 100 * (plus_di - minus_di).abs() / dx_denom
-    df["adx"] = dx.ewm(span=14, adjust=False).mean().fillna(0)
+    ema_up_ok   = crossed_up   and _ema_held_up(df,   CONFIRM_CANDLES)
+    ema_down_ok = crossed_down and _ema_held_down(df, CONFIRM_CANDLES)
 
-    return df
+    rsi_fresh  = _rsi_just_crossed_up(df, config.RSI_BUY_MIN, RSI_FRESH_LOOKBACK)
+    rsi_not_ob = last["rsi"] < config.RSI_BUY_MAX
+    vol_spike  = _volume_spike(df, VOLUME_SPIKE_FACTOR)
+    adx_ok     = last.get("adx", 0) > ADX_MIN
+    rsi_sell_ok = last["rsi"] < config.RSI_SELL_MAX
+
+    buy_signal  = ema_up_ok and rsi_fresh and rsi_not_ob and vol_spike and adx_ok
+    sell_signal = ema_down_ok and rsi_sell_ok
+
+    if crossed_up and not buy_signal:
+        reasons = []
+        if not _ema_held_up(df, CONFIRM_CANDLES):
+            reasons.append("EMA not confirmed")
+        if not rsi_fresh:
+            reasons.append(f"RSI={last['rsi']:.1f} stale (no fresh cross of {config.RSI_BUY_MIN} in {RSI_FRESH_LOOKBACK} candles)")
+        if not rsi_not_ob:
+            reasons.append(f"RSI={last['rsi']:.1f} overbought (cap={config.RSI_BUY_MAX})")
+        if not vol_spike:
+            reasons.append(f"Vol={last['Volume']:.0f} < {VOLUME_SPIKE_FACTOR}x vol_ma={last['vol_ma']*VOLUME_SPIKE_FACTOR:.0f}")
+        if not adx_ok:
+            reasons.append(f"ADX={last.get('adx',0):.1f} too weak (need >{ADX_MIN}) — choppy market")
+        logger.debug(f"EMA crossed UP — BUY blocked: {' | '.join(reasons)}")
+
+    if buy_signal:  return "BUY"
+    if sell_signal: return "SELL"
+    return "HOLD"

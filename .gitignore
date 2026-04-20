@@ -1,4 +1,66 @@
-venv/
-# Python temp files
+# ═══════════════════════════════════════════════════════════════
+# NSE Algo Trading Bot — .gitignore
+# ═══════════════════════════════════════════════════════════════
+
+# ── Python ───────────────────────────────────────────────────────
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual environment ───────────────────────────────────────────
+venv/
+env/
+.env/
+.venv/
+
+# ── Trading data — DO NOT commit ─────────────────────────────────
+logs/                    # daily trading logs (trading_YYYY-MM-DD.log)
+tradebook.csv            # all executed trades with PnL
+*.log                    # any stray log files
+
+# ── yfinance cache ────────────────────────────────────────────────
+*.db                     # peewee/sqlite cache files
+*.sqlite
+*.sqlite3
+
+# ── Secrets & credentials ─────────────────────────────────────────
+.env
+*.env
+secrets.py
+credentials.py
+api_keys.py
+broker_config.py         # live broker API keys if added later
+
+# ── IDE & OS ──────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Jupyter (if used for analysis) ───────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Test outputs ──────────────────────────────────────────────────
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# ── Backtest results (large files) ───────────────────────────────
+backtest_results/
+*.parquet
+*.feather
+
+# -- logs ------------
+*.log
+*.logs
