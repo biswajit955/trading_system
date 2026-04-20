@@ -2,10 +2,10 @@ import config
 from logger import logger
 from storage.tradebook import log_trade
 
-STOP_LOSS_PCT   = 0.01   # 1% hard stop loss
+STOP_LOSS_PCT   = 0.01   # 0.5% hard stop
 TAKE_PROFIT_PCT = 0.015   # 1.5% take profit
-TRAIL_ACTIVATE  = 0.007   # trailing stop kicks in after +0.7% gain
-TRAIL_DISTANCE  = 0.004   # trail 0.4% below highest price seen
+TRAIL_ACTIVATE  = 0.007   # trailing kicks in after +0.7% gain
+TRAIL_DISTANCE  = 0.004   # trail 0.4% below highest seen
 
 
 class PaperBroker:
@@ -24,16 +24,17 @@ class PaperBroker:
             )
             return
 
-        stop   = round(price * (1 - STOP_LOSS_PCT), 2)
-        target = round(price * (1 + TAKE_PROFIT_PCT), 2)
+        stop   = round(price * (1 - STOP_LOSS_PCT),   2)
+        target = round(price * (1 + TAKE_PROFIT_PCT),  2)
 
         self.positions[symbol] = {
             "entry":    price,
             "qty":      qty,
             "stop":     stop,
             "target":   target,
-            "highest":  price,         # for trailing stop tracking
-            "trailing": False,         # trailing stop active flag
+            "highest":  price,
+            "trailing": False,
+            "eod_best": price,   # tracks best price seen in EOD window
         }
         log_trade(symbol, "BUY", price, qty)
         logger.info(
@@ -48,7 +49,7 @@ class PaperBroker:
             return
 
         trade_pnl = (price - pos["entry"]) * pos["qty"]
-        self.pnl += trade_pnl
+        self.pnl  += trade_pnl
 
         self.trade_history.append({
             "symbol": symbol,
@@ -71,23 +72,17 @@ class PaperBroker:
         del self.positions[symbol]
 
     def check_stops(self, symbol: str, price: float):
-        """
-        Called every cycle. Manages:
-        1. Hard stop-loss
-        2. Take-profit
-        3. Trailing stop (activates after TRAIL_ACTIVATE gain, trails by TRAIL_DISTANCE)
-        """
         pos = self.positions.get(symbol)
         if pos is None:
             return
 
-        # Update highest price seen
+        # Update highest price for trailing
         if price > pos["highest"]:
             pos["highest"] = price
 
         gain_pct = (pos["highest"] - pos["entry"]) / pos["entry"]
 
-        # Activate trailing stop once gain exceeds threshold
+        # Activate trailing stop
         if gain_pct >= TRAIL_ACTIVATE and not pos["trailing"]:
             pos["trailing"] = True
             logger.info(
@@ -95,13 +90,13 @@ class PaperBroker:
                 f"gain={gain_pct*100:.2f}% | highest=₹{pos['highest']}"
             )
 
-        # Trailing stop check
+        # Trailing stop exit
         if pos["trailing"]:
             trail_stop = round(pos["highest"] * (1 - TRAIL_DISTANCE), 2)
             if price <= trail_stop:
                 logger.info(
                     f"TRAILING STOP hit: {symbol} @ ₹{price} "
-                    f"(trail_stop=₹{trail_stop}, highest=₹{pos['highest']})"
+                    f"(trail=₹{trail_stop}, peak=₹{pos['highest']})"
                 )
                 self.sell(symbol, price, reason="TRAIL-STOP")
                 return
@@ -122,7 +117,7 @@ class PaperBroker:
             self.sell(symbol, price, reason="TAKE-PROFIT")
 
     def square_off_all(self, prices: dict):
-        """Force close all open positions at market close."""
+        """Force-close everything at 15:30 — last resort."""
         for symbol in list(self.positions.keys()):
             price = prices.get(symbol, self.positions[symbol]["entry"])
             self.sell(symbol, price, reason="EOD-SQUAREOFF")
