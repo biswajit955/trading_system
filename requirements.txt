@@ -14,3 +14,5 @@ curl-cffi>=0.7.0         # HTTP engine used by yfinance internally
 requests>=2.31.0         # fallback HTTP client
 multitasking>=0.0.11     # parallel data fetching
 peewee>=3.17.0           # yfinance local cache
+
+ta==0.11.0              # Technical Analysis indicators (e.g., RSI, MACD)
