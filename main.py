@@ -96,6 +96,17 @@ eod_done = False
 logger.info("Bot started. Waiting for market open (9:15 AM IST)...")
 
 while True:
+
+    # ── STEP 1: rotate log file if date changed ───────────────────
+    # This runs every single loop iteration (every 60s pre-market).
+    # At midnight the date changes → new file created automatically.
+    # Apr 22 example:
+    #   Apr 21 23:59 → date=Apr21 → no rotation
+    #   Apr 22 00:00 → date=Apr22 → creates trading_2026-04-22.log ✓
+    #   Apr 22 07:40 → pre-market logs → go into trading_2026-04-22.log ✓
+    #   Apr 22 09:15 → market open logs → go into trading_2026-04-22.log ✓
+    rotate_daily()
+
     now = get_ist_time()
 
     if is_market_open():
@@ -133,17 +144,8 @@ while True:
             # Reset engine for next day
             engine.reset_for_new_day()
 
-            # ── Rotate log file to next trading day ───────────────
-            # Creates logs/trading_YYYY-MM-DD.log for TOMORROW
-            # so the file exists before 9:15 AM the next day.
-            rotate_daily()
-
-        # Sleep strategy: longer sleeps pre-market, shorter near open
+        # Sleep: longer when far from open, shorter when close
         if now.hour < 8:
-            logger.info("Pre-market. Sleeping 10 min...")
-            time.sleep(600)
-        elif now.hour == 8 or (now.hour == 9 and now.minute < 10):
-            # Within 1 hour of open — wake up every minute
-            time.sleep(60)
+            time.sleep(600)   # 10 min — far from open
         else:
-            time.sleep(60)
+            time.sleep(60)    # 1 min — near open or post-market
