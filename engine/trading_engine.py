@@ -189,22 +189,28 @@ class TradingEngine:
                             )
                         continue
 
-                logger.info(
-                    f"{symbol} -> signal={signal} | price=₹{price} | "
-                    f"ema_fast={df['ema_fast'].iloc[-1]:.2f} | "
-                    f"ema_slow={df['ema_slow'].iloc[-1]:.2f} | "
-                    f"rsi={df['rsi'].iloc[-1]:.1f}"
-                )
-
                 # ── SELL signal ───────────────────────────────────
+                # Only process SELL if we have an open position
                 if signal == "SELL":
                     if symbol in self.broker.positions:
+                        logger.info(
+                            f"{symbol} -> signal={signal} | price=₹{price} | "
+                            f"ema_fast={df['ema_fast'].iloc[-1]:.2f} | "
+                            f"ema_slow={df['ema_slow'].iloc[-1]:.2f} | "
+                            f"rsi={df['rsi'].iloc[-1]:.1f}"
+                        )
                         self.broker.sell(symbol, price, reason="SIGNAL")
-                    else:
-                        logger.info(f"{symbol} -> SELL signal but no open position")
+                    # Skip logging if no position (not wasting logs for non-owned stocks)
+                    continue
 
                 # ── BUY signal ────────────────────────────────────
                 elif signal == "BUY":
+                    logger.info(
+                        f"{symbol} -> signal={signal} | price=₹{price} | "
+                        f"ema_fast={df['ema_fast'].iloc[-1]:.2f} | "
+                        f"ema_slow={df['ema_slow'].iloc[-1]:.2f} | "
+                        f"rsi={df['rsi'].iloc[-1]:.1f}"
+                    )
                     if not self._allow_new_buys:
                         # Should not reach here but safety guard
                         logger.info(f"{symbol} -> BUY blocked (after 3PM)")
@@ -232,6 +238,15 @@ class TradingEngine:
                         logger.info(
                             f"{symbol} -> BUY signal but already in position"
                         )
+
+                # ── HOLD signal ──────────────────────────────────
+                else:
+                    logger.info(
+                        f"{symbol} -> signal={signal} | price=₹{price} | "
+                        f"ema_fast={df['ema_fast'].iloc[-1]:.2f} | "
+                        f"ema_slow={df['ema_slow'].iloc[-1]:.2f} | "
+                        f"rsi={df['rsi'].iloc[-1]:.1f}"
+                    )
 
             except Exception as e:
                 logger.error(f"{symbol} error: {e}", exc_info=True)
