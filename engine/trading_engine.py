@@ -7,7 +7,8 @@ from broker.paper_broker import PaperBroker
 from risk.risk_manager import RiskManager
 from logger import logger
 
-COOLDOWN_CYCLES = 6   # 30 min cooldown after a loss exit
+COOLDOWN_CYCLES    = 2    # 10 min cooldown after a loss exit (was 6 = 30 min)
+MAX_OPEN_POSITIONS = 4    # max simultaneous positions to focus capital
 
 
 class TradingEngine:
@@ -19,7 +20,10 @@ class TradingEngine:
         self.last_prices     = {}
         self.cooldown        = {}
         self._cycle_count    = 0
-        self._nifty_open     = None   # NIFTY price at 9:15 AM, set on first cycle
+
+        # Opening Range Breakout tracking (per symbol)
+        self._opening_ranges = {}     # {symbol: {"high": float, "low": float, "candles": int}}
+        self._orb_locked     = set()  # symbols whose opening range is finalized
 
         # Session flags set by main.py each cycle
         self._allow_new_buys = True
@@ -53,10 +57,44 @@ class TradingEngine:
         self.last_prices     = {}
         self.cooldown        = {}
         self._cycle_count    = 0
-        self._nifty_open     = None   # reset for new day
+        self._opening_ranges = {}     # reset ORB data
+        self._orb_locked     = set()
         self._allow_new_buys = True
         self._eod_exit_mode  = False
         logger.info("Engine reset for new trading day.")
+
+    def _update_opening_range(self, symbol: str, high: float, low: float):
+        """
+        Track the first 3 candles (15 min) to build the Opening Range.
+        Once 3 candles are collected, lock the range.
+        """
+        if symbol in self._orb_locked:
+            return  # already finalized
+
+        if symbol not in self._opening_ranges:
+            self._opening_ranges[symbol] = {
+                "high": high,
+                "low": low,
+                "candles": 1,
+            }
+        else:
+            orb = self._opening_ranges[symbol]
+            orb["high"] = max(orb["high"], high)
+            orb["low"]  = min(orb["low"], low)
+            orb["candles"] += 1
+
+            if orb["candles"] >= 3:
+                self._orb_locked.add(symbol)
+                logger.info(
+                    f"ORB locked: {symbol} | "
+                    f"range=[₹{orb['low']:.2f} - ₹{orb['high']:.2f}]"
+                )
+
+    def _get_opening_range(self, symbol: str) -> dict | None:
+        """Return the opening range dict if it's been finalized, else None."""
+        if symbol in self._orb_locked:
+            return self._opening_ranges.get(symbol)
+        return None
 
     def _eod_smart_exit(self, symbol: str, price: float):
         """
@@ -125,21 +163,21 @@ class TradingEngine:
                 self.active = False
                 return
 
+        # Prefetch data for all watchlist tickers and NIFTY in bulk
+        from data.market_data import prefetch_bulk_data
+        tickers_to_fetch = list(WATCHLIST)
+        if "^NSEI" not in tickers_to_fetch:
+            tickers_to_fetch.append("^NSEI")
+        prefetch_bulk_data(
+            symbols=tickers_to_fetch,
+            interval=config.TIMEFRAME,
+            period=config.PERIOD,
+        )
+
         # ── Market trend filter ───────────────────────────────────
         if self._allow_new_buys:
             market_trend = fetch_nifty_trend()
             allow_buy    = market_trend in ("BULL", "NEUTRAL")
-
-            # Capture NIFTY open price on first cycle of the day
-            if self._nifty_open is None:
-                try:
-                    from data.market_data import fetch_data as _fd
-                    _ndf = _fd("^NSEI", interval="5m", period="1d")
-                    if _ndf is not None and len(_ndf) > 0:
-                        self._nifty_open = float(_ndf["Close"].iloc[0])
-                        logger.info(f"NIFTY day open captured: {self._nifty_open:.0f}")
-                except Exception:
-                    pass
         else:
             market_trend = "N/A"
             allow_buy    = False   # 3PM+ — no new buys regardless
@@ -163,10 +201,20 @@ class TradingEngine:
                     continue
 
                 df     = apply_indicators(df)
-                signal = generate_signal(df, nifty_open=self._nifty_open)
                 price  = round(float(df["Close"].iloc[-1]), 2)
+                high   = round(float(df["High"].iloc[-1]), 2)
+                low    = round(float(df["Low"].iloc[-1]), 2)
 
                 self.last_prices[symbol] = price
+
+                # ── Update Opening Range (first 3 candles) ────────
+                self._update_opening_range(symbol, high, low)
+
+                # Get ORB data for signal generation
+                orb_data = self._get_opening_range(symbol)
+
+                # Generate signal with VWAP + ORB
+                signal = generate_signal(df, opening_range=orb_data)
 
                 # ── EOD exit mode: smart sell open positions ───────
                 if self._eod_exit_mode:
@@ -195,24 +243,26 @@ class TradingEngine:
                     if symbol in self.broker.positions:
                         logger.info(
                             f"{symbol} -> signal={signal} | price=₹{price} | "
-                            f"ema_fast={df['ema_fast'].iloc[-1]:.2f} | "
-                            f"ema_slow={df['ema_slow'].iloc[-1]:.2f} | "
-                            f"rsi={df['rsi'].iloc[-1]:.1f}"
+                            f"vwap={df['vwap'].iloc[-1]:.2f} | "
+                            f"rsi={df['rsi'].iloc[-1]:.1f} | "
+                            f"supertrend={'UP' if df['supertrend_dir'].iloc[-1] > 0 else 'DOWN'}"
                         )
                         self.broker.sell(symbol, price, reason="SIGNAL")
-                    # Skip logging if no position (not wasting logs for non-owned stocks)
+                    else:
+                        logger.info(
+                            f"{symbol} -> SELL signal but no open position"
+                        )
                     continue
 
                 # ── BUY signal ────────────────────────────────────
                 elif signal == "BUY":
                     logger.info(
                         f"{symbol} -> signal={signal} | price=₹{price} | "
-                        f"ema_fast={df['ema_fast'].iloc[-1]:.2f} | "
-                        f"ema_slow={df['ema_slow'].iloc[-1]:.2f} | "
-                        f"rsi={df['rsi'].iloc[-1]:.1f}"
+                        f"vwap={df['vwap'].iloc[-1]:.2f} | "
+                        f"rsi={df['rsi'].iloc[-1]:.1f} | "
+                        f"supertrend={'UP' if df['supertrend_dir'].iloc[-1] > 0 else 'DOWN'}"
                     )
                     if not self._allow_new_buys:
-                        # Should not reach here but safety guard
                         logger.info(f"{symbol} -> BUY blocked (after 3PM)")
                         continue
                     if not allow_buy:
@@ -224,6 +274,13 @@ class TradingEngine:
                         logger.info(
                             f"{symbol} -> BUY blocked, cooldown "
                             f"{self.cooldown[symbol]} cycles left"
+                        )
+                        continue
+                    # Check max open positions cap
+                    if len(self.broker.positions) >= MAX_OPEN_POSITIONS:
+                        logger.info(
+                            f"{symbol} -> BUY blocked — "
+                            f"max {MAX_OPEN_POSITIONS} open positions reached"
                         )
                         continue
                     if symbol not in self.broker.positions:
@@ -243,9 +300,9 @@ class TradingEngine:
                 else:
                     logger.info(
                         f"{symbol} -> signal={signal} | price=₹{price} | "
-                        f"ema_fast={df['ema_fast'].iloc[-1]:.2f} | "
-                        f"ema_slow={df['ema_slow'].iloc[-1]:.2f} | "
-                        f"rsi={df['rsi'].iloc[-1]:.1f}"
+                        f"vwap={df['vwap'].iloc[-1]:.2f} | "
+                        f"rsi={df['rsi'].iloc[-1]:.1f} | "
+                        f"supertrend={'UP' if df['supertrend_dir'].iloc[-1] > 0 else 'DOWN'}"
                     )
 
             except Exception as e:
