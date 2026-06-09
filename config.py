@@ -19,5 +19,3 @@ RSI_BUY_MIN    = 52    # was 55 — catch momentum building
 RSI_BUY_MAX    = 72    # was 70 — allow slightly strong entries
 RSI_SELL_MAX   = 45
 VOLUME_FACTOR  = 1.0   # was 1.5 — normal above-average volume
-
-

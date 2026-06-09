@@ -19,6 +19,7 @@ class TradingEngine:
         self.last_prices     = {}
         self.cooldown        = {}
         self._cycle_count    = 0
+        self._nifty_open     = None   # NIFTY price at 9:15 AM, set on first cycle
 
         # Session flags set by main.py each cycle
         self._allow_new_buys = True
@@ -52,6 +53,7 @@ class TradingEngine:
         self.last_prices     = {}
         self.cooldown        = {}
         self._cycle_count    = 0
+        self._nifty_open     = None   # reset for new day
         self._allow_new_buys = True
         self._eod_exit_mode  = False
         logger.info("Engine reset for new trading day.")
@@ -127,6 +129,17 @@ class TradingEngine:
         if self._allow_new_buys:
             market_trend = fetch_nifty_trend()
             allow_buy    = market_trend in ("BULL", "NEUTRAL")
+
+            # Capture NIFTY open price on first cycle of the day
+            if self._nifty_open is None:
+                try:
+                    from data.market_data import fetch_data as _fd
+                    _ndf = _fd("^NSEI", interval="5m", period="1d")
+                    if _ndf is not None and len(_ndf) > 0:
+                        self._nifty_open = float(_ndf["Close"].iloc[0])
+                        logger.info(f"NIFTY day open captured: {self._nifty_open:.0f}")
+                except Exception:
+                    pass
         else:
             market_trend = "N/A"
             allow_buy    = False   # 3PM+ — no new buys regardless
@@ -150,7 +163,7 @@ class TradingEngine:
                     continue
 
                 df     = apply_indicators(df)
-                signal = generate_signal(df)
+                signal = generate_signal(df, nifty_open=self._nifty_open)
                 price  = round(float(df["Close"].iloc[-1]), 2)
 
                 self.last_prices[symbol] = price
@@ -176,22 +189,28 @@ class TradingEngine:
                             )
                         continue
 
-                logger.info(
-                    f"{symbol} -> signal={signal} | price=₹{price} | "
-                    f"ema_fast={df['ema_fast'].iloc[-1]:.2f} | "
-                    f"ema_slow={df['ema_slow'].iloc[-1]:.2f} | "
-                    f"rsi={df['rsi'].iloc[-1]:.1f}"
-                )
-
                 # ── SELL signal ───────────────────────────────────
+                # Only process SELL if we have an open position
                 if signal == "SELL":
                     if symbol in self.broker.positions:
+                        logger.info(
+                            f"{symbol} -> signal={signal} | price=₹{price} | "
+                            f"ema_fast={df['ema_fast'].iloc[-1]:.2f} | "
+                            f"ema_slow={df['ema_slow'].iloc[-1]:.2f} | "
+                            f"rsi={df['rsi'].iloc[-1]:.1f}"
+                        )
                         self.broker.sell(symbol, price, reason="SIGNAL")
-                    else:
-                        logger.info(f"{symbol} -> SELL signal but no open position")
+                    # Skip logging if no position (not wasting logs for non-owned stocks)
+                    continue
 
                 # ── BUY signal ────────────────────────────────────
                 elif signal == "BUY":
+                    logger.info(
+                        f"{symbol} -> signal={signal} | price=₹{price} | "
+                        f"ema_fast={df['ema_fast'].iloc[-1]:.2f} | "
+                        f"ema_slow={df['ema_slow'].iloc[-1]:.2f} | "
+                        f"rsi={df['rsi'].iloc[-1]:.1f}"
+                    )
                     if not self._allow_new_buys:
                         # Should not reach here but safety guard
                         logger.info(f"{symbol} -> BUY blocked (after 3PM)")
@@ -219,6 +238,15 @@ class TradingEngine:
                         logger.info(
                             f"{symbol} -> BUY signal but already in position"
                         )
+
+                # ── HOLD signal ──────────────────────────────────
+                else:
+                    logger.info(
+                        f"{symbol} -> signal={signal} | price=₹{price} | "
+                        f"ema_fast={df['ema_fast'].iloc[-1]:.2f} | "
+                        f"ema_slow={df['ema_slow'].iloc[-1]:.2f} | "
+                        f"rsi={df['rsi'].iloc[-1]:.1f}"
+                    )
 
             except Exception as e:
                 logger.error(f"{symbol} error: {e}", exc_info=True)

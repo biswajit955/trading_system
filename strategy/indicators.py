@@ -54,5 +54,17 @@ def apply_indicators(df):
     out["ema_slow"] = ta.trend.EMAIndicator(close=close, window=21, fillna=False).ema_indicator()
     out["rsi"] = ta.momentum.RSIIndicator(close=close, window=14, fillna=False).rsi()
     out["vol_ma"] = volume.rolling(20, min_periods=1).mean()
+    
+    # ADX: Measures trend strength (0-100)
+    # Required by strategy to avoid false signals in choppy markets
+    high = _to_1d_series(df.get("High"), index=idx)
+    low = _to_1d_series(df.get("Low"), index=idx)
+    out["adx"] = ta.trend.ADXIndicator(
+        high=high,
+        low=low,
+        close=close,
+        window=14,
+        fillna=False
+    ).adx()
 
     return out
