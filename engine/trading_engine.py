@@ -10,6 +10,10 @@ from logger import logger
 COOLDOWN_CYCLES    = 2    # 10 min cooldown after a loss exit (was 6 = 30 min)
 MAX_OPEN_POSITIONS = 4    # max simultaneous positions to focus capital
 
+# ── Consecutive Loss Breaker ──────────────────────────────────────
+CLB_TRIGGER        = 3    # pause after N losses in a row
+CLB_PAUSE_CYCLES   = 6    # how long to pause (6 cycles = 30 min)
+
 
 class TradingEngine:
 
@@ -20,6 +24,8 @@ class TradingEngine:
         self.last_prices     = {}
         self.cooldown        = {}
         self._cycle_count    = 0
+        self._consec_losses  = 0    # consecutive losing trades today
+        self._clb_pause      = 0    # cycles remaining in CLB pause
 
         # Opening Range Breakout tracking (per symbol)
         self._opening_ranges = {}     # {symbol: {"high": float, "low": float, "candles": int}}
@@ -57,6 +63,8 @@ class TradingEngine:
         self.last_prices     = {}
         self.cooldown        = {}
         self._cycle_count    = 0
+        self._consec_losses  = 0
+        self._clb_pause      = 0
         self._opening_ranges = {}     # reset ORB data
         self._orb_locked     = set()
         self._allow_new_buys = True
@@ -189,6 +197,14 @@ class TradingEngine:
                 del self.cooldown[sym]
                 logger.info(f"{sym} -> cooldown expired")
 
+        # ── Decrement CLB pause ───────────────────────────────────
+        if self._clb_pause > 0:
+            self._clb_pause -= 1
+            if self._clb_pause == 0:
+                logger.info(
+                    "✓ CLB pause lifted — new BUY entries allowed again."
+                )
+
         # ── Scan all symbols ──────────────────────────────────────
         for symbol in WATCHLIST:
             try:
@@ -230,11 +246,29 @@ class TradingEngine:
                     if symbol not in self.broker.positions and symbol in prev_pos:
                         last_trade = self.broker.trade_history[-1]
                         if last_trade["pnl"] < 0:
+                            # Per-symbol cooldown
                             self.cooldown[symbol] = COOLDOWN_CYCLES
                             logger.info(
                                 f"{symbol} -> loss exit, "
                                 f"cooldown {COOLDOWN_CYCLES} cycles"
                             )
+                            # Consecutive Loss Breaker counter
+                            self._consec_losses += 1
+                            if self._consec_losses >= CLB_TRIGGER and self._clb_pause == 0:
+                                self._clb_pause = CLB_PAUSE_CYCLES
+                                logger.warning(
+                                    f"⚠ CONSECUTIVE LOSS BREAKER triggered — "
+                                    f"{self._consec_losses} losses in a row. "
+                                    f"Pausing new BUYs for {CLB_PAUSE_CYCLES} cycles (30 min)."
+                                )
+                        else:
+                            # Winning trade — reset consecutive loss counter
+                            if self._consec_losses > 0:
+                                logger.info(
+                                    f"{symbol} -> win resets consecutive loss counter "
+                                    f"(was {self._consec_losses})"
+                                )
+                            self._consec_losses = 0
                         continue
 
                 # ── SELL signal ───────────────────────────────────
@@ -264,6 +298,12 @@ class TradingEngine:
                     )
                     if not self._allow_new_buys:
                         logger.info(f"{symbol} -> BUY blocked (after 3PM)")
+                        continue
+                    if self._clb_pause > 0:
+                        logger.info(
+                            f"{symbol} -> BUY blocked — CLB pause "
+                            f"{self._clb_pause} cycles left"
+                        )
                         continue
                     if not allow_buy:
                         logger.info(
