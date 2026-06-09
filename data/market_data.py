@@ -6,6 +6,53 @@ from logger import logger
 
 REQUIRED_COLUMNS = ["Open", "High", "Low", "Close", "Volume"]
 
+_bulk_data_cache = {}
+
+
+def prefetch_bulk_data(symbols: list, interval: str, period: str):
+    """
+    Fetch data for all symbols in parallel/bulk using yfinance.
+    Stores the result in the module-level cache dict.
+    """
+    global _bulk_data_cache
+    _bulk_data_cache.clear()
+    
+    try:
+        logger.info(f"Prefetching bulk data for {len(symbols)} tickers...")
+        df = yf.download(
+            tickers=symbols,
+            interval=interval,
+            period=period,
+            group_by="ticker",
+            threads=True,
+            progress=False,
+        )
+        if df is None or df.empty:
+            logger.warning("Bulk download returned empty DataFrame")
+            return
+
+        for symbol in symbols:
+            try:
+                if len(symbols) == 1:
+                    symbol_df = df
+                else:
+                    if isinstance(df.columns, pd.MultiIndex):
+                        if symbol in df.columns.levels[0]:
+                            symbol_df = df[symbol]
+                        else:
+                            symbol_df = None
+                    else:
+                        symbol_df = None
+                
+                if symbol_df is not None and not symbol_df.empty:
+                    _bulk_data_cache[symbol] = symbol_df.copy()
+            except Exception as e:
+                logger.error(f"Error caching bulk data for {symbol}: {e}")
+                
+        logger.info(f"Prefetched and cached data for {len(_bulk_data_cache)} / {len(symbols)} tickers")
+    except Exception as e:
+        logger.error(f"Bulk data prefetch failed: {e}", exc_info=True)
+
 
 def _normalize_dtypes(df: pd.DataFrame) -> pd.DataFrame:
     for col in REQUIRED_COLUMNS:
@@ -98,8 +145,10 @@ def fetch_nifty_trend() -> str:
     Always falls back to NEUTRAL on any error — never crashes the bot.
     """
     try:
-        ticker = yf.Ticker("^NSEI")
-        df = ticker.history(interval="5m", period="5d")
+        df = _bulk_data_cache.get("^NSEI")
+        if df is None or df.empty:
+            ticker = yf.Ticker("^NSEI")
+            df = ticker.history(interval="5m", period="5d")
 
         if df is None or df.empty or len(df) < 20:
             logger.warning("NIFTY data unavailable — defaulting to NEUTRAL")
@@ -140,7 +189,14 @@ def fetch_data(
     period: str   = "5d",
 ) -> pd.DataFrame | None:
     try:
-        df = _fetch_raw(symbol, interval, period)
+        import config
+        if interval == config.TIMEFRAME and period == config.PERIOD:
+            df = _bulk_data_cache.get(symbol)
+        else:
+            df = None
+
+        if df is None or df.empty:
+            df = _fetch_raw(symbol, interval, period)
 
         if df is None or df.empty:
             logger.warning(f"{symbol} -> empty data")

@@ -2,10 +2,10 @@ import config
 from logger import logger
 from storage.tradebook import log_trade
 
-STOP_LOSS_PCT   = 0.01   # 0.5% hard stop
-TAKE_PROFIT_PCT = 0.015   # 1.5% take profit
-TRAIL_ACTIVATE  = 0.007   # trailing kicks in after +0.7% gain
-TRAIL_DISTANCE  = 0.004   # trail 0.4% below highest seen
+STOP_LOSS_PCT   = 0.003     # 0.3% — cut losers fast
+TAKE_PROFIT_PCT = 0.005     # 0.5% — take small profits quickly
+TRAIL_ACTIVATE  = 0.003     # trailing kicks in after +0.3% gain
+TRAIL_DISTANCE  = 0.0015    # trail 0.15% below highest seen
 
 
 class PaperBroker:
